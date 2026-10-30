@@ -1,0 +1,720 @@
+[
+ {
+  "member_id": "M001",
+  "name": "Asha Rao",
+  "tier": "gold",
+  "zone": "A",
+  "enrolment_date": "2021-03-15",
+  "pre_existing": [],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 0,
+  "sex": "F"
+ },
+ {
+  "member_id": "M002",
+  "name": "Vikram Shah",
+  "tier": "platinum",
+  "zone": "A",
+  "enrolment_date": "2019-07-01",
+  "pre_existing": [
+   "hypertension"
+  ],
+  "deductible_met_ytd": 2500,
+  "oop_used_ytd": 4000,
+  "sex": "M"
+ },
+ {
+  "member_id": "M003",
+  "name": "Ravi Menon",
+  "tier": "silver",
+  "zone": "B",
+  "enrolment_date": "2023-11-01",
+  "pre_existing": [
+   "diabetes"
+  ],
+  "deductible_met_ytd": 4000,
+  "oop_used_ytd": 12000,
+  "sex": "M"
+ },
+ {
+  "member_id": "M004",
+  "name": "Priya Nair",
+  "tier": "bronze",
+  "zone": "C",
+  "enrolment_date": "2024-12-10",
+  "pre_existing": [],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 0,
+  "sex": "F"
+ },
+ {
+  "member_id": "M005",
+  "name": "Arjun Iyer",
+  "tier": "gold",
+  "zone": "D",
+  "enrolment_date": "2025-02-01",
+  "pre_existing": [
+   "asthma"
+  ],
+  "deductible_met_ytd": 5000,
+  "oop_used_ytd": 9000,
+  "sex": "M"
+ },
+ {
+  "member_id": "M006",
+  "name": "Meera Pillai",
+  "tier": "silver",
+  "zone": "E",
+  "enrolment_date": "2024-06-20",
+  "pre_existing": [],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 0,
+  "sex": "F"
+ },
+ {
+  "member_id": "M007",
+  "name": "Karan Malhotra",
+  "tier": "platinum",
+  "zone": "B",
+  "enrolment_date": "2022-09-05",
+  "pre_existing": [
+   "thyroid disorder"
+  ],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 0,
+  "sex": "M"
+ },
+ {
+  "member_id": "M008",
+  "name": "Sneha Kulkarni",
+  "tier": "bronze",
+  "zone": "E",
+  "enrolment_date": "2023-04-18",
+  "pre_existing": [
+   "hypertension"
+  ],
+  "deductible_met_ytd": 10000,
+  "oop_used_ytd": 26000,
+  "sex": "F"
+ },
+ {
+  "member_id": "M009",
+  "name": "Rahul Verma",
+  "tier": "gold",
+  "zone": "B",
+  "enrolment_date": "2020-01-12",
+  "pre_existing": [],
+  "deductible_met_ytd": 7500,
+  "oop_used_ytd": 31000,
+  "sex": "M"
+ },
+ {
+  "member_id": "M010",
+  "name": "Divya Reddy",
+  "tier": "silver",
+  "zone": "C",
+  "enrolment_date": "2025-01-15",
+  "pre_existing": [
+   "diabetes"
+  ],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 0,
+  "sex": "F"
+ },
+ {
+  "member_id": "M011",
+  "name": "Imran Qureshi",
+  "tier": "platinum",
+  "zone": "E",
+  "enrolment_date": "2018-04-02",
+  "pre_existing": [],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 2000,
+  "sex": "M"
+ },
+ {
+  "member_id": "M012",
+  "name": "Lakshmi Das",
+  "tier": "bronze",
+  "zone": "A",
+  "enrolment_date": "2025-08-01",
+  "pre_existing": [],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 0,
+  "sex": "F"
+ },
+ {
+  "member_id": "M013",
+  "name": "Farah Khan",
+  "tier": "silver",
+  "zone": "D",
+  "enrolment_date": "2024-03-01",
+  "pre_existing": [
+   "asthma"
+  ],
+  "deductible_met_ytd": 2000,
+  "oop_used_ytd": 3500,
+  "sex": "F"
+ },
+ {
+  "member_id": "M014",
+  "name": "Suresh Gupta",
+  "tier": "gold",
+  "zone": "E",
+  "enrolment_date": "2023-10-31",
+  "pre_existing": [
+   "arthritis"
+  ],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 0,
+  "sex": "M"
+ },
+ {
+  "member_id": "M015",
+  "name": "Ananya Bose",
+  "tier": "bronze",
+  "zone": "D",
+  "enrolment_date": "2022-11-30",
+  "pre_existing": [],
+  "deductible_met_ytd": 12500,
+  "oop_used_ytd": 40000,
+  "sex": "F"
+ },
+ {
+  "member_id": "M016",
+  "name": "Leela Patel",
+  "tier": "bronze",
+  "zone": "C",
+  "enrolment_date": "2024-04-28",
+  "pre_existing": [
+   "asthma"
+  ],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 2000,
+  "sex": "F"
+ },
+ {
+  "member_id": "M017",
+  "name": "Leela Saxena",
+  "tier": "bronze",
+  "zone": "B",
+  "enrolment_date": "2019-05-31",
+  "pre_existing": [
+   "hypertension"
+  ],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 5000,
+  "sex": "F"
+ },
+ {
+  "member_id": "M018",
+  "name": "Chitra Patel",
+  "tier": "silver",
+  "zone": "D",
+  "enrolment_date": "2020-03-31",
+  "pre_existing": [],
+  "deductible_met_ytd": 15000,
+  "oop_used_ytd": 20000,
+  "sex": "F"
+ },
+ {
+  "member_id": "M019",
+  "name": "Jaya Desai",
+  "tier": "bronze",
+  "zone": "E",
+  "enrolment_date": "2023-07-02",
+  "pre_existing": [],
+  "deductible_met_ytd": 10000,
+  "oop_used_ytd": 12000,
+  "sex": "F"
+ },
+ {
+  "member_id": "M020",
+  "name": "Tarun Rao",
+  "tier": "silver",
+  "zone": "D",
+  "enrolment_date": "2022-04-05",
+  "pre_existing": [],
+  "deductible_met_ytd": 7500,
+  "oop_used_ytd": 12500,
+  "sex": "M"
+ },
+ {
+  "member_id": "M021",
+  "name": "Hari Naidu",
+  "tier": "silver",
+  "zone": "B",
+  "enrolment_date": "2020-07-04",
+  "pre_existing": [
+   "asthma"
+  ],
+  "deductible_met_ytd": 17500,
+  "oop_used_ytd": 17500,
+  "sex": "M"
+ },
+ {
+  "member_id": "M022",
+  "name": "Kavya Thomas",
+  "tier": "bronze",
+  "zone": "A",
+  "enrolment_date": "2023-02-25",
+  "pre_existing": [
+   "arthritis"
+  ],
+  "deductible_met_ytd": 25000,
+  "oop_used_ytd": 27000,
+  "sex": "F"
+ },
+ {
+  "member_id": "M023",
+  "name": "Deepa Bhat",
+  "tier": "silver",
+  "zone": "C",
+  "enrolment_date": "2019-05-07",
+  "pre_existing": [],
+  "deductible_met_ytd": 6250,
+  "oop_used_ytd": 11250,
+  "sex": "F"
+ },
+ {
+  "member_id": "M024",
+  "name": "Hari Agarwal",
+  "tier": "bronze",
+  "zone": "A",
+  "enrolment_date": "2024-08-09",
+  "pre_existing": [],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 5000,
+  "sex": "M"
+ },
+ {
+  "member_id": "M025",
+  "name": "Kiran Sethi",
+  "tier": "bronze",
+  "zone": "B",
+  "enrolment_date": "2024-02-05",
+  "pre_existing": [],
+  "deductible_met_ytd": 20000,
+  "oop_used_ytd": 28000,
+  "sex": "M"
+ },
+ {
+  "member_id": "M026",
+  "name": "Gopal Mehta",
+  "tier": "bronze",
+  "zone": "A",
+  "enrolment_date": "2024-02-17",
+  "pre_existing": [
+   "diabetes"
+  ],
+  "deductible_met_ytd": 12500,
+  "oop_used_ytd": 17500,
+  "sex": "M"
+ },
+ {
+  "member_id": "M027",
+  "name": "Kavya Varma",
+  "tier": "silver",
+  "zone": "A",
+  "enrolment_date": "2018-03-24",
+  "pre_existing": [],
+  "deductible_met_ytd": 17500,
+  "oop_used_ytd": 19500,
+  "sex": "F"
+ },
+ {
+  "member_id": "M028",
+  "name": "Jaya Varma",
+  "tier": "gold",
+  "zone": "E",
+  "enrolment_date": "2019-01-20",
+  "pre_existing": [
+   "arthritis"
+  ],
+  "deductible_met_ytd": 5000,
+  "oop_used_ytd": 13000,
+  "sex": "F"
+ },
+ {
+  "member_id": "M029",
+  "name": "Bhavna Saxena",
+  "tier": "gold",
+  "zone": "B",
+  "enrolment_date": "2019-06-01",
+  "pre_existing": [],
+  "deductible_met_ytd": 2500,
+  "oop_used_ytd": 7500,
+  "sex": "F"
+ },
+ {
+  "member_id": "M030",
+  "name": "Tara Chopra",
+  "tier": "gold",
+  "zone": "D",
+  "enrolment_date": "2021-06-02",
+  "pre_existing": [
+   "thyroid disorder"
+  ],
+  "deductible_met_ytd": 5000,
+  "oop_used_ytd": 10000,
+  "sex": "F"
+ },
+ {
+  "member_id": "M031",
+  "name": "Uma Fernandes",
+  "tier": "bronze",
+  "zone": "E",
+  "enrolment_date": "2020-10-25",
+  "pre_existing": [],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 0,
+  "sex": "F"
+ },
+ {
+  "member_id": "M032",
+  "name": "Ajay Yadav",
+  "tier": "bronze",
+  "zone": "D",
+  "enrolment_date": "2019-03-01",
+  "pre_existing": [],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 5000,
+  "sex": "M"
+ },
+ {
+  "member_id": "M033",
+  "name": "Aditi Sethi",
+  "tier": "platinum",
+  "zone": "C",
+  "enrolment_date": "2024-02-07",
+  "pre_existing": [],
+  "deductible_met_ytd": 5000,
+  "oop_used_ytd": 7000,
+  "sex": "F"
+ },
+ {
+  "member_id": "M034",
+  "name": "Varun Kapoor",
+  "tier": "platinum",
+  "zone": "E",
+  "enrolment_date": "2020-04-25",
+  "pre_existing": [],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 8000,
+  "sex": "M"
+ },
+ {
+  "member_id": "M035",
+  "name": "Nisha Naidu",
+  "tier": "bronze",
+  "zone": "A",
+  "enrolment_date": "2019-08-31",
+  "pre_existing": [],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 2000,
+  "sex": "F"
+ },
+ {
+  "member_id": "M036",
+  "name": "Kavya Chopra",
+  "tier": "platinum",
+  "zone": "B",
+  "enrolment_date": "2018-02-20",
+  "pre_existing": [
+   "hypertension"
+  ],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 2000,
+  "sex": "F"
+ },
+ {
+  "member_id": "M037",
+  "name": "Tarun Patel",
+  "tier": "silver",
+  "zone": "B",
+  "enrolment_date": "2022-10-04",
+  "pre_existing": [],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 0,
+  "sex": "M"
+ },
+ {
+  "member_id": "M038",
+  "name": "Ramesh Hegde",
+  "tier": "bronze",
+  "zone": "E",
+  "enrolment_date": "2021-10-10",
+  "pre_existing": [
+   "arthritis"
+  ],
+  "deductible_met_ytd": 20000,
+  "oop_used_ytd": 22000,
+  "sex": "M"
+ },
+ {
+  "member_id": "M039",
+  "name": "Isha Rao",
+  "tier": "silver",
+  "zone": "A",
+  "enrolment_date": "2018-03-05",
+  "pre_existing": [],
+  "deductible_met_ytd": 8750,
+  "oop_used_ytd": 16750,
+  "sex": "F"
+ },
+ {
+  "member_id": "M040",
+  "name": "Tarun Chopra",
+  "tier": "platinum",
+  "zone": "E",
+  "enrolment_date": "2023-10-01",
+  "pre_existing": [
+   "arthritis"
+  ],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 8000,
+  "sex": "M"
+ },
+ {
+  "member_id": "M041",
+  "name": "Ajay Rao",
+  "tier": "gold",
+  "zone": "D",
+  "enrolment_date": "2020-12-30",
+  "pre_existing": [
+   "arthritis"
+  ],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 2000,
+  "sex": "M"
+ },
+ {
+  "member_id": "M042",
+  "name": "Pranav Saxena",
+  "tier": "bronze",
+  "zone": "C",
+  "enrolment_date": "2020-01-05",
+  "pre_existing": [
+   "hypertension"
+  ],
+  "deductible_met_ytd": 10000,
+  "oop_used_ytd": 15000,
+  "sex": "M"
+ },
+ {
+  "member_id": "M043",
+  "name": "Sunil Yadav",
+  "tier": "bronze",
+  "zone": "E",
+  "enrolment_date": "2023-09-24",
+  "pre_existing": [
+   "asthma"
+  ],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 0,
+  "sex": "M"
+ },
+ {
+  "member_id": "M044",
+  "name": "Varun Menon",
+  "tier": "gold",
+  "zone": "E",
+  "enrolment_date": "2022-02-10",
+  "pre_existing": [],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 5000,
+  "sex": "M"
+ },
+ {
+  "member_id": "M045",
+  "name": "Uma Desai",
+  "tier": "silver",
+  "zone": "D",
+  "enrolment_date": "2024-09-03",
+  "pre_existing": [],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 0,
+  "sex": "F"
+ },
+ {
+  "member_id": "M046",
+  "name": "Nikhil Fernandes",
+  "tier": "silver",
+  "zone": "A",
+  "enrolment_date": "2022-09-25",
+  "pre_existing": [
+   "hypertension"
+  ],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 2000,
+  "sex": "M"
+ },
+ {
+  "member_id": "M047",
+  "name": "Tara Chopra",
+  "tier": "gold",
+  "zone": "C",
+  "enrolment_date": "2022-07-28",
+  "pre_existing": [
+   "asthma"
+  ],
+  "deductible_met_ytd": 10000,
+  "oop_used_ytd": 10000,
+  "sex": "F"
+ },
+ {
+  "member_id": "M048",
+  "name": "Manoj Rao",
+  "tier": "platinum",
+  "zone": "A",
+  "enrolment_date": "2021-02-10",
+  "pre_existing": [],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 8000,
+  "sex": "M"
+ },
+ {
+  "member_id": "M049",
+  "name": "Kiran Joshi",
+  "tier": "platinum",
+  "zone": "E",
+  "enrolment_date": "2021-08-21",
+  "pre_existing": [
+   "hypertension"
+  ],
+  "deductible_met_ytd": 2500,
+  "oop_used_ytd": 7500,
+  "sex": "M"
+ },
+ {
+  "member_id": "M050",
+  "name": "Bala Yadav",
+  "tier": "platinum",
+  "zone": "D",
+  "enrolment_date": "2021-02-22",
+  "pre_existing": [
+   "diabetes"
+  ],
+  "deductible_met_ytd": 2500,
+  "oop_used_ytd": 2500,
+  "sex": "M"
+ },
+ {
+  "member_id": "M051",
+  "name": "Pranav Yadav",
+  "tier": "bronze",
+  "zone": "B",
+  "enrolment_date": "2020-09-06",
+  "pre_existing": [
+   "diabetes"
+  ],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 2000,
+  "sex": "M"
+ },
+ {
+  "member_id": "M052",
+  "name": "Varun Patel",
+  "tier": "platinum",
+  "zone": "B",
+  "enrolment_date": "2025-02-23",
+  "pre_existing": [
+   "hypertension"
+  ],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 2000,
+  "sex": "M"
+ },
+ {
+  "member_id": "M053",
+  "name": "Rohit Varma",
+  "tier": "platinum",
+  "zone": "C",
+  "enrolment_date": "2022-01-22",
+  "pre_existing": [],
+  "deductible_met_ytd": 5000,
+  "oop_used_ytd": 13000,
+  "sex": "M"
+ },
+ {
+  "member_id": "M054",
+  "name": "Tara Agarwal",
+  "tier": "silver",
+  "zone": "C",
+  "enrolment_date": "2023-09-27",
+  "pre_existing": [],
+  "deductible_met_ytd": 12500,
+  "oop_used_ytd": 20500,
+  "sex": "F"
+ },
+ {
+  "member_id": "M055",
+  "name": "Manoj Saxena",
+  "tier": "silver",
+  "zone": "D",
+  "enrolment_date": "2022-12-02",
+  "pre_existing": [
+   "diabetes"
+  ],
+  "deductible_met_ytd": 7500,
+  "oop_used_ytd": 15500,
+  "sex": "M"
+ },
+ {
+  "member_id": "M056",
+  "name": "Kiran Thomas",
+  "tier": "bronze",
+  "zone": "E",
+  "enrolment_date": "2021-01-25",
+  "pre_existing": [],
+  "deductible_met_ytd": 10000,
+  "oop_used_ytd": 10000,
+  "sex": "M"
+ },
+ {
+  "member_id": "M057",
+  "name": "Chetan Naidu",
+  "tier": "gold",
+  "zone": "A",
+  "enrolment_date": "2024-09-29",
+  "pre_existing": [],
+  "deductible_met_ytd": 5000,
+  "oop_used_ytd": 10000,
+  "sex": "M"
+ },
+ {
+  "member_id": "M058",
+  "name": "Hema Menon",
+  "tier": "gold",
+  "zone": "A",
+  "enrolment_date": "2022-06-26",
+  "pre_existing": [],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 0,
+  "sex": "F"
+ },
+ {
+  "member_id": "M059",
+  "name": "Gopal Rao",
+  "tier": "silver",
+  "zone": "E",
+  "enrolment_date": "2019-05-13",
+  "pre_existing": [],
+  "deductible_met_ytd": 15000,
+  "oop_used_ytd": 15000,
+  "sex": "M"
+ },
+ {
+  "member_id": "M060",
+  "name": "Pranav Chopra",
+  "tier": "bronze",
+  "zone": "B",
+  "enrolment_date": "2025-06-19",
+  "pre_existing": [
+   "hypertension"
+  ],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 0,
+  "sex": "M"
+ }
+]

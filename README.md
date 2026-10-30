@@ -50,3 +50,26 @@ On Google Colab, use `notebooks/ClaimCheck_Colab.ipynb` (secrets go in the Colab
 ## Demo users
 Members M001–M015 cover every tier and zone. M003 (Silver, zone B) has a declared pre-existing condition and a
 rejected claim C0031 to appeal. Sign in as **Claims reviewer** to confirm or reject draft appeals.
+
+## ClaimDesk: multi-agent claims adjudication (in progress)
+
+ClaimDesk decides a submitted claim (approve, part-pay, reject or pend, in ₹) with a team of agents, and a
+claims reviewer confirms every draft. It reuses ClaimCheck's corpus, calculator, guard, LLM client and tracing.
+Specification: [ClaimDesk spec](https://claude.ai/artifact/NWvSYPJBZAhQ3ANFM2TVq8). Design notes: `docs/CLAIMDESK.md`.
+
+```
+python scripts/build_claims.py                         # members, hospitals, codes, 800 past claims, test + dev claims
+python scripts/decide_claim.py CL2001                  # one claim, with every agent's tool calls
+python scripts/run_claimdesk_eval.py --system full     # 33 dev claims (tune prompts here, never on test)
+python -m streamlit run app/claimdesk_app.py           # reviewer app
+```
+
+| Code | What it does |
+| --- | --- |
+| `src/claimdesk/gen.py` | Seeded claims: 150 test (frozen for official runs) + 33 dev, gold labels from the rules |
+| `src/claimdesk/tools.py` | 9 tools, each limited to the one claim being decided |
+| `src/claimdesk/agents.py` | Intake, Policy, Coding, Fraud, Adjudicator, Letter writer: prompts, loops, budgets |
+| `src/claimdesk/rules.py` | Hard decision rules in code; the gold labels use the same rules |
+| `src/claimdesk/orchestrator.py` | Intake, then 3 specialists in parallel, rules, Adjudicator, letter, draft store |
+| `src/claimdesk/baselines.py` | System A (one prompt) and B (one agent, all tools) |
+| `src/claimdesk/evaluate.py` | Scoring, ablation systems A-D, failure taxonomy |

@@ -1,0 +1,362 @@
+[
+ {
+  "hospital_id": "H01",
+  "name": "Mumbai General Hospital",
+  "city": "Mumbai",
+  "zone": "A",
+  "network": true,
+  "tariff_band": 1.3,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H02",
+  "name": "Mumbai Care Hospital",
+  "city": "Mumbai",
+  "zone": "A",
+  "network": true,
+  "tariff_band": 1.3,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H03",
+  "name": "Delhi General Hospital",
+  "city": "Delhi",
+  "zone": "A",
+  "network": true,
+  "tariff_band": 1.3,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H04",
+  "name": "Delhi Care Hospital",
+  "city": "Delhi",
+  "zone": "A",
+  "network": false,
+  "tariff_band": 1.3,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H05",
+  "name": "Bengaluru General Hospital",
+  "city": "Bengaluru",
+  "zone": "A",
+  "network": true,
+  "tariff_band": 1.3,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H06",
+  "name": "Bengaluru Care Hospital",
+  "city": "Bengaluru",
+  "zone": "A",
+  "network": true,
+  "tariff_band": 1.3,
+  "watchlist": true
+ },
+ {
+  "hospital_id": "H07",
+  "name": "Chennai General Hospital",
+  "city": "Chennai",
+  "zone": "A",
+  "network": true,
+  "tariff_band": 1.3,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H08",
+  "name": "Chennai Care Hospital",
+  "city": "Chennai",
+  "zone": "A",
+  "network": true,
+  "tariff_band": 1.3,
+  "watchlist": true
+ },
+ {
+  "hospital_id": "H09",
+  "name": "Pune General Hospital",
+  "city": "Pune",
+  "zone": "B",
+  "network": false,
+  "tariff_band": 1.2,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H10",
+  "name": "Pune Care Hospital",
+  "city": "Pune",
+  "zone": "B",
+  "network": true,
+  "tariff_band": 1.2,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H11",
+  "name": "Hyderabad General Hospital",
+  "city": "Hyderabad",
+  "zone": "B",
+  "network": true,
+  "tariff_band": 1.2,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H12",
+  "name": "Hyderabad Care Hospital",
+  "city": "Hyderabad",
+  "zone": "B",
+  "network": true,
+  "tariff_band": 1.2,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H13",
+  "name": "Ahmedabad General Hospital",
+  "city": "Ahmedabad",
+  "zone": "B",
+  "network": true,
+  "tariff_band": 1.2,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H14",
+  "name": "Ahmedabad Care Hospital",
+  "city": "Ahmedabad",
+  "zone": "B",
+  "network": true,
+  "tariff_band": 1.2,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H15",
+  "name": "Kolkata General Hospital",
+  "city": "Kolkata",
+  "zone": "B",
+  "network": true,
+  "tariff_band": 1.2,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H16",
+  "name": "Kolkata Care Hospital",
+  "city": "Kolkata",
+  "zone": "B",
+  "network": true,
+  "tariff_band": 1.2,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H17",
+  "name": "Kochi General Hospital",
+  "city": "Kochi",
+  "zone": "C",
+  "network": true,
+  "tariff_band": 1.1,
+  "watchlist": true
+ },
+ {
+  "hospital_id": "H18",
+  "name": "Kochi Care Hospital",
+  "city": "Kochi",
+  "zone": "C",
+  "network": true,
+  "tariff_band": 1.1,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H19",
+  "name": "Jaipur General Hospital",
+  "city": "Jaipur",
+  "zone": "C",
+  "network": true,
+  "tariff_band": 1.1,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H20",
+  "name": "Jaipur Care Hospital",
+  "city": "Jaipur",
+  "zone": "C",
+  "network": true,
+  "tariff_band": 1.1,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H21",
+  "name": "Lucknow General Hospital",
+  "city": "Lucknow",
+  "zone": "C",
+  "network": true,
+  "tariff_band": 1.1,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H22",
+  "name": "Lucknow Care Hospital",
+  "city": "Lucknow",
+  "zone": "C",
+  "network": false,
+  "tariff_band": 1.1,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H23",
+  "name": "Indore General Hospital",
+  "city": "Indore",
+  "zone": "C",
+  "network": false,
+  "tariff_band": 1.1,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H24",
+  "name": "Indore Care Hospital",
+  "city": "Indore",
+  "zone": "C",
+  "network": true,
+  "tariff_band": 1.1,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H25",
+  "name": "Mysuru General Hospital",
+  "city": "Mysuru",
+  "zone": "D",
+  "network": true,
+  "tariff_band": 1.0,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H26",
+  "name": "Mysuru Care Hospital",
+  "city": "Mysuru",
+  "zone": "D",
+  "network": true,
+  "tariff_band": 1.0,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H27",
+  "name": "Nashik General Hospital",
+  "city": "Nashik",
+  "zone": "D",
+  "network": true,
+  "tariff_band": 1.0,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H28",
+  "name": "Nashik Care Hospital",
+  "city": "Nashik",
+  "zone": "D",
+  "network": true,
+  "tariff_band": 1.0,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H29",
+  "name": "Udupi General Hospital",
+  "city": "Udupi",
+  "zone": "D",
+  "network": true,
+  "tariff_band": 1.0,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H30",
+  "name": "Udupi Care Hospital",
+  "city": "Udupi",
+  "zone": "D",
+  "network": true,
+  "tariff_band": 1.0,
+  "watchlist": true
+ },
+ {
+  "hospital_id": "H31",
+  "name": "Guntur General Hospital",
+  "city": "Guntur",
+  "zone": "D",
+  "network": false,
+  "tariff_band": 1.0,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H32",
+  "name": "Guntur Care Hospital",
+  "city": "Guntur",
+  "zone": "D",
+  "network": true,
+  "tariff_band": 1.0,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H33",
+  "name": "Wayanad General Hospital",
+  "city": "Wayanad",
+  "zone": "E",
+  "network": true,
+  "tariff_band": 1.0,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H34",
+  "name": "Wayanad Care Hospital",
+  "city": "Wayanad",
+  "zone": "E",
+  "network": true,
+  "tariff_band": 1.0,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H35",
+  "name": "Bastar General Hospital",
+  "city": "Bastar",
+  "zone": "E",
+  "network": false,
+  "tariff_band": 1.0,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H36",
+  "name": "Bastar Care Hospital",
+  "city": "Bastar",
+  "zone": "E",
+  "network": false,
+  "tariff_band": 1.0,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H37",
+  "name": "Ziro General Hospital",
+  "city": "Ziro",
+  "zone": "E",
+  "network": true,
+  "tariff_band": 1.0,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H38",
+  "name": "Ziro Care Hospital",
+  "city": "Ziro",
+  "zone": "E",
+  "network": false,
+  "tariff_band": 1.0,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H39",
+  "name": "Kutch General Hospital",
+  "city": "Kutch",
+  "zone": "E",
+  "network": true,
+  "tariff_band": 1.0,
+  "watchlist": false
+ },
+ {
+  "hospital_id": "H40",
+  "name": "Kutch Care Hospital",
+  "city": "Kutch",
+  "zone": "E",
+  "network": true,
+  "tariff_band": 1.0,
+  "watchlist": false
+ }
+]

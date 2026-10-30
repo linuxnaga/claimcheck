@@ -74,6 +74,7 @@ class LLM:
         self._local_embedder = None
         self.use_response_format = True
         self.use_cache = config.USE_CACHE
+        self.rate_limit_hits = 0     # HTTP 429 replies seen (ClaimDesk's pacer reads this)
 
     @property
     def client(self):
@@ -114,18 +115,26 @@ class LLM:
                     kwargs.pop("response_format")
                     self.use_response_format = False
                     continue
+                if status == 429:
+                    self.rate_limit_hits += 1
                 if status is not None and status < 500 and status != 429:
                     break                                   # 401, 403, 404...: retrying will not help
                 time.sleep(retry_wait(e, attempt))          # rate limit (429), timeout or server error
         raise EndpointError(f"endpoint call failed: {last}")
 
     # ---- cached call --------------------------------------------------------
+    def cache_path(self, messages, temperature=0.0, max_tokens=600):
+        key = hashlib.sha256(json.dumps(
+            [config.LLM_MODEL, messages, temperature, max_tokens], sort_keys=True).encode()).hexdigest()
+        return config.CACHE_DIR / f"{key}.json"
+
+    def is_cached(self, messages, temperature=0.0, max_tokens=600):
+        return self.use_cache and temperature == 0 and self.cache_path(messages, temperature, max_tokens).exists()
+
     def chat(self, messages, usage=None, temperature=0.0, max_tokens=600, json_mode=False):
         if usage is not None and usage.total > config.TOKEN_BUDGET:
             raise BudgetExceeded(f"token budget {config.TOKEN_BUDGET} exceeded")
-        key = hashlib.sha256(json.dumps(
-            [config.LLM_MODEL, messages, temperature, max_tokens], sort_keys=True).encode()).hexdigest()
-        path = config.CACHE_DIR / f"{key}.json"
+        path = self.cache_path(messages, temperature, max_tokens)
         if self.use_cache and temperature == 0 and path.exists():
             d = json.loads(path.read_text(encoding="utf-8"))
             return d["text"]

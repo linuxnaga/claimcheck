@@ -1,0 +1,8002 @@
+[
+ {
+  "claim_id": "P0001",
+  "member_id": "M025",
+  "hospital_id": "H13",
+  "admission_date": "2024-05-05",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR014",
+  "billed_total": 74900,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0002",
+  "member_id": "M023",
+  "hospital_id": "H02",
+  "admission_date": "2025-08-31",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR109",
+  "billed_total": 104200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0003",
+  "member_id": "M038",
+  "hospital_id": "H27",
+  "admission_date": "2025-06-09",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR093",
+  "billed_total": 46500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0004",
+  "member_id": "M032",
+  "hospital_id": "H34",
+  "admission_date": "2024-01-22",
+  "diagnosis_code": "DX19",
+  "procedure_code": "PR057",
+  "billed_total": 47100,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0005",
+  "member_id": "M012",
+  "hospital_id": "H26",
+  "admission_date": "2025-04-29",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR001",
+  "billed_total": 161400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0006",
+  "member_id": "M044",
+  "hospital_id": "H33",
+  "admission_date": "2024-03-19",
+  "diagnosis_code": "DX40",
+  "procedure_code": "PR118",
+  "billed_total": 230400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0007",
+  "member_id": "M039",
+  "hospital_id": "H05",
+  "admission_date": "2025-01-06",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR115",
+  "billed_total": 131100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0008",
+  "member_id": "M011",
+  "hospital_id": "H10",
+  "admission_date": "2025-07-21",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR104",
+  "billed_total": 97000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0009",
+  "member_id": "M018",
+  "hospital_id": "H16",
+  "admission_date": "2025-03-07",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR113",
+  "billed_total": 104900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0010",
+  "member_id": "M017",
+  "hospital_id": "H20",
+  "admission_date": "2025-03-27",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR095",
+  "billed_total": 48700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0011",
+  "member_id": "M056",
+  "hospital_id": "H03",
+  "admission_date": "2025-05-29",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR001",
+  "billed_total": 207600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0012",
+  "member_id": "M033",
+  "hospital_id": "H15",
+  "admission_date": "2024-10-13",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR024",
+  "billed_total": 37900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0013",
+  "member_id": "M006",
+  "hospital_id": "H12",
+  "admission_date": "2024-02-21",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR110",
+  "billed_total": 75000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0014",
+  "member_id": "M023",
+  "hospital_id": "H12",
+  "admission_date": "2025-01-30",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR013",
+  "billed_total": 225300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0015",
+  "member_id": "M004",
+  "hospital_id": "H24",
+  "admission_date": "2025-01-14",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR026",
+  "billed_total": 68300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0016",
+  "member_id": "M034",
+  "hospital_id": "H12",
+  "admission_date": "2025-05-10",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR109",
+  "billed_total": 130600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0017",
+  "member_id": "M026",
+  "hospital_id": "H33",
+  "admission_date": "2024-04-11",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR098",
+  "billed_total": 61800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0018",
+  "member_id": "M021",
+  "hospital_id": "H14",
+  "admission_date": "2025-07-02",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR011",
+  "billed_total": 61100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0019",
+  "member_id": "M055",
+  "hospital_id": "H10",
+  "admission_date": "2024-12-13",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR116",
+  "billed_total": 88100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0020",
+  "member_id": "M055",
+  "hospital_id": "H25",
+  "admission_date": "2025-04-15",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR099",
+  "billed_total": 37900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0021",
+  "member_id": "M036",
+  "hospital_id": "H13",
+  "admission_date": "2025-05-22",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR060",
+  "billed_total": 36600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0022",
+  "member_id": "M055",
+  "hospital_id": "H37",
+  "admission_date": "2024-06-07",
+  "diagnosis_code": "DX10",
+  "procedure_code": "PR029",
+  "billed_total": 64600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0023",
+  "member_id": "M001",
+  "hospital_id": "H16",
+  "admission_date": "2024-10-23",
+  "diagnosis_code": "DX16",
+  "procedure_code": "PR046",
+  "billed_total": 251800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0024",
+  "member_id": "M011",
+  "hospital_id": "H07",
+  "admission_date": "2024-08-11",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR112",
+  "billed_total": 143700,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0025",
+  "member_id": "M039",
+  "hospital_id": "H15",
+  "admission_date": "2024-08-01",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR003",
+  "billed_total": 35200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0026",
+  "member_id": "M057",
+  "hospital_id": "H21",
+  "admission_date": "2024-01-30",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR091",
+  "billed_total": 249000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0027",
+  "member_id": "M040",
+  "hospital_id": "H29",
+  "admission_date": "2025-07-15",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR090",
+  "billed_total": 46500,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0028",
+  "member_id": "M012",
+  "hospital_id": "H02",
+  "admission_date": "2024-11-27",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR034",
+  "billed_total": 306900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0029",
+  "member_id": "M004",
+  "hospital_id": "H34",
+  "admission_date": "2024-07-19",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR110",
+  "billed_total": 49600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0030",
+  "member_id": "M013",
+  "hospital_id": "H01",
+  "admission_date": "2025-08-11",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR002",
+  "billed_total": 97400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0031",
+  "member_id": "M004",
+  "hospital_id": "H10",
+  "admission_date": "2024-08-19",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR089",
+  "billed_total": 96300,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0032",
+  "member_id": "M045",
+  "hospital_id": "H29",
+  "admission_date": "2025-02-20",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR089",
+  "billed_total": 78800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0033",
+  "member_id": "M029",
+  "hospital_id": "H20",
+  "admission_date": "2025-01-24",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR100",
+  "billed_total": 132700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0034",
+  "member_id": "M007",
+  "hospital_id": "H27",
+  "admission_date": "2025-06-06",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR091",
+  "billed_total": 291000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0035",
+  "member_id": "M056",
+  "hospital_id": "H28",
+  "admission_date": "2024-09-27",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR013",
+  "billed_total": 199300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0036",
+  "member_id": "M040",
+  "hospital_id": "H19",
+  "admission_date": "2025-03-24",
+  "diagnosis_code": "DX16",
+  "procedure_code": "PR047",
+  "billed_total": 75500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0037",
+  "member_id": "M016",
+  "hospital_id": "H07",
+  "admission_date": "2024-08-31",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR039",
+  "billed_total": 66300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0038",
+  "member_id": "M014",
+  "hospital_id": "H18",
+  "admission_date": "2025-05-19",
+  "diagnosis_code": "DX40",
+  "procedure_code": "PR119",
+  "billed_total": 72000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0039",
+  "member_id": "M010",
+  "hospital_id": "H03",
+  "admission_date": "2024-01-07",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR109",
+  "billed_total": 96000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0040",
+  "member_id": "M056",
+  "hospital_id": "H15",
+  "admission_date": "2025-07-12",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR023",
+  "billed_total": 79000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0041",
+  "member_id": "M045",
+  "hospital_id": "H14",
+  "admission_date": "2025-05-21",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR097",
+  "billed_total": 231800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0042",
+  "member_id": "M058",
+  "hospital_id": "H25",
+  "admission_date": "2025-01-15",
+  "diagnosis_code": "DX16",
+  "procedure_code": "PR046",
+  "billed_total": 274400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0043",
+  "member_id": "M006",
+  "hospital_id": "H28",
+  "admission_date": "2025-04-25",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR015",
+  "billed_total": 32900,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0044",
+  "member_id": "M028",
+  "hospital_id": "H27",
+  "admission_date": "2025-08-20",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR099",
+  "billed_total": 49100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0045",
+  "member_id": "M035",
+  "hospital_id": "H07",
+  "admission_date": "2024-01-29",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR114",
+  "billed_total": 43300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0046",
+  "member_id": "M033",
+  "hospital_id": "H27",
+  "admission_date": "2024-07-14",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR113",
+  "billed_total": 85500,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0047",
+  "member_id": "M015",
+  "hospital_id": "H19",
+  "admission_date": "2025-02-04",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR007",
+  "billed_total": 134200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0048",
+  "member_id": "M034",
+  "hospital_id": "H02",
+  "admission_date": "2024-10-07",
+  "diagnosis_code": "DX10",
+  "procedure_code": "PR028",
+  "billed_total": 181700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0049",
+  "member_id": "M044",
+  "hospital_id": "H32",
+  "admission_date": "2025-06-24",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR101",
+  "billed_total": 78800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0050",
+  "member_id": "M011",
+  "hospital_id": "H13",
+  "admission_date": "2024-05-14",
+  "diagnosis_code": "DX14",
+  "procedure_code": "PR042",
+  "billed_total": 62600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0051",
+  "member_id": "M007",
+  "hospital_id": "H40",
+  "admission_date": "2024-03-01",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR059",
+  "billed_total": 85600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0052",
+  "member_id": "M032",
+  "hospital_id": "H11",
+  "admission_date": "2025-01-07",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR098",
+  "billed_total": 63500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0053",
+  "member_id": "M039",
+  "hospital_id": "H14",
+  "admission_date": "2025-08-04",
+  "diagnosis_code": "DX14",
+  "procedure_code": "PR040",
+  "billed_total": 154500,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0054",
+  "member_id": "M048",
+  "hospital_id": "H39",
+  "admission_date": "2025-07-10",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR011",
+  "billed_total": 78500,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0055",
+  "member_id": "M037",
+  "hospital_id": "H29",
+  "admission_date": "2025-01-08",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR022",
+  "billed_total": 226100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0056",
+  "member_id": "M054",
+  "hospital_id": "H02",
+  "admission_date": "2024-06-01",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR013",
+  "billed_total": 299400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0057",
+  "member_id": "M058",
+  "hospital_id": "H28",
+  "admission_date": "2024-09-19",
+  "diagnosis_code": "DX16",
+  "procedure_code": "PR047",
+  "billed_total": 55300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0058",
+  "member_id": "M052",
+  "hospital_id": "H20",
+  "admission_date": "2024-09-21",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR020",
+  "billed_total": 100700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0059",
+  "member_id": "M012",
+  "hospital_id": "H19",
+  "admission_date": "2025-04-30",
+  "diagnosis_code": "DX14",
+  "procedure_code": "PR041",
+  "billed_total": 47700,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0060",
+  "member_id": "M041",
+  "hospital_id": "H26",
+  "admission_date": "2025-05-07",
+  "diagnosis_code": "DX02",
+  "procedure_code": "PR005",
+  "billed_total": 68800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0061",
+  "member_id": "M037",
+  "hospital_id": "H40",
+  "admission_date": "2024-06-03",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR104",
+  "billed_total": 80400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0062",
+  "member_id": "M019",
+  "hospital_id": "H32",
+  "admission_date": "2025-07-10",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR001",
+  "billed_total": 164400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0063",
+  "member_id": "M023",
+  "hospital_id": "H07",
+  "admission_date": "2024-02-27",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR017",
+  "billed_total": 53200,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0064",
+  "member_id": "M032",
+  "hospital_id": "H07",
+  "admission_date": "2024-09-18",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR102",
+  "billed_total": 31000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0065",
+  "member_id": "M030",
+  "hospital_id": "H37",
+  "admission_date": "2025-02-07",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR013",
+  "billed_total": 227900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0066",
+  "member_id": "M050",
+  "hospital_id": "H20",
+  "admission_date": "2024-08-06",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR007",
+  "billed_total": 173000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0067",
+  "member_id": "M050",
+  "hospital_id": "H07",
+  "admission_date": "2024-07-18",
+  "diagnosis_code": "DX19",
+  "procedure_code": "PR055",
+  "billed_total": 138500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0068",
+  "member_id": "M009",
+  "hospital_id": "H05",
+  "admission_date": "2024-02-09",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR011",
+  "billed_total": 72200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0069",
+  "member_id": "M005",
+  "hospital_id": "H11",
+  "admission_date": "2024-03-10",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR101",
+  "billed_total": 75500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0070",
+  "member_id": "M007",
+  "hospital_id": "H14",
+  "admission_date": "2024-03-22",
+  "diagnosis_code": "DX14",
+  "procedure_code": "PR041",
+  "billed_total": 57300,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0071",
+  "member_id": "M028",
+  "hospital_id": "H37",
+  "admission_date": "2025-04-06",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR099",
+  "billed_total": 46200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0072",
+  "member_id": "M026",
+  "hospital_id": "H33",
+  "admission_date": "2025-06-09",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR039",
+  "billed_total": 43800,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0073",
+  "member_id": "M028",
+  "hospital_id": "H16",
+  "admission_date": "2024-05-15",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR012",
+  "billed_total": 59300,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0074",
+  "member_id": "M006",
+  "hospital_id": "H16",
+  "admission_date": "2024-05-29",
+  "diagnosis_code": "DX16",
+  "procedure_code": "PR046",
+  "billed_total": 311400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0075",
+  "member_id": "M023",
+  "hospital_id": "H26",
+  "admission_date": "2025-03-27",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR026",
+  "billed_total": 72200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0076",
+  "member_id": "M031",
+  "hospital_id": "H25",
+  "admission_date": "2024-04-17",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR098",
+  "billed_total": 76900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0077",
+  "member_id": "M013",
+  "hospital_id": "H19",
+  "admission_date": "2024-09-23",
+  "diagnosis_code": "DX18",
+  "procedure_code": "PR054",
+  "billed_total": 48100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0078",
+  "member_id": "M005",
+  "hospital_id": "H24",
+  "admission_date": "2024-07-28",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR001",
+  "billed_total": 198400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0079",
+  "member_id": "M052",
+  "hospital_id": "H37",
+  "admission_date": "2025-01-19",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR110",
+  "billed_total": 77200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0080",
+  "member_id": "M060",
+  "hospital_id": "H02",
+  "admission_date": "2024-04-21",
+  "diagnosis_code": "DX18",
+  "procedure_code": "PR053",
+  "billed_total": 66100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0081",
+  "member_id": "M017",
+  "hospital_id": "H16",
+  "admission_date": "2024-02-22",
+  "diagnosis_code": "DX02",
+  "procedure_code": "PR006",
+  "billed_total": 36500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0082",
+  "member_id": "M042",
+  "hospital_id": "H26",
+  "admission_date": "2024-09-13",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR018",
+  "billed_total": 39900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0083",
+  "member_id": "M014",
+  "hospital_id": "H02",
+  "admission_date": "2025-08-20",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR116",
+  "billed_total": 90300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0084",
+  "member_id": "M042",
+  "hospital_id": "H20",
+  "admission_date": "2024-05-19",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR013",
+  "billed_total": 272100,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0085",
+  "member_id": "M014",
+  "hospital_id": "H02",
+  "admission_date": "2024-02-24",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR058",
+  "billed_total": 142400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0086",
+  "member_id": "M059",
+  "hospital_id": "H07",
+  "admission_date": "2024-10-10",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR096",
+  "billed_total": 53800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0087",
+  "member_id": "M035",
+  "hospital_id": "H16",
+  "admission_date": "2024-10-12",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR017",
+  "billed_total": 41200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0088",
+  "member_id": "M013",
+  "hospital_id": "H39",
+  "admission_date": "2024-03-29",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR102",
+  "billed_total": 35800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0089",
+  "member_id": "M046",
+  "hospital_id": "H39",
+  "admission_date": "2025-04-03",
+  "diagnosis_code": "DX36",
+  "procedure_code": "PR107",
+  "billed_total": 55900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0090",
+  "member_id": "M045",
+  "hospital_id": "H20",
+  "admission_date": "2025-05-31",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR022",
+  "billed_total": 253600,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0091",
+  "member_id": "M030",
+  "hospital_id": "H18",
+  "admission_date": "2024-11-26",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR096",
+  "billed_total": 46800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0092",
+  "member_id": "M010",
+  "hospital_id": "H20",
+  "admission_date": "2024-11-30",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR009",
+  "billed_total": 38200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0093",
+  "member_id": "M029",
+  "hospital_id": "H26",
+  "admission_date": "2024-09-16",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR111",
+  "billed_total": 37200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0094",
+  "member_id": "M056",
+  "hospital_id": "H12",
+  "admission_date": "2024-04-28",
+  "diagnosis_code": "DX14",
+  "procedure_code": "PR042",
+  "billed_total": 55300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0095",
+  "member_id": "M020",
+  "hospital_id": "H02",
+  "admission_date": "2025-02-23",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR037",
+  "billed_total": 190200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0096",
+  "member_id": "M004",
+  "hospital_id": "H28",
+  "admission_date": "2024-04-29",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR100",
+  "billed_total": 124800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0097",
+  "member_id": "M007",
+  "hospital_id": "H34",
+  "admission_date": "2025-03-17",
+  "diagnosis_code": "DX17",
+  "procedure_code": "PR050",
+  "billed_total": 97000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0098",
+  "member_id": "M025",
+  "hospital_id": "H20",
+  "admission_date": "2024-08-06",
+  "diagnosis_code": "DX19",
+  "procedure_code": "PR057",
+  "billed_total": 48200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0099",
+  "member_id": "M053",
+  "hospital_id": "H05",
+  "admission_date": "2024-03-04",
+  "diagnosis_code": "DX02",
+  "procedure_code": "PR006",
+  "billed_total": 48500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0100",
+  "member_id": "M025",
+  "hospital_id": "H03",
+  "admission_date": "2025-08-18",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR109",
+  "billed_total": 91000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0101",
+  "member_id": "M011",
+  "hospital_id": "H16",
+  "admission_date": "2025-05-15",
+  "diagnosis_code": "DX36",
+  "procedure_code": "PR108",
+  "billed_total": 60900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0102",
+  "member_id": "M052",
+  "hospital_id": "H28",
+  "admission_date": "2025-08-30",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR018",
+  "billed_total": 35500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0103",
+  "member_id": "M011",
+  "hospital_id": "H33",
+  "admission_date": "2024-06-18",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR011",
+  "billed_total": 79900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0104",
+  "member_id": "M049",
+  "hospital_id": "H05",
+  "admission_date": "2025-08-27",
+  "diagnosis_code": "DX17",
+  "procedure_code": "PR050",
+  "billed_total": 113700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0105",
+  "member_id": "M060",
+  "hospital_id": "H26",
+  "admission_date": "2025-07-02",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR009",
+  "billed_total": 33400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0106",
+  "member_id": "M040",
+  "hospital_id": "H25",
+  "admission_date": "2024-05-23",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR102",
+  "billed_total": 38800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0107",
+  "member_id": "M045",
+  "hospital_id": "H11",
+  "admission_date": "2025-05-31",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR095",
+  "billed_total": 70500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0108",
+  "member_id": "M037",
+  "hospital_id": "H13",
+  "admission_date": "2024-01-06",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR101",
+  "billed_total": 67500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0109",
+  "member_id": "M010",
+  "hospital_id": "H27",
+  "admission_date": "2024-11-19",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR088",
+  "billed_total": 156400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0110",
+  "member_id": "M041",
+  "hospital_id": "H05",
+  "admission_date": "2024-09-25",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR089",
+  "billed_total": 107600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0111",
+  "member_id": "M022",
+  "hospital_id": "H25",
+  "admission_date": "2025-02-19",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR015",
+  "billed_total": 29400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0112",
+  "member_id": "M053",
+  "hospital_id": "H34",
+  "admission_date": "2024-09-19",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR113",
+  "billed_total": 94200,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0113",
+  "member_id": "M015",
+  "hospital_id": "H21",
+  "admission_date": "2024-05-10",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR092",
+  "billed_total": 106700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0114",
+  "member_id": "M036",
+  "hospital_id": "H25",
+  "admission_date": "2024-12-16",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR020",
+  "billed_total": 78800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0115",
+  "member_id": "M016",
+  "hospital_id": "H28",
+  "admission_date": "2024-06-07",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR112",
+  "billed_total": 98900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0116",
+  "member_id": "M023",
+  "hospital_id": "H26",
+  "admission_date": "2024-05-19",
+  "diagnosis_code": "DX19",
+  "procedure_code": "PR057",
+  "billed_total": 48400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0117",
+  "member_id": "M052",
+  "hospital_id": "H40",
+  "admission_date": "2024-06-24",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR105",
+  "billed_total": 47300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0118",
+  "member_id": "M056",
+  "hospital_id": "H03",
+  "admission_date": "2025-02-08",
+  "diagnosis_code": "DX14",
+  "procedure_code": "PR040",
+  "billed_total": 175100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0119",
+  "member_id": "M037",
+  "hospital_id": "H11",
+  "admission_date": "2024-07-02",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR101",
+  "billed_total": 87500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0120",
+  "member_id": "M017",
+  "hospital_id": "H16",
+  "admission_date": "2024-09-19",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR099",
+  "billed_total": 49700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0121",
+  "member_id": "M011",
+  "hospital_id": "H33",
+  "admission_date": "2024-09-03",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR098",
+  "billed_total": 102800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0122",
+  "member_id": "M035",
+  "hospital_id": "H14",
+  "admission_date": "2024-07-11",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR091",
+  "billed_total": 289300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0123",
+  "member_id": "M026",
+  "hospital_id": "H05",
+  "admission_date": "2025-02-28",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR059",
+  "billed_total": 100500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0124",
+  "member_id": "M052",
+  "hospital_id": "H11",
+  "admission_date": "2024-03-21",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR016",
+  "billed_total": 141900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0125",
+  "member_id": "M047",
+  "hospital_id": "H37",
+  "admission_date": "2024-06-21",
+  "diagnosis_code": "DX19",
+  "procedure_code": "PR056",
+  "billed_total": 52700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0126",
+  "member_id": "M036",
+  "hospital_id": "H32",
+  "admission_date": "2024-06-23",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR003",
+  "billed_total": 43900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0127",
+  "member_id": "M025",
+  "hospital_id": "H24",
+  "admission_date": "2025-01-11",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR025",
+  "billed_total": 270400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0128",
+  "member_id": "M020",
+  "hospital_id": "H18",
+  "admission_date": "2024-09-20",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR009",
+  "billed_total": 25400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0129",
+  "member_id": "M020",
+  "hospital_id": "H21",
+  "admission_date": "2024-01-12",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR115",
+  "billed_total": 121800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0130",
+  "member_id": "M007",
+  "hospital_id": "H21",
+  "admission_date": "2024-12-03",
+  "diagnosis_code": "DX15",
+  "procedure_code": "PR044",
+  "billed_total": 94300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0131",
+  "member_id": "M050",
+  "hospital_id": "H21",
+  "admission_date": "2025-04-17",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR115",
+  "billed_total": 106900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0132",
+  "member_id": "M046",
+  "hospital_id": "H26",
+  "admission_date": "2025-04-18",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR059",
+  "billed_total": 85200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0133",
+  "member_id": "M043",
+  "hospital_id": "H20",
+  "admission_date": "2024-11-30",
+  "diagnosis_code": "DX40",
+  "procedure_code": "PR118",
+  "billed_total": 240600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0134",
+  "member_id": "M039",
+  "hospital_id": "H11",
+  "admission_date": "2024-08-14",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR095",
+  "billed_total": 74800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0135",
+  "member_id": "M013",
+  "hospital_id": "H16",
+  "admission_date": "2025-05-23",
+  "diagnosis_code": "DX16",
+  "procedure_code": "PR047",
+  "billed_total": 54900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0136",
+  "member_id": "M025",
+  "hospital_id": "H07",
+  "admission_date": "2024-11-30",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR022",
+  "billed_total": 271400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0137",
+  "member_id": "M042",
+  "hospital_id": "H32",
+  "admission_date": "2024-02-23",
+  "diagnosis_code": "DX15",
+  "procedure_code": "PR044",
+  "billed_total": 56600,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0138",
+  "member_id": "M039",
+  "hospital_id": "H27",
+  "admission_date": "2025-02-04",
+  "diagnosis_code": "DX19",
+  "procedure_code": "PR055",
+  "billed_total": 114000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0139",
+  "member_id": "M031",
+  "hospital_id": "H02",
+  "admission_date": "2024-10-18",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR034",
+  "billed_total": 314700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0140",
+  "member_id": "M019",
+  "hospital_id": "H05",
+  "admission_date": "2024-08-21",
+  "diagnosis_code": "DX10",
+  "procedure_code": "PR028",
+  "billed_total": 148300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0141",
+  "member_id": "M029",
+  "hospital_id": "H12",
+  "admission_date": "2024-07-16",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR018",
+  "billed_total": 39800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0142",
+  "member_id": "M058",
+  "hospital_id": "H25",
+  "admission_date": "2024-11-29",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR039",
+  "billed_total": 47200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0143",
+  "member_id": "M001",
+  "hospital_id": "H20",
+  "admission_date": "2024-09-28",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR101",
+  "billed_total": 73000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0144",
+  "member_id": "M014",
+  "hospital_id": "H07",
+  "admission_date": "2025-02-19",
+  "diagnosis_code": "DX19",
+  "procedure_code": "PR055",
+  "billed_total": 125500,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0145",
+  "member_id": "M003",
+  "hospital_id": "H18",
+  "admission_date": "2025-05-26",
+  "diagnosis_code": "DX17",
+  "procedure_code": "PR050",
+  "billed_total": 82800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0146",
+  "member_id": "M033",
+  "hospital_id": "H15",
+  "admission_date": "2024-12-20",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR031",
+  "billed_total": 140400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0147",
+  "member_id": "M047",
+  "hospital_id": "H33",
+  "admission_date": "2025-02-08",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR102",
+  "billed_total": 34400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0148",
+  "member_id": "M013",
+  "hospital_id": "H39",
+  "admission_date": "2024-05-12",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR027",
+  "billed_total": 26400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0149",
+  "member_id": "M057",
+  "hospital_id": "H05",
+  "admission_date": "2024-07-22",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR020",
+  "billed_total": 91200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0150",
+  "member_id": "M026",
+  "hospital_id": "H18",
+  "admission_date": "2024-09-05",
+  "diagnosis_code": "DX40",
+  "procedure_code": "PR119",
+  "billed_total": 66400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0151",
+  "member_id": "M002",
+  "hospital_id": "H29",
+  "admission_date": "2024-09-28",
+  "diagnosis_code": "DX10",
+  "procedure_code": "PR028",
+  "billed_total": 153600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0152",
+  "member_id": "M042",
+  "hospital_id": "H33",
+  "admission_date": "2025-06-30",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR039",
+  "billed_total": 46600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0153",
+  "member_id": "M048",
+  "hospital_id": "H28",
+  "admission_date": "2024-08-05",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR092",
+  "billed_total": 133700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0154",
+  "member_id": "M033",
+  "hospital_id": "H01",
+  "admission_date": "2025-01-19",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR095",
+  "billed_total": 83000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0155",
+  "member_id": "M024",
+  "hospital_id": "H14",
+  "admission_date": "2025-06-26",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR095",
+  "billed_total": 58900,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0156",
+  "member_id": "M026",
+  "hospital_id": "H16",
+  "admission_date": "2024-06-26",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR117",
+  "billed_total": 48100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0157",
+  "member_id": "M044",
+  "hospital_id": "H01",
+  "admission_date": "2024-10-01",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR034",
+  "billed_total": 272800,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0158",
+  "member_id": "M047",
+  "hospital_id": "H32",
+  "admission_date": "2024-11-18",
+  "diagnosis_code": "DX15",
+  "procedure_code": "PR044",
+  "billed_total": 100500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0159",
+  "member_id": "M033",
+  "hospital_id": "H26",
+  "admission_date": "2025-07-22",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR020",
+  "billed_total": 96500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0160",
+  "member_id": "M057",
+  "hospital_id": "H29",
+  "admission_date": "2024-07-07",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR088",
+  "billed_total": 162700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0161",
+  "member_id": "M029",
+  "hospital_id": "H18",
+  "admission_date": "2025-06-04",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR059",
+  "billed_total": 95000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0162",
+  "member_id": "M041",
+  "hospital_id": "H03",
+  "admission_date": "2024-06-18",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR031",
+  "billed_total": 136600,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0163",
+  "member_id": "M004",
+  "hospital_id": "H19",
+  "admission_date": "2024-11-17",
+  "diagnosis_code": "DX10",
+  "procedure_code": "PR029",
+  "billed_total": 66300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0164",
+  "member_id": "M032",
+  "hospital_id": "H37",
+  "admission_date": "2025-04-15",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR114",
+  "billed_total": 46500,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0165",
+  "member_id": "M046",
+  "hospital_id": "H27",
+  "admission_date": "2025-08-24",
+  "diagnosis_code": "DX17",
+  "procedure_code": "PR049",
+  "billed_total": 114500,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0166",
+  "member_id": "M053",
+  "hospital_id": "H07",
+  "admission_date": "2024-05-10",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR022",
+  "billed_total": 265300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0167",
+  "member_id": "M054",
+  "hospital_id": "H12",
+  "admission_date": "2024-03-09",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR027",
+  "billed_total": 25200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0168",
+  "member_id": "M058",
+  "hospital_id": "H34",
+  "admission_date": "2025-01-20",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR100",
+  "billed_total": 128000,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0169",
+  "member_id": "M007",
+  "hospital_id": "H02",
+  "admission_date": "2024-08-29",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR060",
+  "billed_total": 31500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0170",
+  "member_id": "M034",
+  "hospital_id": "H24",
+  "admission_date": "2024-04-14",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR019",
+  "billed_total": 162300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0171",
+  "member_id": "M050",
+  "hospital_id": "H25",
+  "admission_date": "2025-02-15",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR111",
+  "billed_total": 38800,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0172",
+  "member_id": "M019",
+  "hospital_id": "H27",
+  "admission_date": "2024-08-15",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR027",
+  "billed_total": 29000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0173",
+  "member_id": "M005",
+  "hospital_id": "H05",
+  "admission_date": "2025-01-15",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR058",
+  "billed_total": 166300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0174",
+  "member_id": "M020",
+  "hospital_id": "H21",
+  "admission_date": "2024-04-15",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR035",
+  "billed_total": 51700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0175",
+  "member_id": "M047",
+  "hospital_id": "H11",
+  "admission_date": "2024-10-20",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR098",
+  "billed_total": 93500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0176",
+  "member_id": "M053",
+  "hospital_id": "H32",
+  "admission_date": "2025-06-30",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR103",
+  "billed_total": 244100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0177",
+  "member_id": "M006",
+  "hospital_id": "H05",
+  "admission_date": "2024-11-02",
+  "diagnosis_code": "DX02",
+  "procedure_code": "PR006",
+  "billed_total": 37100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0178",
+  "member_id": "M032",
+  "hospital_id": "H15",
+  "admission_date": "2024-12-14",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR018",
+  "billed_total": 27900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0179",
+  "member_id": "M028",
+  "hospital_id": "H20",
+  "admission_date": "2024-06-11",
+  "diagnosis_code": "DX36",
+  "procedure_code": "PR108",
+  "billed_total": 56400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0180",
+  "member_id": "M013",
+  "hospital_id": "H34",
+  "admission_date": "2024-09-16",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR010",
+  "billed_total": 257800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0181",
+  "member_id": "M026",
+  "hospital_id": "H18",
+  "admission_date": "2024-05-30",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR100",
+  "billed_total": 120600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0182",
+  "member_id": "M012",
+  "hospital_id": "H28",
+  "admission_date": "2024-09-18",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR016",
+  "billed_total": 104900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0183",
+  "member_id": "M001",
+  "hospital_id": "H15",
+  "admission_date": "2024-11-27",
+  "diagnosis_code": "DX15",
+  "procedure_code": "PR045",
+  "billed_total": 47100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0184",
+  "member_id": "M041",
+  "hospital_id": "H26",
+  "admission_date": "2025-01-18",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR099",
+  "billed_total": 54300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0185",
+  "member_id": "M048",
+  "hospital_id": "H33",
+  "admission_date": "2024-10-31",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR002",
+  "billed_total": 103400,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0186",
+  "member_id": "M040",
+  "hospital_id": "H07",
+  "admission_date": "2024-11-22",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR100",
+  "billed_total": 167300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0187",
+  "member_id": "M028",
+  "hospital_id": "H21",
+  "admission_date": "2025-01-28",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR023",
+  "billed_total": 104900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0188",
+  "member_id": "M021",
+  "hospital_id": "H37",
+  "admission_date": "2024-05-01",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR003",
+  "billed_total": 32500,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0189",
+  "member_id": "M002",
+  "hospital_id": "H11",
+  "admission_date": "2025-04-14",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR032",
+  "billed_total": 117700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0190",
+  "member_id": "M016",
+  "hospital_id": "H03",
+  "admission_date": "2024-09-21",
+  "diagnosis_code": "DX16",
+  "procedure_code": "PR048",
+  "billed_total": 48400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0191",
+  "member_id": "M030",
+  "hospital_id": "H26",
+  "admission_date": "2024-04-07",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR096",
+  "billed_total": 32800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0192",
+  "member_id": "M002",
+  "hospital_id": "H24",
+  "admission_date": "2024-12-12",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR096",
+  "billed_total": 44800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0193",
+  "member_id": "M045",
+  "hospital_id": "H10",
+  "admission_date": "2024-02-04",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR038",
+  "billed_total": 98300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0194",
+  "member_id": "M035",
+  "hospital_id": "H18",
+  "admission_date": "2024-08-09",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR002",
+  "billed_total": 77000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0195",
+  "member_id": "M005",
+  "hospital_id": "H14",
+  "admission_date": "2024-04-11",
+  "diagnosis_code": "DX18",
+  "procedure_code": "PR052",
+  "billed_total": 154900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0196",
+  "member_id": "M037",
+  "hospital_id": "H02",
+  "admission_date": "2025-01-13",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR001",
+  "billed_total": 238500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0197",
+  "member_id": "M044",
+  "hospital_id": "H20",
+  "admission_date": "2025-04-12",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR110",
+  "billed_total": 72100,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0198",
+  "member_id": "M042",
+  "hospital_id": "H02",
+  "admission_date": "2025-01-02",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR014",
+  "billed_total": 77200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0199",
+  "member_id": "M034",
+  "hospital_id": "H37",
+  "admission_date": "2025-03-09",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR090",
+  "billed_total": 29300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0200",
+  "member_id": "M055",
+  "hospital_id": "H33",
+  "admission_date": "2025-05-14",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR097",
+  "billed_total": 164100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0201",
+  "member_id": "M006",
+  "hospital_id": "H01",
+  "admission_date": "2024-04-25",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR117",
+  "billed_total": 66200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0202",
+  "member_id": "M019",
+  "hospital_id": "H19",
+  "admission_date": "2024-08-15",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR013",
+  "billed_total": 248200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0203",
+  "member_id": "M032",
+  "hospital_id": "H24",
+  "admission_date": "2024-03-22",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR013",
+  "billed_total": 216700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0204",
+  "member_id": "M020",
+  "hospital_id": "H34",
+  "admission_date": "2024-01-10",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR017",
+  "billed_total": 44000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0205",
+  "member_id": "M043",
+  "hospital_id": "H19",
+  "admission_date": "2025-07-19",
+  "diagnosis_code": "DX18",
+  "procedure_code": "PR053",
+  "billed_total": 51000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0206",
+  "member_id": "M048",
+  "hospital_id": "H12",
+  "admission_date": "2024-02-05",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR027",
+  "billed_total": 33500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0207",
+  "member_id": "M011",
+  "hospital_id": "H40",
+  "admission_date": "2024-05-21",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR002",
+  "billed_total": 94200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0208",
+  "member_id": "M022",
+  "hospital_id": "H01",
+  "admission_date": "2025-06-02",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR002",
+  "billed_total": 90200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0209",
+  "member_id": "M014",
+  "hospital_id": "H37",
+  "admission_date": "2025-03-29",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR089",
+  "billed_total": 95400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0210",
+  "member_id": "M006",
+  "hospital_id": "H11",
+  "admission_date": "2024-11-03",
+  "diagnosis_code": "DX15",
+  "procedure_code": "PR043",
+  "billed_total": 255600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0211",
+  "member_id": "M013",
+  "hospital_id": "H15",
+  "admission_date": "2025-01-15",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR104",
+  "billed_total": 73100,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0212",
+  "member_id": "M053",
+  "hospital_id": "H15",
+  "admission_date": "2025-06-27",
+  "diagnosis_code": "DX36",
+  "procedure_code": "PR108",
+  "billed_total": 64100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0213",
+  "member_id": "M009",
+  "hospital_id": "H14",
+  "admission_date": "2025-08-11",
+  "diagnosis_code": "DX10",
+  "procedure_code": "PR029",
+  "billed_total": 88100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0214",
+  "member_id": "M030",
+  "hospital_id": "H21",
+  "admission_date": "2024-03-31",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR027",
+  "billed_total": 35200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0215",
+  "member_id": "M021",
+  "hospital_id": "H15",
+  "admission_date": "2025-03-30",
+  "diagnosis_code": "DX02",
+  "procedure_code": "PR005",
+  "billed_total": 80100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0216",
+  "member_id": "M034",
+  "hospital_id": "H02",
+  "admission_date": "2024-05-21",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR094",
+  "billed_total": 357800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0217",
+  "member_id": "M055",
+  "hospital_id": "H10",
+  "admission_date": "2025-08-01",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR114",
+  "billed_total": 58600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0218",
+  "member_id": "M016",
+  "hospital_id": "H25",
+  "admission_date": "2025-02-13",
+  "diagnosis_code": "DX36",
+  "procedure_code": "PR106",
+  "billed_total": 102300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0219",
+  "member_id": "M057",
+  "hospital_id": "H24",
+  "admission_date": "2024-05-13",
+  "diagnosis_code": "DX16",
+  "procedure_code": "PR046",
+  "billed_total": 271500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0220",
+  "member_id": "M045",
+  "hospital_id": "H03",
+  "admission_date": "2024-08-17",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR025",
+  "billed_total": 329300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0221",
+  "member_id": "M022",
+  "hospital_id": "H03",
+  "admission_date": "2025-07-30",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR099",
+  "billed_total": 44000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0222",
+  "member_id": "M011",
+  "hospital_id": "H05",
+  "admission_date": "2025-06-13",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR018",
+  "billed_total": 40600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0223",
+  "member_id": "M019",
+  "hospital_id": "H33",
+  "admission_date": "2025-07-10",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR031",
+  "billed_total": 79700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0224",
+  "member_id": "M049",
+  "hospital_id": "H02",
+  "admission_date": "2024-05-23",
+  "diagnosis_code": "DX40",
+  "procedure_code": "PR119",
+  "billed_total": 81800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0225",
+  "member_id": "M009",
+  "hospital_id": "H16",
+  "admission_date": "2024-12-13",
+  "diagnosis_code": "DX36",
+  "procedure_code": "PR108",
+  "billed_total": 59900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0226",
+  "member_id": "M043",
+  "hospital_id": "H39",
+  "admission_date": "2024-02-21",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR104",
+  "billed_total": 68000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0227",
+  "member_id": "M037",
+  "hospital_id": "H27",
+  "admission_date": "2025-07-09",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR033",
+  "billed_total": 38400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0228",
+  "member_id": "M021",
+  "hospital_id": "H18",
+  "admission_date": "2024-10-28",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR058",
+  "billed_total": 133200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0229",
+  "member_id": "M055",
+  "hospital_id": "H19",
+  "admission_date": "2024-08-12",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR012",
+  "billed_total": 46900,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0230",
+  "member_id": "M031",
+  "hospital_id": "H39",
+  "admission_date": "2024-05-28",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR021",
+  "billed_total": 25100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0231",
+  "member_id": "M047",
+  "hospital_id": "H05",
+  "admission_date": "2024-04-08",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR098",
+  "billed_total": 95300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0232",
+  "member_id": "M047",
+  "hospital_id": "H11",
+  "admission_date": "2025-07-13",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR097",
+  "billed_total": 244400,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0233",
+  "member_id": "M003",
+  "hospital_id": "H25",
+  "admission_date": "2024-07-11",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR109",
+  "billed_total": 102500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0234",
+  "member_id": "M011",
+  "hospital_id": "H25",
+  "admission_date": "2025-04-12",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR002",
+  "billed_total": 79100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0235",
+  "member_id": "M020",
+  "hospital_id": "H07",
+  "admission_date": "2024-03-27",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR018",
+  "billed_total": 43900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0236",
+  "member_id": "M049",
+  "hospital_id": "H34",
+  "admission_date": "2025-03-04",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR017",
+  "billed_total": 52400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0237",
+  "member_id": "M007",
+  "hospital_id": "H01",
+  "admission_date": "2025-07-22",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR031",
+  "billed_total": 138300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0238",
+  "member_id": "M026",
+  "hospital_id": "H29",
+  "admission_date": "2024-06-02",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR022",
+  "billed_total": 208600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0239",
+  "member_id": "M056",
+  "hospital_id": "H39",
+  "admission_date": "2024-03-02",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR092",
+  "billed_total": 92200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0240",
+  "member_id": "M024",
+  "hospital_id": "H19",
+  "admission_date": "2024-05-06",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR100",
+  "billed_total": 125800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0241",
+  "member_id": "M036",
+  "hospital_id": "H20",
+  "admission_date": "2024-12-12",
+  "diagnosis_code": "DX14",
+  "procedure_code": "PR042",
+  "billed_total": 47900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0242",
+  "member_id": "M022",
+  "hospital_id": "H11",
+  "admission_date": "2025-08-21",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR088",
+  "billed_total": 166500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0243",
+  "member_id": "M002",
+  "hospital_id": "H20",
+  "admission_date": "2025-01-01",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR021",
+  "billed_total": 30000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0244",
+  "member_id": "M044",
+  "hospital_id": "H26",
+  "admission_date": "2024-07-05",
+  "diagnosis_code": "DX14",
+  "procedure_code": "PR040",
+  "billed_total": 126700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0245",
+  "member_id": "M014",
+  "hospital_id": "H34",
+  "admission_date": "2024-10-24",
+  "diagnosis_code": "DX14",
+  "procedure_code": "PR041",
+  "billed_total": 56300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0246",
+  "member_id": "M012",
+  "hospital_id": "H15",
+  "admission_date": "2024-06-06",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR092",
+  "billed_total": 107700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0247",
+  "member_id": "M026",
+  "hospital_id": "H24",
+  "admission_date": "2024-09-08",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR059",
+  "billed_total": 84900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0248",
+  "member_id": "M020",
+  "hospital_id": "H18",
+  "admission_date": "2024-11-06",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR018",
+  "billed_total": 40800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0249",
+  "member_id": "M002",
+  "hospital_id": "H39",
+  "admission_date": "2024-05-29",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR104",
+  "billed_total": 102500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0250",
+  "member_id": "M028",
+  "hospital_id": "H02",
+  "admission_date": "2024-12-16",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR023",
+  "billed_total": 112100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0251",
+  "member_id": "M028",
+  "hospital_id": "H10",
+  "admission_date": "2024-01-28",
+  "diagnosis_code": "DX19",
+  "procedure_code": "PR055",
+  "billed_total": 134100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0252",
+  "member_id": "M028",
+  "hospital_id": "H40",
+  "admission_date": "2024-11-10",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR034",
+  "billed_total": 253000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0253",
+  "member_id": "M049",
+  "hospital_id": "H20",
+  "admission_date": "2024-05-15",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR112",
+  "billed_total": 111600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0254",
+  "member_id": "M045",
+  "hospital_id": "H10",
+  "admission_date": "2025-04-11",
+  "diagnosis_code": "DX10",
+  "procedure_code": "PR029",
+  "billed_total": 75600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0255",
+  "member_id": "M009",
+  "hospital_id": "H15",
+  "admission_date": "2024-03-23",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR014",
+  "billed_total": 80700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0256",
+  "member_id": "M041",
+  "hospital_id": "H28",
+  "admission_date": "2024-02-22",
+  "diagnosis_code": "DX02",
+  "procedure_code": "PR004",
+  "billed_total": 126700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0257",
+  "member_id": "M002",
+  "hospital_id": "H37",
+  "admission_date": "2024-04-22",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR015",
+  "billed_total": 28600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0258",
+  "member_id": "M027",
+  "hospital_id": "H39",
+  "admission_date": "2025-03-20",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR089",
+  "billed_total": 85500,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0259",
+  "member_id": "M040",
+  "hospital_id": "H37",
+  "admission_date": "2024-11-16",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR025",
+  "billed_total": 283000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0260",
+  "member_id": "M047",
+  "hospital_id": "H21",
+  "admission_date": "2025-04-11",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR093",
+  "billed_total": 42800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0261",
+  "member_id": "M017",
+  "hospital_id": "H02",
+  "admission_date": "2025-08-13",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR098",
+  "billed_total": 80800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0262",
+  "member_id": "M029",
+  "hospital_id": "H24",
+  "admission_date": "2024-06-15",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR109",
+  "billed_total": 104200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0263",
+  "member_id": "M012",
+  "hospital_id": "H39",
+  "admission_date": "2024-01-22",
+  "diagnosis_code": "DX19",
+  "procedure_code": "PR055",
+  "billed_total": 81600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0264",
+  "member_id": "M019",
+  "hospital_id": "H03",
+  "admission_date": "2024-08-04",
+  "diagnosis_code": "DX40",
+  "procedure_code": "PR118",
+  "billed_total": 337300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0265",
+  "member_id": "M008",
+  "hospital_id": "H19",
+  "admission_date": "2024-07-30",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR024",
+  "billed_total": 28300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0266",
+  "member_id": "M040",
+  "hospital_id": "H05",
+  "admission_date": "2025-06-11",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR025",
+  "billed_total": 275000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0267",
+  "member_id": "M049",
+  "hospital_id": "H16",
+  "admission_date": "2024-01-22",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR034",
+  "billed_total": 238900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0268",
+  "member_id": "M024",
+  "hospital_id": "H33",
+  "admission_date": "2024-12-01",
+  "diagnosis_code": "DX40",
+  "procedure_code": "PR120",
+  "billed_total": 47100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0269",
+  "member_id": "M028",
+  "hospital_id": "H24",
+  "admission_date": "2024-11-19",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR011",
+  "billed_total": 71400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0270",
+  "member_id": "M031",
+  "hospital_id": "H18",
+  "admission_date": "2024-05-08",
+  "diagnosis_code": "DX15",
+  "procedure_code": "PR044",
+  "billed_total": 67500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0271",
+  "member_id": "M056",
+  "hospital_id": "H27",
+  "admission_date": "2025-08-31",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR007",
+  "billed_total": 108400,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0272",
+  "member_id": "M056",
+  "hospital_id": "H21",
+  "admission_date": "2024-03-14",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR110",
+  "billed_total": 56600,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0273",
+  "member_id": "M014",
+  "hospital_id": "H19",
+  "admission_date": "2025-03-18",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR020",
+  "billed_total": 95900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0274",
+  "member_id": "M051",
+  "hospital_id": "H07",
+  "admission_date": "2024-01-17",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR031",
+  "billed_total": 102500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0275",
+  "member_id": "M031",
+  "hospital_id": "H07",
+  "admission_date": "2024-02-15",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR104",
+  "billed_total": 89000,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0276",
+  "member_id": "M022",
+  "hospital_id": "H39",
+  "admission_date": "2025-05-17",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR011",
+  "billed_total": 42200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0277",
+  "member_id": "M024",
+  "hospital_id": "H32",
+  "admission_date": "2025-04-05",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR022",
+  "billed_total": 162700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0278",
+  "member_id": "M047",
+  "hospital_id": "H39",
+  "admission_date": "2025-05-10",
+  "diagnosis_code": "DX14",
+  "procedure_code": "PR042",
+  "billed_total": 53500,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0279",
+  "member_id": "M045",
+  "hospital_id": "H25",
+  "admission_date": "2025-04-24",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR092",
+  "billed_total": 110700,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0280",
+  "member_id": "M012",
+  "hospital_id": "H24",
+  "admission_date": "2024-03-17",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR101",
+  "billed_total": 68200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0281",
+  "member_id": "M004",
+  "hospital_id": "H15",
+  "admission_date": "2024-01-22",
+  "diagnosis_code": "DX36",
+  "procedure_code": "PR107",
+  "billed_total": 56500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0282",
+  "member_id": "M006",
+  "hospital_id": "H03",
+  "admission_date": "2025-02-18",
+  "diagnosis_code": "DX18",
+  "procedure_code": "PR054",
+  "billed_total": 46000,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0283",
+  "member_id": "M028",
+  "hospital_id": "H11",
+  "admission_date": "2025-04-19",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR102",
+  "billed_total": 42800,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0284",
+  "member_id": "M031",
+  "hospital_id": "H40",
+  "admission_date": "2024-12-23",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR104",
+  "billed_total": 72000,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0285",
+  "member_id": "M026",
+  "hospital_id": "H05",
+  "admission_date": "2025-08-22",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR020",
+  "billed_total": 92800,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0286",
+  "member_id": "M021",
+  "hospital_id": "H34",
+  "admission_date": "2024-09-24",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR096",
+  "billed_total": 31500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0287",
+  "member_id": "M018",
+  "hospital_id": "H07",
+  "admission_date": "2025-04-20",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR016",
+  "billed_total": 132700,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0288",
+  "member_id": "M005",
+  "hospital_id": "H12",
+  "admission_date": "2024-07-14",
+  "diagnosis_code": "DX10",
+  "procedure_code": "PR030",
+  "billed_total": 46600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0289",
+  "member_id": "M041",
+  "hospital_id": "H10",
+  "admission_date": "2025-01-16",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR009",
+  "billed_total": 33400,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0290",
+  "member_id": "M033",
+  "hospital_id": "H40",
+  "admission_date": "2024-04-23",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR112",
+  "billed_total": 116300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0291",
+  "member_id": "M016",
+  "hospital_id": "H24",
+  "admission_date": "2024-09-22",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR094",
+  "billed_total": 264100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0292",
+  "member_id": "M010",
+  "hospital_id": "H01",
+  "admission_date": "2025-04-12",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR039",
+  "billed_total": 58700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0293",
+  "member_id": "M008",
+  "hospital_id": "H15",
+  "admission_date": "2025-05-20",
+  "diagnosis_code": "DX02",
+  "procedure_code": "PR005",
+  "billed_total": 88400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0294",
+  "member_id": "M048",
+  "hospital_id": "H02",
+  "admission_date": "2024-09-01",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR019",
+  "billed_total": 162000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0295",
+  "member_id": "M056",
+  "hospital_id": "H33",
+  "admission_date": "2025-01-26",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR098",
+  "billed_total": 60300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0296",
+  "member_id": "M037",
+  "hospital_id": "H07",
+  "admission_date": "2024-08-22",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR001",
+  "billed_total": 191800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0297",
+  "member_id": "M017",
+  "hospital_id": "H14",
+  "admission_date": "2025-02-26",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR101",
+  "billed_total": 69000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0298",
+  "member_id": "M024",
+  "hospital_id": "H11",
+  "admission_date": "2024-12-15",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR104",
+  "billed_total": 86400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0299",
+  "member_id": "M002",
+  "hospital_id": "H05",
+  "admission_date": "2025-08-07",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR114",
+  "billed_total": 52900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0300",
+  "member_id": "M053",
+  "hospital_id": "H01",
+  "admission_date": "2025-01-21",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR031",
+  "billed_total": 138400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0301",
+  "member_id": "M025",
+  "hospital_id": "H03",
+  "admission_date": "2025-07-10",
+  "diagnosis_code": "DX18",
+  "procedure_code": "PR053",
+  "billed_total": 60800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0302",
+  "member_id": "M041",
+  "hospital_id": "H15",
+  "admission_date": "2025-05-10",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR027",
+  "billed_total": 26700,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0303",
+  "member_id": "M001",
+  "hospital_id": "H19",
+  "admission_date": "2025-02-27",
+  "diagnosis_code": "DX16",
+  "procedure_code": "PR046",
+  "billed_total": 284000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0304",
+  "member_id": "M057",
+  "hospital_id": "H21",
+  "admission_date": "2024-09-05",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR096",
+  "billed_total": 40800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0305",
+  "member_id": "M010",
+  "hospital_id": "H07",
+  "admission_date": "2025-07-15",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR007",
+  "billed_total": 160300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0306",
+  "member_id": "M029",
+  "hospital_id": "H21",
+  "admission_date": "2025-07-27",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR010",
+  "billed_total": 252400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0307",
+  "member_id": "M037",
+  "hospital_id": "H12",
+  "admission_date": "2024-10-08",
+  "diagnosis_code": "DX40",
+  "procedure_code": "PR118",
+  "billed_total": 306300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0308",
+  "member_id": "M009",
+  "hospital_id": "H29",
+  "admission_date": "2025-02-07",
+  "diagnosis_code": "DX14",
+  "procedure_code": "PR041",
+  "billed_total": 56200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0309",
+  "member_id": "M050",
+  "hospital_id": "H28",
+  "admission_date": "2025-07-30",
+  "diagnosis_code": "DX18",
+  "procedure_code": "PR054",
+  "billed_total": 46800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0310",
+  "member_id": "M016",
+  "hospital_id": "H03",
+  "admission_date": "2024-10-11",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR032",
+  "billed_total": 105200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0311",
+  "member_id": "M028",
+  "hospital_id": "H15",
+  "admission_date": "2025-03-13",
+  "diagnosis_code": "DX02",
+  "procedure_code": "PR005",
+  "billed_total": 86600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0312",
+  "member_id": "M019",
+  "hospital_id": "H13",
+  "admission_date": "2024-08-18",
+  "diagnosis_code": "DX16",
+  "procedure_code": "PR047",
+  "billed_total": 56400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0313",
+  "member_id": "M045",
+  "hospital_id": "H12",
+  "admission_date": "2025-05-18",
+  "diagnosis_code": "DX02",
+  "procedure_code": "PR005",
+  "billed_total": 86400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0314",
+  "member_id": "M046",
+  "hospital_id": "H01",
+  "admission_date": "2025-05-26",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR017",
+  "billed_total": 61400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0315",
+  "member_id": "M018",
+  "hospital_id": "H24",
+  "admission_date": "2025-05-18",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR037",
+  "billed_total": 163200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0316",
+  "member_id": "M022",
+  "hospital_id": "H07",
+  "admission_date": "2024-01-05",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR011",
+  "billed_total": 44300,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0317",
+  "member_id": "M058",
+  "hospital_id": "H14",
+  "admission_date": "2024-12-29",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR109",
+  "billed_total": 112300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0318",
+  "member_id": "M011",
+  "hospital_id": "H28",
+  "admission_date": "2025-07-21",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR037",
+  "billed_total": 183900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0319",
+  "member_id": "M043",
+  "hospital_id": "H13",
+  "admission_date": "2024-12-16",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR001",
+  "billed_total": 160800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0320",
+  "member_id": "M050",
+  "hospital_id": "H03",
+  "admission_date": "2025-02-25",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR009",
+  "billed_total": 35400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0321",
+  "member_id": "M009",
+  "hospital_id": "H03",
+  "admission_date": "2024-03-23",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR060",
+  "billed_total": 33600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0322",
+  "member_id": "M058",
+  "hospital_id": "H32",
+  "admission_date": "2024-04-22",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR008",
+  "billed_total": 85900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0323",
+  "member_id": "M028",
+  "hospital_id": "H39",
+  "admission_date": "2025-03-03",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR093",
+  "billed_total": 52500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0324",
+  "member_id": "M006",
+  "hospital_id": "H34",
+  "admission_date": "2025-01-07",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR001",
+  "billed_total": 166300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0325",
+  "member_id": "M029",
+  "hospital_id": "H34",
+  "admission_date": "2024-03-16",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR089",
+  "billed_total": 85600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0326",
+  "member_id": "M058",
+  "hospital_id": "H02",
+  "admission_date": "2024-11-12",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR103",
+  "billed_total": 309000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0327",
+  "member_id": "M005",
+  "hospital_id": "H12",
+  "admission_date": "2025-07-15",
+  "diagnosis_code": "DX02",
+  "procedure_code": "PR004",
+  "billed_total": 134600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0328",
+  "member_id": "M043",
+  "hospital_id": "H32",
+  "admission_date": "2025-08-19",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR025",
+  "billed_total": 227900,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0329",
+  "member_id": "M056",
+  "hospital_id": "H26",
+  "admission_date": "2024-04-10",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR014",
+  "billed_total": 68900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0330",
+  "member_id": "M031",
+  "hospital_id": "H29",
+  "admission_date": "2025-03-08",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR025",
+  "billed_total": 217400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0331",
+  "member_id": "M056",
+  "hospital_id": "H37",
+  "admission_date": "2024-07-29",
+  "diagnosis_code": "DX02",
+  "procedure_code": "PR005",
+  "billed_total": 66900,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0332",
+  "member_id": "M010",
+  "hospital_id": "H07",
+  "admission_date": "2024-03-19",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR097",
+  "billed_total": 208100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0333",
+  "member_id": "M044",
+  "hospital_id": "H13",
+  "admission_date": "2024-10-01",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR095",
+  "billed_total": 79000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0334",
+  "member_id": "M025",
+  "hospital_id": "H33",
+  "admission_date": "2024-10-15",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR116",
+  "billed_total": 66800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0335",
+  "member_id": "M054",
+  "hospital_id": "H15",
+  "admission_date": "2024-11-02",
+  "diagnosis_code": "DX18",
+  "procedure_code": "PR054",
+  "billed_total": 45900,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0336",
+  "member_id": "M046",
+  "hospital_id": "H16",
+  "admission_date": "2024-08-01",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR039",
+  "billed_total": 54700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0337",
+  "member_id": "M004",
+  "hospital_id": "H32",
+  "admission_date": "2025-04-22",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR105",
+  "billed_total": 52300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0338",
+  "member_id": "M005",
+  "hospital_id": "H03",
+  "admission_date": "2024-07-09",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR104",
+  "billed_total": 105200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0339",
+  "member_id": "M045",
+  "hospital_id": "H20",
+  "admission_date": "2025-01-07",
+  "diagnosis_code": "DX10",
+  "procedure_code": "PR029",
+  "billed_total": 68900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0340",
+  "member_id": "M001",
+  "hospital_id": "H18",
+  "admission_date": "2024-02-11",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR037",
+  "billed_total": 190000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0341",
+  "member_id": "M035",
+  "hospital_id": "H07",
+  "admission_date": "2025-04-28",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR027",
+  "billed_total": 28600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0342",
+  "member_id": "M001",
+  "hospital_id": "H24",
+  "admission_date": "2024-03-14",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR013",
+  "billed_total": 265700,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0343",
+  "member_id": "M043",
+  "hospital_id": "H13",
+  "admission_date": "2024-11-23",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR094",
+  "billed_total": 242200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0344",
+  "member_id": "M022",
+  "hospital_id": "H37",
+  "admission_date": "2025-07-21",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR017",
+  "billed_total": 38600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0345",
+  "member_id": "M010",
+  "hospital_id": "H25",
+  "admission_date": "2025-01-06",
+  "diagnosis_code": "DX10",
+  "procedure_code": "PR030",
+  "billed_total": 47000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0346",
+  "member_id": "M034",
+  "hospital_id": "H14",
+  "admission_date": "2025-07-20",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR021",
+  "billed_total": 31200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0347",
+  "member_id": "M016",
+  "hospital_id": "H07",
+  "admission_date": "2025-01-14",
+  "diagnosis_code": "DX36",
+  "procedure_code": "PR108",
+  "billed_total": 56700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0348",
+  "member_id": "M042",
+  "hospital_id": "H18",
+  "admission_date": "2024-05-23",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR036",
+  "billed_total": 40000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0349",
+  "member_id": "M019",
+  "hospital_id": "H13",
+  "admission_date": "2024-05-23",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR102",
+  "billed_total": 27500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0350",
+  "member_id": "M012",
+  "hospital_id": "H11",
+  "admission_date": "2024-09-29",
+  "diagnosis_code": "DX15",
+  "procedure_code": "PR043",
+  "billed_total": 224100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0351",
+  "member_id": "M035",
+  "hospital_id": "H10",
+  "admission_date": "2024-04-06",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR002",
+  "billed_total": 93700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0352",
+  "member_id": "M005",
+  "hospital_id": "H28",
+  "admission_date": "2024-05-30",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR024",
+  "billed_total": 26500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0353",
+  "member_id": "M003",
+  "hospital_id": "H20",
+  "admission_date": "2025-08-09",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR026",
+  "billed_total": 88700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0354",
+  "member_id": "M031",
+  "hospital_id": "H34",
+  "admission_date": "2024-04-12",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR112",
+  "billed_total": 76300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0355",
+  "member_id": "M040",
+  "hospital_id": "H16",
+  "admission_date": "2025-08-19",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR096",
+  "billed_total": 41300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0356",
+  "member_id": "M020",
+  "hospital_id": "H18",
+  "admission_date": "2024-03-03",
+  "diagnosis_code": "DX40",
+  "procedure_code": "PR119",
+  "billed_total": 57800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0357",
+  "member_id": "M049",
+  "hospital_id": "H16",
+  "admission_date": "2024-10-30",
+  "diagnosis_code": "DX17",
+  "procedure_code": "PR051",
+  "billed_total": 74600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0358",
+  "member_id": "M003",
+  "hospital_id": "H10",
+  "admission_date": "2024-10-31",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR088",
+  "billed_total": 173000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0359",
+  "member_id": "M038",
+  "hospital_id": "H05",
+  "admission_date": "2025-05-16",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR089",
+  "billed_total": 86200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0360",
+  "member_id": "M034",
+  "hospital_id": "H26",
+  "admission_date": "2025-05-27",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR088",
+  "billed_total": 159000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0361",
+  "member_id": "M049",
+  "hospital_id": "H10",
+  "admission_date": "2024-11-20",
+  "diagnosis_code": "DX36",
+  "procedure_code": "PR108",
+  "billed_total": 73000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0362",
+  "member_id": "M007",
+  "hospital_id": "H03",
+  "admission_date": "2025-01-11",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR033",
+  "billed_total": 53900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0363",
+  "member_id": "M050",
+  "hospital_id": "H20",
+  "admission_date": "2024-08-19",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR018",
+  "billed_total": 30400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0364",
+  "member_id": "M013",
+  "hospital_id": "H25",
+  "admission_date": "2025-06-16",
+  "diagnosis_code": "DX15",
+  "procedure_code": "PR045",
+  "billed_total": 34300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0365",
+  "member_id": "M019",
+  "hospital_id": "H07",
+  "admission_date": "2025-01-16",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR117",
+  "billed_total": 52100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0366",
+  "member_id": "M056",
+  "hospital_id": "H11",
+  "admission_date": "2024-03-27",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR008",
+  "billed_total": 62500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0367",
+  "member_id": "M021",
+  "hospital_id": "H02",
+  "admission_date": "2025-08-29",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR092",
+  "billed_total": 125300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0368",
+  "member_id": "M043",
+  "hospital_id": "H26",
+  "admission_date": "2025-05-24",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR117",
+  "billed_total": 60700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0369",
+  "member_id": "M036",
+  "hospital_id": "H25",
+  "admission_date": "2024-08-24",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR026",
+  "billed_total": 102300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0370",
+  "member_id": "M003",
+  "hospital_id": "H34",
+  "admission_date": "2024-07-05",
+  "diagnosis_code": "DX18",
+  "procedure_code": "PR052",
+  "billed_total": 103300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0371",
+  "member_id": "M029",
+  "hospital_id": "H20",
+  "admission_date": "2024-04-07",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR037",
+  "billed_total": 179400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0372",
+  "member_id": "M044",
+  "hospital_id": "H40",
+  "admission_date": "2024-01-22",
+  "diagnosis_code": "DX17",
+  "procedure_code": "PR049",
+  "billed_total": 129200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0373",
+  "member_id": "M025",
+  "hospital_id": "H20",
+  "admission_date": "2024-10-07",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR010",
+  "billed_total": 241900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0374",
+  "member_id": "M013",
+  "hospital_id": "H01",
+  "admission_date": "2024-10-15",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR116",
+  "billed_total": 97500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0375",
+  "member_id": "M051",
+  "hospital_id": "H13",
+  "admission_date": "2024-09-17",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR034",
+  "billed_total": 287000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0376",
+  "member_id": "M006",
+  "hospital_id": "H10",
+  "admission_date": "2024-05-21",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR093",
+  "billed_total": 54900,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0377",
+  "member_id": "M046",
+  "hospital_id": "H05",
+  "admission_date": "2024-02-18",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR007",
+  "billed_total": 192000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0378",
+  "member_id": "M046",
+  "hospital_id": "H19",
+  "admission_date": "2024-03-28",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR115",
+  "billed_total": 111800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0379",
+  "member_id": "M023",
+  "hospital_id": "H10",
+  "admission_date": "2024-09-14",
+  "diagnosis_code": "DX19",
+  "procedure_code": "PR056",
+  "billed_total": 51200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0380",
+  "member_id": "M002",
+  "hospital_id": "H28",
+  "admission_date": "2024-02-12",
+  "diagnosis_code": "DX40",
+  "procedure_code": "PR118",
+  "billed_total": 263900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0381",
+  "member_id": "M013",
+  "hospital_id": "H07",
+  "admission_date": "2024-12-17",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR033",
+  "billed_total": 55800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0382",
+  "member_id": "M039",
+  "hospital_id": "H34",
+  "admission_date": "2025-04-19",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR098",
+  "billed_total": 76600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0383",
+  "member_id": "M019",
+  "hospital_id": "H15",
+  "admission_date": "2024-01-09",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR060",
+  "billed_total": 27600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0384",
+  "member_id": "M046",
+  "hospital_id": "H03",
+  "admission_date": "2024-11-08",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR025",
+  "billed_total": 284600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0385",
+  "member_id": "M037",
+  "hospital_id": "H29",
+  "admission_date": "2024-10-27",
+  "diagnosis_code": "DX16",
+  "procedure_code": "PR046",
+  "billed_total": 238900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0386",
+  "member_id": "M011",
+  "hospital_id": "H25",
+  "admission_date": "2025-03-10",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR103",
+  "billed_total": 277900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0387",
+  "member_id": "M045",
+  "hospital_id": "H37",
+  "admission_date": "2024-09-29",
+  "diagnosis_code": "DX18",
+  "procedure_code": "PR054",
+  "billed_total": 46100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0388",
+  "member_id": "M008",
+  "hospital_id": "H03",
+  "admission_date": "2025-07-29",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR021",
+  "billed_total": 25600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0389",
+  "member_id": "M041",
+  "hospital_id": "H29",
+  "admission_date": "2025-03-14",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR020",
+  "billed_total": 72300,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0390",
+  "member_id": "M036",
+  "hospital_id": "H07",
+  "admission_date": "2024-06-06",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR090",
+  "billed_total": 47700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0391",
+  "member_id": "M050",
+  "hospital_id": "H21",
+  "admission_date": "2024-04-07",
+  "diagnosis_code": "DX14",
+  "procedure_code": "PR042",
+  "billed_total": 62400,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0392",
+  "member_id": "M028",
+  "hospital_id": "H05",
+  "admission_date": "2024-08-19",
+  "diagnosis_code": "DX36",
+  "procedure_code": "PR108",
+  "billed_total": 66500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0393",
+  "member_id": "M012",
+  "hospital_id": "H02",
+  "admission_date": "2025-06-21",
+  "diagnosis_code": "DX14",
+  "procedure_code": "PR040",
+  "billed_total": 178600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0394",
+  "member_id": "M047",
+  "hospital_id": "H27",
+  "admission_date": "2024-05-04",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR109",
+  "billed_total": 104500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0395",
+  "member_id": "M036",
+  "hospital_id": "H33",
+  "admission_date": "2025-08-09",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR024",
+  "billed_total": 29100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0396",
+  "member_id": "M048",
+  "hospital_id": "H05",
+  "admission_date": "2024-09-28",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR003",
+  "billed_total": 46600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0397",
+  "member_id": "M047",
+  "hospital_id": "H20",
+  "admission_date": "2025-06-11",
+  "diagnosis_code": "DX17",
+  "procedure_code": "PR050",
+  "billed_total": 79900,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0398",
+  "member_id": "M021",
+  "hospital_id": "H15",
+  "admission_date": "2025-02-16",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR014",
+  "billed_total": 84600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0399",
+  "member_id": "M047",
+  "hospital_id": "H33",
+  "admission_date": "2025-06-23",
+  "diagnosis_code": "DX15",
+  "procedure_code": "PR044",
+  "billed_total": 92100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0400",
+  "member_id": "M040",
+  "hospital_id": "H18",
+  "admission_date": "2024-12-05",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR016",
+  "billed_total": 130700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0401",
+  "member_id": "M035",
+  "hospital_id": "H26",
+  "admission_date": "2024-12-07",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR020",
+  "billed_total": 85800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0402",
+  "member_id": "M032",
+  "hospital_id": "H28",
+  "admission_date": "2025-02-06",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR010",
+  "billed_total": 240500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0403",
+  "member_id": "M005",
+  "hospital_id": "H27",
+  "admission_date": "2024-03-28",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR007",
+  "billed_total": 143100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0404",
+  "member_id": "M014",
+  "hospital_id": "H13",
+  "admission_date": "2024-04-06",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR023",
+  "billed_total": 101400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0405",
+  "member_id": "M001",
+  "hospital_id": "H37",
+  "admission_date": "2025-07-22",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR031",
+  "billed_total": 107600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0406",
+  "member_id": "M021",
+  "hospital_id": "H03",
+  "admission_date": "2025-03-23",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR031",
+  "billed_total": 119400,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0407",
+  "member_id": "M007",
+  "hospital_id": "H24",
+  "admission_date": "2024-01-19",
+  "diagnosis_code": "DX40",
+  "procedure_code": "PR120",
+  "billed_total": 68700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0408",
+  "member_id": "M015",
+  "hospital_id": "H05",
+  "admission_date": "2025-07-03",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR114",
+  "billed_total": 50900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0409",
+  "member_id": "M025",
+  "hospital_id": "H07",
+  "admission_date": "2024-11-14",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR021",
+  "billed_total": 34700,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0410",
+  "member_id": "M020",
+  "hospital_id": "H33",
+  "admission_date": "2025-02-23",
+  "diagnosis_code": "DX02",
+  "procedure_code": "PR006",
+  "billed_total": 36800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0411",
+  "member_id": "M039",
+  "hospital_id": "H34",
+  "admission_date": "2024-06-05",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR088",
+  "billed_total": 148300,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0412",
+  "member_id": "M056",
+  "hospital_id": "H40",
+  "admission_date": "2024-03-14",
+  "diagnosis_code": "DX36",
+  "procedure_code": "PR107",
+  "billed_total": 53300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0413",
+  "member_id": "M054",
+  "hospital_id": "H33",
+  "admission_date": "2024-10-18",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR007",
+  "billed_total": 132300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0414",
+  "member_id": "M038",
+  "hospital_id": "H27",
+  "admission_date": "2025-08-14",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR091",
+  "billed_total": 250200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0415",
+  "member_id": "M056",
+  "hospital_id": "H10",
+  "admission_date": "2025-01-26",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR110",
+  "billed_total": 54400,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0416",
+  "member_id": "M005",
+  "hospital_id": "H29",
+  "admission_date": "2025-02-21",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR088",
+  "billed_total": 162400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0417",
+  "member_id": "M055",
+  "hospital_id": "H20",
+  "admission_date": "2024-09-26",
+  "diagnosis_code": "DX36",
+  "procedure_code": "PR106",
+  "billed_total": 141100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0418",
+  "member_id": "M044",
+  "hospital_id": "H26",
+  "admission_date": "2025-01-31",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR012",
+  "billed_total": 42700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0419",
+  "member_id": "M057",
+  "hospital_id": "H10",
+  "admission_date": "2024-10-01",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR008",
+  "billed_total": 85900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0420",
+  "member_id": "M057",
+  "hospital_id": "H13",
+  "admission_date": "2024-07-24",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR031",
+  "billed_total": 118300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0421",
+  "member_id": "M012",
+  "hospital_id": "H05",
+  "admission_date": "2025-03-07",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR012",
+  "billed_total": 45200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0422",
+  "member_id": "M025",
+  "hospital_id": "H05",
+  "admission_date": "2024-09-14",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR021",
+  "billed_total": 36400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0423",
+  "member_id": "M025",
+  "hospital_id": "H15",
+  "admission_date": "2024-07-15",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR117",
+  "billed_total": 41800,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0424",
+  "member_id": "M020",
+  "hospital_id": "H18",
+  "admission_date": "2024-06-18",
+  "diagnosis_code": "DX14",
+  "procedure_code": "PR040",
+  "billed_total": 159900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0425",
+  "member_id": "M013",
+  "hospital_id": "H33",
+  "admission_date": "2025-01-18",
+  "diagnosis_code": "DX18",
+  "procedure_code": "PR053",
+  "billed_total": 53700,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0426",
+  "member_id": "M012",
+  "hospital_id": "H25",
+  "admission_date": "2025-05-09",
+  "diagnosis_code": "DX40",
+  "procedure_code": "PR118",
+  "billed_total": 246800,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0427",
+  "member_id": "M029",
+  "hospital_id": "H12",
+  "admission_date": "2024-06-19",
+  "diagnosis_code": "DX16",
+  "procedure_code": "PR047",
+  "billed_total": 56500,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0428",
+  "member_id": "M027",
+  "hospital_id": "H37",
+  "admission_date": "2024-04-22",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR059",
+  "billed_total": 75900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0429",
+  "member_id": "M025",
+  "hospital_id": "H14",
+  "admission_date": "2025-04-17",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR022",
+  "billed_total": 242500,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0430",
+  "member_id": "M041",
+  "hospital_id": "H28",
+  "admission_date": "2025-08-04",
+  "diagnosis_code": "DX14",
+  "procedure_code": "PR040",
+  "billed_total": 159800,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0431",
+  "member_id": "M043",
+  "hospital_id": "H33",
+  "admission_date": "2024-08-29",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR092",
+  "billed_total": 85100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0432",
+  "member_id": "M041",
+  "hospital_id": "H05",
+  "admission_date": "2024-09-04",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR094",
+  "billed_total": 357200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0433",
+  "member_id": "M032",
+  "hospital_id": "H27",
+  "admission_date": "2024-07-03",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR035",
+  "billed_total": 47100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0434",
+  "member_id": "M005",
+  "hospital_id": "H34",
+  "admission_date": "2024-10-28",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR012",
+  "billed_total": 49300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0435",
+  "member_id": "M042",
+  "hospital_id": "H40",
+  "admission_date": "2024-01-30",
+  "diagnosis_code": "DX17",
+  "procedure_code": "PR051",
+  "billed_total": 40600,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0436",
+  "member_id": "M043",
+  "hospital_id": "H20",
+  "admission_date": "2024-06-22",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR111",
+  "billed_total": 41900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0437",
+  "member_id": "M034",
+  "hospital_id": "H27",
+  "admission_date": "2025-04-26",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR105",
+  "billed_total": 48500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0438",
+  "member_id": "M023",
+  "hospital_id": "H34",
+  "admission_date": "2024-05-01",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR017",
+  "billed_total": 49900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0439",
+  "member_id": "M056",
+  "hospital_id": "H15",
+  "admission_date": "2024-04-13",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR060",
+  "billed_total": 36700,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0440",
+  "member_id": "M023",
+  "hospital_id": "H24",
+  "admission_date": "2025-08-16",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR022",
+  "billed_total": 213200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0441",
+  "member_id": "M026",
+  "hospital_id": "H01",
+  "admission_date": "2025-08-06",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR009",
+  "billed_total": 31300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0442",
+  "member_id": "M022",
+  "hospital_id": "H01",
+  "admission_date": "2024-02-24",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR003",
+  "billed_total": 42400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0443",
+  "member_id": "M010",
+  "hospital_id": "H21",
+  "admission_date": "2025-02-13",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR002",
+  "billed_total": 88800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0444",
+  "member_id": "M010",
+  "hospital_id": "H20",
+  "admission_date": "2024-07-19",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR100",
+  "billed_total": 151900,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0445",
+  "member_id": "M001",
+  "hospital_id": "H26",
+  "admission_date": "2025-05-15",
+  "diagnosis_code": "DX10",
+  "procedure_code": "PR028",
+  "billed_total": 144300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0446",
+  "member_id": "M031",
+  "hospital_id": "H13",
+  "admission_date": "2024-01-08",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR097",
+  "billed_total": 231900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0447",
+  "member_id": "M051",
+  "hospital_id": "H21",
+  "admission_date": "2025-06-18",
+  "diagnosis_code": "DX18",
+  "procedure_code": "PR053",
+  "billed_total": 46600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0448",
+  "member_id": "M050",
+  "hospital_id": "H26",
+  "admission_date": "2024-04-12",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR094",
+  "billed_total": 261500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0449",
+  "member_id": "M014",
+  "hospital_id": "H16",
+  "admission_date": "2024-04-10",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR024",
+  "billed_total": 30300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0450",
+  "member_id": "M015",
+  "hospital_id": "H40",
+  "admission_date": "2024-11-09",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR104",
+  "billed_total": 78400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0451",
+  "member_id": "M023",
+  "hospital_id": "H02",
+  "admission_date": "2025-03-24",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR037",
+  "billed_total": 194300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0452",
+  "member_id": "M057",
+  "hospital_id": "H13",
+  "admission_date": "2025-02-22",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR003",
+  "billed_total": 40900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0453",
+  "member_id": "M019",
+  "hospital_id": "H40",
+  "admission_date": "2024-07-09",
+  "diagnosis_code": "DX17",
+  "procedure_code": "PR050",
+  "billed_total": 70800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0454",
+  "member_id": "M055",
+  "hospital_id": "H03",
+  "admission_date": "2024-08-25",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR091",
+  "billed_total": 281300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0455",
+  "member_id": "M030",
+  "hospital_id": "H20",
+  "admission_date": "2024-01-22",
+  "diagnosis_code": "DX14",
+  "procedure_code": "PR040",
+  "billed_total": 153700,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0456",
+  "member_id": "M055",
+  "hospital_id": "H33",
+  "admission_date": "2024-05-17",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR098",
+  "billed_total": 74100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0457",
+  "member_id": "M019",
+  "hospital_id": "H12",
+  "admission_date": "2024-03-03",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR116",
+  "billed_total": 86800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0458",
+  "member_id": "M023",
+  "hospital_id": "H25",
+  "admission_date": "2025-08-01",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR019",
+  "billed_total": 111100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0459",
+  "member_id": "M058",
+  "hospital_id": "H15",
+  "admission_date": "2024-05-25",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR039",
+  "billed_total": 65400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0460",
+  "member_id": "M057",
+  "hospital_id": "H32",
+  "admission_date": "2024-05-05",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR116",
+  "billed_total": 94200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0461",
+  "member_id": "M027",
+  "hospital_id": "H27",
+  "admission_date": "2025-02-02",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR117",
+  "billed_total": 56700,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0462",
+  "member_id": "M044",
+  "hospital_id": "H29",
+  "admission_date": "2025-02-18",
+  "diagnosis_code": "DX36",
+  "procedure_code": "PR106",
+  "billed_total": 149800,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0463",
+  "member_id": "M019",
+  "hospital_id": "H13",
+  "admission_date": "2025-08-08",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR008",
+  "billed_total": 76000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0464",
+  "member_id": "M042",
+  "hospital_id": "H18",
+  "admission_date": "2024-07-10",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR095",
+  "billed_total": 41000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0465",
+  "member_id": "M030",
+  "hospital_id": "H33",
+  "admission_date": "2025-05-01",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR017",
+  "billed_total": 47200,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0466",
+  "member_id": "M008",
+  "hospital_id": "H33",
+  "admission_date": "2024-01-17",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR096",
+  "billed_total": 37400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0467",
+  "member_id": "M001",
+  "hospital_id": "H34",
+  "admission_date": "2025-08-22",
+  "diagnosis_code": "DX02",
+  "procedure_code": "PR006",
+  "billed_total": 39200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0468",
+  "member_id": "M042",
+  "hospital_id": "H10",
+  "admission_date": "2025-02-09",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR112",
+  "billed_total": 105700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0469",
+  "member_id": "M005",
+  "hospital_id": "H15",
+  "admission_date": "2025-06-29",
+  "diagnosis_code": "DX36",
+  "procedure_code": "PR107",
+  "billed_total": 52200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0470",
+  "member_id": "M033",
+  "hospital_id": "H01",
+  "admission_date": "2024-03-22",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR007",
+  "billed_total": 177600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0471",
+  "member_id": "M039",
+  "hospital_id": "H07",
+  "admission_date": "2024-12-28",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR001",
+  "billed_total": 217500,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0472",
+  "member_id": "M022",
+  "hospital_id": "H29",
+  "admission_date": "2025-08-18",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR036",
+  "billed_total": 38800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0473",
+  "member_id": "M021",
+  "hospital_id": "H27",
+  "admission_date": "2025-03-03",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR091",
+  "billed_total": 287500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0474",
+  "member_id": "M040",
+  "hospital_id": "H10",
+  "admission_date": "2025-02-21",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR035",
+  "billed_total": 59100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0475",
+  "member_id": "M005",
+  "hospital_id": "H16",
+  "admission_date": "2025-03-26",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR092",
+  "billed_total": 147300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0476",
+  "member_id": "M060",
+  "hospital_id": "H21",
+  "admission_date": "2025-01-17",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR019",
+  "billed_total": 111800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0477",
+  "member_id": "M054",
+  "hospital_id": "H05",
+  "admission_date": "2024-05-04",
+  "diagnosis_code": "DX15",
+  "procedure_code": "PR043",
+  "billed_total": 236600,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0478",
+  "member_id": "M031",
+  "hospital_id": "H16",
+  "admission_date": "2025-07-10",
+  "diagnosis_code": "DX10",
+  "procedure_code": "PR030",
+  "billed_total": 47900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0479",
+  "member_id": "M019",
+  "hospital_id": "H39",
+  "admission_date": "2025-06-13",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR111",
+  "billed_total": 47200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0480",
+  "member_id": "M054",
+  "hospital_id": "H34",
+  "admission_date": "2025-03-10",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR037",
+  "billed_total": 172500,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0481",
+  "member_id": "M041",
+  "hospital_id": "H19",
+  "admission_date": "2025-05-27",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR007",
+  "billed_total": 168900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0482",
+  "member_id": "M045",
+  "hospital_id": "H05",
+  "admission_date": "2024-12-04",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR009",
+  "billed_total": 35000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0483",
+  "member_id": "M027",
+  "hospital_id": "H40",
+  "admission_date": "2024-05-31",
+  "diagnosis_code": "DX36",
+  "procedure_code": "PR106",
+  "billed_total": 152000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0484",
+  "member_id": "M043",
+  "hospital_id": "H18",
+  "admission_date": "2024-09-24",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR095",
+  "billed_total": 55700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0485",
+  "member_id": "M044",
+  "hospital_id": "H39",
+  "admission_date": "2025-05-11",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR020",
+  "billed_total": 85700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0486",
+  "member_id": "M049",
+  "hospital_id": "H26",
+  "admission_date": "2025-06-04",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR019",
+  "billed_total": 140300,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0487",
+  "member_id": "M014",
+  "hospital_id": "H32",
+  "admission_date": "2024-05-10",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR003",
+  "billed_total": 46800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0488",
+  "member_id": "M017",
+  "hospital_id": "H12",
+  "admission_date": "2025-07-17",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR007",
+  "billed_total": 165400,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0489",
+  "member_id": "M026",
+  "hospital_id": "H27",
+  "admission_date": "2025-05-30",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR097",
+  "billed_total": 151700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0490",
+  "member_id": "M010",
+  "hospital_id": "H37",
+  "admission_date": "2025-02-28",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR060",
+  "billed_total": 25300,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0491",
+  "member_id": "M043",
+  "hospital_id": "H20",
+  "admission_date": "2024-08-02",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR034",
+  "billed_total": 222000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0492",
+  "member_id": "M035",
+  "hospital_id": "H27",
+  "admission_date": "2025-08-27",
+  "diagnosis_code": "DX40",
+  "procedure_code": "PR119",
+  "billed_total": 53700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0493",
+  "member_id": "M052",
+  "hospital_id": "H37",
+  "admission_date": "2024-02-18",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR088",
+  "billed_total": 169800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0494",
+  "member_id": "M056",
+  "hospital_id": "H02",
+  "admission_date": "2025-08-25",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR033",
+  "billed_total": 58500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0495",
+  "member_id": "M059",
+  "hospital_id": "H15",
+  "admission_date": "2025-04-26",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR015",
+  "billed_total": 35700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0496",
+  "member_id": "M057",
+  "hospital_id": "H40",
+  "admission_date": "2024-09-08",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR009",
+  "billed_total": 21600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0497",
+  "member_id": "M039",
+  "hospital_id": "H26",
+  "admission_date": "2025-04-05",
+  "diagnosis_code": "DX14",
+  "procedure_code": "PR042",
+  "billed_total": 48400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0498",
+  "member_id": "M033",
+  "hospital_id": "H02",
+  "admission_date": "2024-03-28",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR090",
+  "billed_total": 48600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0499",
+  "member_id": "M015",
+  "hospital_id": "H07",
+  "admission_date": "2024-12-15",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR003",
+  "billed_total": 41500,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0500",
+  "member_id": "M049",
+  "hospital_id": "H28",
+  "admission_date": "2025-03-11",
+  "diagnosis_code": "DX36",
+  "procedure_code": "PR107",
+  "billed_total": 55400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0501",
+  "member_id": "M018",
+  "hospital_id": "H27",
+  "admission_date": "2025-01-12",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR034",
+  "billed_total": 219200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0502",
+  "member_id": "M046",
+  "hospital_id": "H40",
+  "admission_date": "2025-06-21",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR090",
+  "billed_total": 38500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0503",
+  "member_id": "M007",
+  "hospital_id": "H20",
+  "admission_date": "2024-06-24",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR097",
+  "billed_total": 226900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0504",
+  "member_id": "M014",
+  "hospital_id": "H02",
+  "admission_date": "2025-01-16",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR033",
+  "billed_total": 50900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0505",
+  "member_id": "M024",
+  "hospital_id": "H12",
+  "admission_date": "2024-02-27",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR117",
+  "billed_total": 52500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0506",
+  "member_id": "M060",
+  "hospital_id": "H28",
+  "admission_date": "2025-06-08",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR116",
+  "billed_total": 89600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0507",
+  "member_id": "M020",
+  "hospital_id": "H13",
+  "admission_date": "2024-01-05",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR027",
+  "billed_total": 36700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0508",
+  "member_id": "M032",
+  "hospital_id": "H29",
+  "admission_date": "2024-08-21",
+  "diagnosis_code": "DX18",
+  "procedure_code": "PR054",
+  "billed_total": 37900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0509",
+  "member_id": "M036",
+  "hospital_id": "H02",
+  "admission_date": "2024-10-18",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR010",
+  "billed_total": 305900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0510",
+  "member_id": "M006",
+  "hospital_id": "H34",
+  "admission_date": "2025-01-12",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR026",
+  "billed_total": 82300,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0511",
+  "member_id": "M043",
+  "hospital_id": "H25",
+  "admission_date": "2024-07-17",
+  "diagnosis_code": "DX36",
+  "procedure_code": "PR107",
+  "billed_total": 49000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0512",
+  "member_id": "M059",
+  "hospital_id": "H12",
+  "admission_date": "2025-05-14",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR105",
+  "billed_total": 64300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0513",
+  "member_id": "M025",
+  "hospital_id": "H05",
+  "admission_date": "2024-07-30",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR034",
+  "billed_total": 280600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0514",
+  "member_id": "M013",
+  "hospital_id": "H25",
+  "admission_date": "2024-11-04",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR104",
+  "billed_total": 74600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0515",
+  "member_id": "M036",
+  "hospital_id": "H05",
+  "admission_date": "2024-08-03",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR094",
+  "billed_total": 361700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0516",
+  "member_id": "M011",
+  "hospital_id": "H02",
+  "admission_date": "2025-07-24",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR009",
+  "billed_total": 39100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0517",
+  "member_id": "M053",
+  "hospital_id": "H25",
+  "admission_date": "2024-02-15",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR092",
+  "billed_total": 117900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0518",
+  "member_id": "M057",
+  "hospital_id": "H05",
+  "admission_date": "2025-06-18",
+  "diagnosis_code": "DX15",
+  "procedure_code": "PR043",
+  "billed_total": 268200,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0519",
+  "member_id": "M015",
+  "hospital_id": "H01",
+  "admission_date": "2025-01-18",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR110",
+  "billed_total": 51700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0520",
+  "member_id": "M041",
+  "hospital_id": "H33",
+  "admission_date": "2025-02-11",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR060",
+  "billed_total": 34900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0521",
+  "member_id": "M034",
+  "hospital_id": "H32",
+  "admission_date": "2025-05-30",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR096",
+  "billed_total": 45300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0522",
+  "member_id": "M055",
+  "hospital_id": "H10",
+  "admission_date": "2025-03-21",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR014",
+  "billed_total": 77600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0523",
+  "member_id": "M050",
+  "hospital_id": "H16",
+  "admission_date": "2025-03-05",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR019",
+  "billed_total": 161700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0524",
+  "member_id": "M044",
+  "hospital_id": "H28",
+  "admission_date": "2025-03-07",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR011",
+  "billed_total": 54900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0525",
+  "member_id": "M058",
+  "hospital_id": "H28",
+  "admission_date": "2024-07-30",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR010",
+  "billed_total": 280400,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0526",
+  "member_id": "M015",
+  "hospital_id": "H29",
+  "admission_date": "2024-04-05",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR023",
+  "billed_total": 74300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0527",
+  "member_id": "M046",
+  "hospital_id": "H15",
+  "admission_date": "2024-10-11",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR015",
+  "billed_total": 40800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0528",
+  "member_id": "M010",
+  "hospital_id": "H33",
+  "admission_date": "2024-11-02",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR031",
+  "billed_total": 94300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0529",
+  "member_id": "M024",
+  "hospital_id": "H18",
+  "admission_date": "2024-04-14",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR117",
+  "billed_total": 42200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0530",
+  "member_id": "M038",
+  "hospital_id": "H20",
+  "admission_date": "2025-02-24",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR059",
+  "billed_total": 86600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0531",
+  "member_id": "M048",
+  "hospital_id": "H21",
+  "admission_date": "2024-10-15",
+  "diagnosis_code": "DX18",
+  "procedure_code": "PR053",
+  "billed_total": 74500,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0532",
+  "member_id": "M022",
+  "hospital_id": "H25",
+  "admission_date": "2024-09-11",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR015",
+  "billed_total": 21400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0533",
+  "member_id": "M021",
+  "hospital_id": "H19",
+  "admission_date": "2024-08-08",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR109",
+  "billed_total": 95000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0534",
+  "member_id": "M017",
+  "hospital_id": "H11",
+  "admission_date": "2025-08-16",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR017",
+  "billed_total": 38100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0535",
+  "member_id": "M039",
+  "hospital_id": "H28",
+  "admission_date": "2025-05-10",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR011",
+  "billed_total": 62900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0536",
+  "member_id": "M059",
+  "hospital_id": "H29",
+  "admission_date": "2024-05-30",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR022",
+  "billed_total": 226600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0537",
+  "member_id": "M015",
+  "hospital_id": "H34",
+  "admission_date": "2024-08-23",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR098",
+  "billed_total": 67400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0538",
+  "member_id": "M049",
+  "hospital_id": "H19",
+  "admission_date": "2024-03-10",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR033",
+  "billed_total": 49000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0539",
+  "member_id": "M041",
+  "hospital_id": "H07",
+  "admission_date": "2024-08-24",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR003",
+  "billed_total": 44900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0540",
+  "member_id": "M001",
+  "hospital_id": "H40",
+  "admission_date": "2025-03-09",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR105",
+  "billed_total": 54600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0541",
+  "member_id": "M047",
+  "hospital_id": "H15",
+  "admission_date": "2024-05-02",
+  "diagnosis_code": "DX19",
+  "procedure_code": "PR055",
+  "billed_total": 127300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0542",
+  "member_id": "M024",
+  "hospital_id": "H14",
+  "admission_date": "2025-08-22",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR104",
+  "billed_total": 89600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0543",
+  "member_id": "M040",
+  "hospital_id": "H39",
+  "admission_date": "2025-03-24",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR110",
+  "billed_total": 75400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0544",
+  "member_id": "M036",
+  "hospital_id": "H11",
+  "admission_date": "2024-02-09",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR100",
+  "billed_total": 154900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0545",
+  "member_id": "M007",
+  "hospital_id": "H34",
+  "admission_date": "2024-12-23",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR007",
+  "billed_total": 152700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0546",
+  "member_id": "M044",
+  "hospital_id": "H15",
+  "admission_date": "2024-11-07",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR033",
+  "billed_total": 47600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0547",
+  "member_id": "M021",
+  "hospital_id": "H13",
+  "admission_date": "2024-04-10",
+  "diagnosis_code": "DX18",
+  "procedure_code": "PR053",
+  "billed_total": 48300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0548",
+  "member_id": "M005",
+  "hospital_id": "H27",
+  "admission_date": "2025-01-28",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR034",
+  "billed_total": 260000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0549",
+  "member_id": "M033",
+  "hospital_id": "H39",
+  "admission_date": "2024-01-25",
+  "diagnosis_code": "DX02",
+  "procedure_code": "PR005",
+  "billed_total": 92800,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0550",
+  "member_id": "M002",
+  "hospital_id": "H07",
+  "admission_date": "2024-03-20",
+  "diagnosis_code": "DX10",
+  "procedure_code": "PR030",
+  "billed_total": 45300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0551",
+  "member_id": "M033",
+  "hospital_id": "H40",
+  "admission_date": "2024-10-11",
+  "diagnosis_code": "DX19",
+  "procedure_code": "PR056",
+  "billed_total": 52500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0552",
+  "member_id": "M026",
+  "hospital_id": "H39",
+  "admission_date": "2024-04-18",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR021",
+  "billed_total": 25100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0553",
+  "member_id": "M009",
+  "hospital_id": "H02",
+  "admission_date": "2024-08-10",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR022",
+  "billed_total": 277500,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0554",
+  "member_id": "M006",
+  "hospital_id": "H20",
+  "admission_date": "2025-04-15",
+  "diagnosis_code": "DX02",
+  "procedure_code": "PR006",
+  "billed_total": 30300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0555",
+  "member_id": "M037",
+  "hospital_id": "H34",
+  "admission_date": "2025-06-05",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR015",
+  "billed_total": 29300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0556",
+  "member_id": "M033",
+  "hospital_id": "H19",
+  "admission_date": "2025-06-03",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR018",
+  "billed_total": 40400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0557",
+  "member_id": "M019",
+  "hospital_id": "H39",
+  "admission_date": "2024-07-10",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR016",
+  "billed_total": 104900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0558",
+  "member_id": "M029",
+  "hospital_id": "H20",
+  "admission_date": "2025-06-10",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR091",
+  "billed_total": 274300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0559",
+  "member_id": "M034",
+  "hospital_id": "H24",
+  "admission_date": "2025-04-14",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR101",
+  "billed_total": 81300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0560",
+  "member_id": "M028",
+  "hospital_id": "H40",
+  "admission_date": "2025-05-16",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR117",
+  "billed_total": 46700,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0561",
+  "member_id": "M008",
+  "hospital_id": "H12",
+  "admission_date": "2025-05-05",
+  "diagnosis_code": "DX14",
+  "procedure_code": "PR042",
+  "billed_total": 43600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0562",
+  "member_id": "M049",
+  "hospital_id": "H29",
+  "admission_date": "2025-01-03",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR014",
+  "billed_total": 65300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0563",
+  "member_id": "M011",
+  "hospital_id": "H11",
+  "admission_date": "2024-10-22",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR035",
+  "billed_total": 60300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0564",
+  "member_id": "M011",
+  "hospital_id": "H33",
+  "admission_date": "2024-03-09",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR013",
+  "billed_total": 255000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0565",
+  "member_id": "M007",
+  "hospital_id": "H13",
+  "admission_date": "2025-01-04",
+  "diagnosis_code": "DX17",
+  "procedure_code": "PR049",
+  "billed_total": 182600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0566",
+  "member_id": "M057",
+  "hospital_id": "H11",
+  "admission_date": "2024-01-23",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR010",
+  "billed_total": 300800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0567",
+  "member_id": "M035",
+  "hospital_id": "H10",
+  "admission_date": "2024-03-06",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR089",
+  "billed_total": 91200,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0568",
+  "member_id": "M030",
+  "hospital_id": "H07",
+  "admission_date": "2025-04-06",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR109",
+  "billed_total": 115300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0569",
+  "member_id": "M058",
+  "hospital_id": "H16",
+  "admission_date": "2024-07-06",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR104",
+  "billed_total": 91000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0570",
+  "member_id": "M014",
+  "hospital_id": "H24",
+  "admission_date": "2025-05-26",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR035",
+  "billed_total": 54300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0571",
+  "member_id": "M042",
+  "hospital_id": "H27",
+  "admission_date": "2024-10-30",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR031",
+  "billed_total": 71700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0572",
+  "member_id": "M049",
+  "hospital_id": "H37",
+  "admission_date": "2025-05-10",
+  "diagnosis_code": "DX19",
+  "procedure_code": "PR056",
+  "billed_total": 55300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0573",
+  "member_id": "M047",
+  "hospital_id": "H21",
+  "admission_date": "2025-01-24",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR097",
+  "billed_total": 228000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0574",
+  "member_id": "M025",
+  "hospital_id": "H28",
+  "admission_date": "2024-07-30",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR016",
+  "billed_total": 111500,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0575",
+  "member_id": "M007",
+  "hospital_id": "H07",
+  "admission_date": "2024-07-04",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR024",
+  "billed_total": 44200,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0576",
+  "member_id": "M001",
+  "hospital_id": "H26",
+  "admission_date": "2025-04-13",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR018",
+  "billed_total": 35700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0577",
+  "member_id": "M017",
+  "hospital_id": "H13",
+  "admission_date": "2024-08-14",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR090",
+  "billed_total": 29500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0578",
+  "member_id": "M016",
+  "hospital_id": "H20",
+  "admission_date": "2025-03-18",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR112",
+  "billed_total": 102000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0579",
+  "member_id": "M030",
+  "hospital_id": "H05",
+  "admission_date": "2025-03-04",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR089",
+  "billed_total": 93300,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0580",
+  "member_id": "M010",
+  "hospital_id": "H11",
+  "admission_date": "2024-11-20",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR105",
+  "billed_total": 67100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0581",
+  "member_id": "M012",
+  "hospital_id": "H01",
+  "admission_date": "2024-12-01",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR104",
+  "billed_total": 88100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0582",
+  "member_id": "M004",
+  "hospital_id": "H32",
+  "admission_date": "2025-05-05",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR090",
+  "billed_total": 24300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0583",
+  "member_id": "M006",
+  "hospital_id": "H11",
+  "admission_date": "2025-04-24",
+  "diagnosis_code": "DX10",
+  "procedure_code": "PR030",
+  "billed_total": 39800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0584",
+  "member_id": "M019",
+  "hospital_id": "H13",
+  "admission_date": "2024-09-07",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR020",
+  "billed_total": 97900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0585",
+  "member_id": "M011",
+  "hospital_id": "H24",
+  "admission_date": "2024-06-10",
+  "diagnosis_code": "DX17",
+  "procedure_code": "PR051",
+  "billed_total": 51500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0586",
+  "member_id": "M020",
+  "hospital_id": "H27",
+  "admission_date": "2025-06-20",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR034",
+  "billed_total": 260700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0587",
+  "member_id": "M023",
+  "hospital_id": "H16",
+  "admission_date": "2025-08-20",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR015",
+  "billed_total": 36800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0588",
+  "member_id": "M018",
+  "hospital_id": "H07",
+  "admission_date": "2024-07-08",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR015",
+  "billed_total": 43700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0589",
+  "member_id": "M019",
+  "hospital_id": "H15",
+  "admission_date": "2024-06-20",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR014",
+  "billed_total": 84600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0590",
+  "member_id": "M010",
+  "hospital_id": "H21",
+  "admission_date": "2024-03-25",
+  "diagnosis_code": "DX16",
+  "procedure_code": "PR048",
+  "billed_total": 47600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0591",
+  "member_id": "M036",
+  "hospital_id": "H02",
+  "admission_date": "2024-10-31",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR008",
+  "billed_total": 102400,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0592",
+  "member_id": "M033",
+  "hospital_id": "H13",
+  "admission_date": "2025-01-04",
+  "diagnosis_code": "DX02",
+  "procedure_code": "PR006",
+  "billed_total": 46100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0593",
+  "member_id": "M010",
+  "hospital_id": "H37",
+  "admission_date": "2025-06-29",
+  "diagnosis_code": "DX17",
+  "procedure_code": "PR050",
+  "billed_total": 75600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0594",
+  "member_id": "M038",
+  "hospital_id": "H15",
+  "admission_date": "2024-08-10",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR092",
+  "billed_total": 119600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0595",
+  "member_id": "M017",
+  "hospital_id": "H18",
+  "admission_date": "2024-06-16",
+  "diagnosis_code": "DX15",
+  "procedure_code": "PR045",
+  "billed_total": 37200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0596",
+  "member_id": "M058",
+  "hospital_id": "H24",
+  "admission_date": "2024-07-21",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR025",
+  "billed_total": 289700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0597",
+  "member_id": "M048",
+  "hospital_id": "H13",
+  "admission_date": "2025-07-03",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR011",
+  "billed_total": 74500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0598",
+  "member_id": "M033",
+  "hospital_id": "H10",
+  "admission_date": "2024-08-21",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR117",
+  "billed_total": 69400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0599",
+  "member_id": "M016",
+  "hospital_id": "H19",
+  "admission_date": "2024-07-02",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR007",
+  "billed_total": 143300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0600",
+  "member_id": "M038",
+  "hospital_id": "H19",
+  "admission_date": "2025-04-01",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR089",
+  "billed_total": 93600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0601",
+  "member_id": "M003",
+  "hospital_id": "H33",
+  "admission_date": "2024-10-08",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR039",
+  "billed_total": 57300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0602",
+  "member_id": "M033",
+  "hospital_id": "H11",
+  "admission_date": "2024-05-25",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR003",
+  "billed_total": 41900,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0603",
+  "member_id": "M049",
+  "hospital_id": "H37",
+  "admission_date": "2025-05-09",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR032",
+  "billed_total": 88600,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0604",
+  "member_id": "M016",
+  "hospital_id": "H20",
+  "admission_date": "2024-05-06",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR103",
+  "billed_total": 221000,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0605",
+  "member_id": "M039",
+  "hospital_id": "H07",
+  "admission_date": "2024-11-28",
+  "diagnosis_code": "DX40",
+  "procedure_code": "PR118",
+  "billed_total": 295300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0606",
+  "member_id": "M015",
+  "hospital_id": "H01",
+  "admission_date": "2024-07-19",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR100",
+  "billed_total": 153400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0607",
+  "member_id": "M058",
+  "hospital_id": "H29",
+  "admission_date": "2024-09-11",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR016",
+  "billed_total": 122500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0608",
+  "member_id": "M017",
+  "hospital_id": "H12",
+  "admission_date": "2024-06-20",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR098",
+  "billed_total": 72500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0609",
+  "member_id": "M033",
+  "hospital_id": "H14",
+  "admission_date": "2024-07-28",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR114",
+  "billed_total": 49400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0610",
+  "member_id": "M030",
+  "hospital_id": "H12",
+  "admission_date": "2024-10-01",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR116",
+  "billed_total": 99200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0611",
+  "member_id": "M054",
+  "hospital_id": "H10",
+  "admission_date": "2025-02-23",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR036",
+  "billed_total": 43100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0612",
+  "member_id": "M025",
+  "hospital_id": "H32",
+  "admission_date": "2024-06-15",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR011",
+  "billed_total": 48900,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0613",
+  "member_id": "M037",
+  "hospital_id": "H25",
+  "admission_date": "2024-12-27",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR058",
+  "billed_total": 125100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0614",
+  "member_id": "M052",
+  "hospital_id": "H03",
+  "admission_date": "2024-06-17",
+  "diagnosis_code": "DX14",
+  "procedure_code": "PR042",
+  "billed_total": 53700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0615",
+  "member_id": "M014",
+  "hospital_id": "H39",
+  "admission_date": "2025-06-01",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR016",
+  "billed_total": 119500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0616",
+  "member_id": "M020",
+  "hospital_id": "H16",
+  "admission_date": "2024-02-04",
+  "diagnosis_code": "DX40",
+  "procedure_code": "PR118",
+  "billed_total": 319300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0617",
+  "member_id": "M051",
+  "hospital_id": "H13",
+  "admission_date": "2024-01-26",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR038",
+  "billed_total": 80000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0618",
+  "member_id": "M003",
+  "hospital_id": "H32",
+  "admission_date": "2025-01-26",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR019",
+  "billed_total": 108700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0619",
+  "member_id": "M014",
+  "hospital_id": "H19",
+  "admission_date": "2025-02-11",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR012",
+  "billed_total": 44400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0620",
+  "member_id": "M031",
+  "hospital_id": "H01",
+  "admission_date": "2025-06-28",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR101",
+  "billed_total": 65900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0621",
+  "member_id": "M005",
+  "hospital_id": "H02",
+  "admission_date": "2025-01-28",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR018",
+  "billed_total": 48700,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0622",
+  "member_id": "M005",
+  "hospital_id": "H33",
+  "admission_date": "2025-01-05",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR032",
+  "billed_total": 92600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0623",
+  "member_id": "M028",
+  "hospital_id": "H20",
+  "admission_date": "2024-03-31",
+  "diagnosis_code": "DX19",
+  "procedure_code": "PR055",
+  "billed_total": 111800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0624",
+  "member_id": "M050",
+  "hospital_id": "H34",
+  "admission_date": "2024-08-26",
+  "diagnosis_code": "DX40",
+  "procedure_code": "PR118",
+  "billed_total": 241500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0625",
+  "member_id": "M035",
+  "hospital_id": "H27",
+  "admission_date": "2025-08-22",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR020",
+  "billed_total": 63800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0626",
+  "member_id": "M015",
+  "hospital_id": "H14",
+  "admission_date": "2024-09-23",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR015",
+  "billed_total": 38400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0627",
+  "member_id": "M023",
+  "hospital_id": "H07",
+  "admission_date": "2025-01-20",
+  "diagnosis_code": "DX14",
+  "procedure_code": "PR042",
+  "billed_total": 48200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0628",
+  "member_id": "M019",
+  "hospital_id": "H05",
+  "admission_date": "2024-05-03",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR019",
+  "billed_total": 147700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0629",
+  "member_id": "M014",
+  "hospital_id": "H25",
+  "admission_date": "2025-03-05",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR035",
+  "billed_total": 53200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0630",
+  "member_id": "M054",
+  "hospital_id": "H27",
+  "admission_date": "2024-07-18",
+  "diagnosis_code": "DX17",
+  "procedure_code": "PR049",
+  "billed_total": 145300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0631",
+  "member_id": "M006",
+  "hospital_id": "H11",
+  "admission_date": "2024-05-19",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR100",
+  "billed_total": 125200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0632",
+  "member_id": "M009",
+  "hospital_id": "H25",
+  "admission_date": "2025-01-05",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR023",
+  "billed_total": 91200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0633",
+  "member_id": "M036",
+  "hospital_id": "H21",
+  "admission_date": "2025-02-22",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR102",
+  "billed_total": 37600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0634",
+  "member_id": "M046",
+  "hospital_id": "H34",
+  "admission_date": "2025-05-06",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR034",
+  "billed_total": 204800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0635",
+  "member_id": "M011",
+  "hospital_id": "H37",
+  "admission_date": "2024-08-15",
+  "diagnosis_code": "DX17",
+  "procedure_code": "PR049",
+  "billed_total": 135700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0636",
+  "member_id": "M021",
+  "hospital_id": "H03",
+  "admission_date": "2024-07-26",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR038",
+  "billed_total": 89200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0637",
+  "member_id": "M046",
+  "hospital_id": "H39",
+  "admission_date": "2025-05-31",
+  "diagnosis_code": "DX19",
+  "procedure_code": "PR056",
+  "billed_total": 54500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0638",
+  "member_id": "M038",
+  "hospital_id": "H18",
+  "admission_date": "2024-01-19",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR001",
+  "billed_total": 158800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0639",
+  "member_id": "M039",
+  "hospital_id": "H39",
+  "admission_date": "2025-07-01",
+  "diagnosis_code": "DX15",
+  "procedure_code": "PR044",
+  "billed_total": 87700,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0640",
+  "member_id": "M047",
+  "hospital_id": "H11",
+  "admission_date": "2024-05-20",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR022",
+  "billed_total": 254800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0641",
+  "member_id": "M042",
+  "hospital_id": "H03",
+  "admission_date": "2024-06-27",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR113",
+  "billed_total": 96400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0642",
+  "member_id": "M009",
+  "hospital_id": "H15",
+  "admission_date": "2024-09-16",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR013",
+  "billed_total": 231600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0643",
+  "member_id": "M047",
+  "hospital_id": "H28",
+  "admission_date": "2025-02-28",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR031",
+  "billed_total": 122800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0644",
+  "member_id": "M022",
+  "hospital_id": "H39",
+  "admission_date": "2025-06-15",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR034",
+  "billed_total": 238500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0645",
+  "member_id": "M057",
+  "hospital_id": "H18",
+  "admission_date": "2024-02-12",
+  "diagnosis_code": "DX17",
+  "procedure_code": "PR050",
+  "billed_total": 93200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0646",
+  "member_id": "M008",
+  "hospital_id": "H16",
+  "admission_date": "2024-01-22",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR013",
+  "billed_total": 268700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0647",
+  "member_id": "M047",
+  "hospital_id": "H11",
+  "admission_date": "2024-10-30",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR113",
+  "billed_total": 109700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0648",
+  "member_id": "M020",
+  "hospital_id": "H15",
+  "admission_date": "2024-01-15",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR018",
+  "billed_total": 32300,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0649",
+  "member_id": "M029",
+  "hospital_id": "H37",
+  "admission_date": "2024-07-20",
+  "diagnosis_code": "DX19",
+  "procedure_code": "PR056",
+  "billed_total": 51300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0650",
+  "member_id": "M041",
+  "hospital_id": "H34",
+  "admission_date": "2024-04-21",
+  "diagnosis_code": "DX19",
+  "procedure_code": "PR056",
+  "billed_total": 66400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0651",
+  "member_id": "M002",
+  "hospital_id": "H28",
+  "admission_date": "2024-05-06",
+  "diagnosis_code": "DX10",
+  "procedure_code": "PR029",
+  "billed_total": 93200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0652",
+  "member_id": "M042",
+  "hospital_id": "H14",
+  "admission_date": "2024-09-19",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR117",
+  "billed_total": 50700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0653",
+  "member_id": "M038",
+  "hospital_id": "H18",
+  "admission_date": "2024-11-18",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR091",
+  "billed_total": 277100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0654",
+  "member_id": "M004",
+  "hospital_id": "H12",
+  "admission_date": "2024-10-10",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR059",
+  "billed_total": 78600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0655",
+  "member_id": "M044",
+  "hospital_id": "H18",
+  "admission_date": "2024-09-02",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR035",
+  "billed_total": 57400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0656",
+  "member_id": "M050",
+  "hospital_id": "H18",
+  "admission_date": "2025-05-14",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR111",
+  "billed_total": 44400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0657",
+  "member_id": "M041",
+  "hospital_id": "H12",
+  "admission_date": "2025-03-05",
+  "diagnosis_code": "DX19",
+  "procedure_code": "PR057",
+  "billed_total": 60000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0658",
+  "member_id": "M035",
+  "hospital_id": "H34",
+  "admission_date": "2025-08-16",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR111",
+  "billed_total": 40300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0659",
+  "member_id": "M049",
+  "hospital_id": "H12",
+  "admission_date": "2024-06-21",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR058",
+  "billed_total": 148000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0660",
+  "member_id": "M013",
+  "hospital_id": "H37",
+  "admission_date": "2025-06-11",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR115",
+  "billed_total": 95800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0661",
+  "member_id": "M056",
+  "hospital_id": "H32",
+  "admission_date": "2024-02-24",
+  "diagnosis_code": "DX02",
+  "procedure_code": "PR005",
+  "billed_total": 67200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0662",
+  "member_id": "M032",
+  "hospital_id": "H03",
+  "admission_date": "2024-03-25",
+  "diagnosis_code": "DX17",
+  "procedure_code": "PR051",
+  "billed_total": 60700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0663",
+  "member_id": "M045",
+  "hospital_id": "H15",
+  "admission_date": "2024-12-06",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR091",
+  "billed_total": 284200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0664",
+  "member_id": "M042",
+  "hospital_id": "H21",
+  "admission_date": "2024-11-22",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR031",
+  "billed_total": 84800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0665",
+  "member_id": "M038",
+  "hospital_id": "H25",
+  "admission_date": "2024-05-26",
+  "diagnosis_code": "DX02",
+  "procedure_code": "PR006",
+  "billed_total": 27300,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0666",
+  "member_id": "M023",
+  "hospital_id": "H37",
+  "admission_date": "2025-08-26",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR111",
+  "billed_total": 47800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0667",
+  "member_id": "M026",
+  "hospital_id": "H20",
+  "admission_date": "2025-02-15",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR059",
+  "billed_total": 80700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0668",
+  "member_id": "M058",
+  "hospital_id": "H34",
+  "admission_date": "2024-12-10",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR036",
+  "billed_total": 38600,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0669",
+  "member_id": "M060",
+  "hospital_id": "H07",
+  "admission_date": "2024-05-29",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR034",
+  "billed_total": 308100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0670",
+  "member_id": "M017",
+  "hospital_id": "H28",
+  "admission_date": "2025-07-01",
+  "diagnosis_code": "DX10",
+  "procedure_code": "PR028",
+  "billed_total": 106400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0671",
+  "member_id": "M049",
+  "hospital_id": "H18",
+  "admission_date": "2024-05-11",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR023",
+  "billed_total": 101600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0672",
+  "member_id": "M043",
+  "hospital_id": "H16",
+  "admission_date": "2025-05-16",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR024",
+  "billed_total": 33900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0673",
+  "member_id": "M039",
+  "hospital_id": "H05",
+  "admission_date": "2024-06-15",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR019",
+  "billed_total": 131600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0674",
+  "member_id": "M027",
+  "hospital_id": "H11",
+  "admission_date": "2024-06-27",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR105",
+  "billed_total": 56600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0675",
+  "member_id": "M034",
+  "hospital_id": "H18",
+  "admission_date": "2024-01-20",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR091",
+  "billed_total": 265300,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0676",
+  "member_id": "M034",
+  "hospital_id": "H10",
+  "admission_date": "2024-05-30",
+  "diagnosis_code": "DX32",
+  "procedure_code": "PR095",
+  "billed_total": 81700,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0677",
+  "member_id": "M036",
+  "hospital_id": "H11",
+  "admission_date": "2025-04-14",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR110",
+  "billed_total": 76300,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0678",
+  "member_id": "M013",
+  "hospital_id": "H07",
+  "admission_date": "2025-06-02",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR098",
+  "billed_total": 87800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0679",
+  "member_id": "M029",
+  "hospital_id": "H14",
+  "admission_date": "2024-03-26",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR100",
+  "billed_total": 138100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0680",
+  "member_id": "M003",
+  "hospital_id": "H27",
+  "admission_date": "2024-08-02",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR037",
+  "billed_total": 138500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0681",
+  "member_id": "M008",
+  "hospital_id": "H19",
+  "admission_date": "2024-04-03",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR091",
+  "billed_total": 235900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0682",
+  "member_id": "M016",
+  "hospital_id": "H15",
+  "admission_date": "2024-09-26",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR011",
+  "billed_total": 44700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0683",
+  "member_id": "M057",
+  "hospital_id": "H34",
+  "admission_date": "2024-01-30",
+  "diagnosis_code": "DX37",
+  "procedure_code": "PR109",
+  "billed_total": 98500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0684",
+  "member_id": "M017",
+  "hospital_id": "H02",
+  "admission_date": "2024-08-13",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR059",
+  "billed_total": 73200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0685",
+  "member_id": "M059",
+  "hospital_id": "H19",
+  "admission_date": "2024-01-14",
+  "diagnosis_code": "DX02",
+  "procedure_code": "PR006",
+  "billed_total": 27700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0686",
+  "member_id": "M020",
+  "hospital_id": "H33",
+  "admission_date": "2024-04-21",
+  "diagnosis_code": "DX14",
+  "procedure_code": "PR042",
+  "billed_total": 37000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0687",
+  "member_id": "M048",
+  "hospital_id": "H26",
+  "admission_date": "2024-04-11",
+  "diagnosis_code": "DX10",
+  "procedure_code": "PR030",
+  "billed_total": 50700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0688",
+  "member_id": "M033",
+  "hospital_id": "H33",
+  "admission_date": "2024-09-27",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR115",
+  "billed_total": 125600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0689",
+  "member_id": "M027",
+  "hospital_id": "H34",
+  "admission_date": "2024-08-24",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR007",
+  "billed_total": 125800,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0690",
+  "member_id": "M045",
+  "hospital_id": "H02",
+  "admission_date": "2024-03-20",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR098",
+  "billed_total": 92300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0691",
+  "member_id": "M053",
+  "hospital_id": "H37",
+  "admission_date": "2025-04-17",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR114",
+  "billed_total": 51300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0692",
+  "member_id": "M036",
+  "hospital_id": "H02",
+  "admission_date": "2025-01-31",
+  "diagnosis_code": "DX14",
+  "procedure_code": "PR042",
+  "billed_total": 51200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0693",
+  "member_id": "M023",
+  "hospital_id": "H02",
+  "admission_date": "2025-03-01",
+  "diagnosis_code": "DX17",
+  "procedure_code": "PR050",
+  "billed_total": 104500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0694",
+  "member_id": "M019",
+  "hospital_id": "H24",
+  "admission_date": "2024-04-30",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR027",
+  "billed_total": 29200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0695",
+  "member_id": "M026",
+  "hospital_id": "H27",
+  "admission_date": "2024-08-04",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR060",
+  "billed_total": 20700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0696",
+  "member_id": "M003",
+  "hospital_id": "H07",
+  "admission_date": "2024-02-27",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR025",
+  "billed_total": 246600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0697",
+  "member_id": "M048",
+  "hospital_id": "H33",
+  "admission_date": "2024-05-01",
+  "diagnosis_code": "DX15",
+  "procedure_code": "PR044",
+  "billed_total": 90000,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0698",
+  "member_id": "M040",
+  "hospital_id": "H20",
+  "admission_date": "2024-06-26",
+  "diagnosis_code": "DX09",
+  "procedure_code": "PR026",
+  "billed_total": 92200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0699",
+  "member_id": "M048",
+  "hospital_id": "H39",
+  "admission_date": "2024-10-16",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR103",
+  "billed_total": 229700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0700",
+  "member_id": "M008",
+  "hospital_id": "H40",
+  "admission_date": "2025-08-31",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR114",
+  "billed_total": 44200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0701",
+  "member_id": "M040",
+  "hospital_id": "H19",
+  "admission_date": "2024-02-25",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR019",
+  "billed_total": 138300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0702",
+  "member_id": "M040",
+  "hospital_id": "H26",
+  "admission_date": "2024-06-26",
+  "diagnosis_code": "DX17",
+  "procedure_code": "PR050",
+  "billed_total": 99900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0703",
+  "member_id": "M028",
+  "hospital_id": "H24",
+  "admission_date": "2025-03-20",
+  "diagnosis_code": "DX18",
+  "procedure_code": "PR054",
+  "billed_total": 42600,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0704",
+  "member_id": "M002",
+  "hospital_id": "H02",
+  "admission_date": "2024-04-20",
+  "diagnosis_code": "DX18",
+  "procedure_code": "PR054",
+  "billed_total": 42500,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0705",
+  "member_id": "M041",
+  "hospital_id": "H25",
+  "admission_date": "2024-06-13",
+  "diagnosis_code": "DX36",
+  "procedure_code": "PR106",
+  "billed_total": 146100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0706",
+  "member_id": "M040",
+  "hospital_id": "H14",
+  "admission_date": "2025-04-27",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR059",
+  "billed_total": 95000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0707",
+  "member_id": "M035",
+  "hospital_id": "H28",
+  "admission_date": "2024-08-31",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR013",
+  "billed_total": 231400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0708",
+  "member_id": "M029",
+  "hospital_id": "H21",
+  "admission_date": "2024-07-15",
+  "diagnosis_code": "DX02",
+  "procedure_code": "PR004",
+  "billed_total": 118400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0709",
+  "member_id": "M054",
+  "hospital_id": "H25",
+  "admission_date": "2025-04-14",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR031",
+  "billed_total": 102400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0710",
+  "member_id": "M032",
+  "hospital_id": "H26",
+  "admission_date": "2024-08-29",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR102",
+  "billed_total": 13700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0711",
+  "member_id": "M045",
+  "hospital_id": "H29",
+  "admission_date": "2024-02-06",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR117",
+  "billed_total": 54800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0712",
+  "member_id": "M003",
+  "hospital_id": "H07",
+  "admission_date": "2024-01-10",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR098",
+  "billed_total": 80700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0713",
+  "member_id": "M013",
+  "hospital_id": "H01",
+  "admission_date": "2025-05-13",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR016",
+  "billed_total": 134200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0714",
+  "member_id": "M019",
+  "hospital_id": "H24",
+  "admission_date": "2024-03-25",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR097",
+  "billed_total": 165700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0715",
+  "member_id": "M059",
+  "hospital_id": "H03",
+  "admission_date": "2025-02-27",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR007",
+  "billed_total": 151000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0716",
+  "member_id": "M040",
+  "hospital_id": "H40",
+  "admission_date": "2025-02-10",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR002",
+  "billed_total": 76000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0717",
+  "member_id": "M030",
+  "hospital_id": "H12",
+  "admission_date": "2025-01-23",
+  "diagnosis_code": "DX10",
+  "procedure_code": "PR030",
+  "billed_total": 58500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0718",
+  "member_id": "M027",
+  "hospital_id": "H19",
+  "admission_date": "2024-03-28",
+  "diagnosis_code": "DX03",
+  "procedure_code": "PR008",
+  "billed_total": 69800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0719",
+  "member_id": "M011",
+  "hospital_id": "H29",
+  "admission_date": "2025-01-30",
+  "diagnosis_code": "DX16",
+  "procedure_code": "PR047",
+  "billed_total": 54400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0720",
+  "member_id": "M045",
+  "hospital_id": "H20",
+  "admission_date": "2024-06-18",
+  "diagnosis_code": "DX04",
+  "procedure_code": "PR011",
+  "billed_total": 56700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0721",
+  "member_id": "M037",
+  "hospital_id": "H37",
+  "admission_date": "2025-03-21",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR037",
+  "billed_total": 144600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0722",
+  "member_id": "M025",
+  "hospital_id": "H11",
+  "admission_date": "2025-06-03",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR024",
+  "billed_total": 33800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0723",
+  "member_id": "M039",
+  "hospital_id": "H34",
+  "admission_date": "2024-07-26",
+  "diagnosis_code": "DX33",
+  "procedure_code": "PR097",
+  "billed_total": 178100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0724",
+  "member_id": "M013",
+  "hospital_id": "H14",
+  "admission_date": "2025-02-01",
+  "diagnosis_code": "DX10",
+  "procedure_code": "PR029",
+  "billed_total": 89500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0725",
+  "member_id": "M053",
+  "hospital_id": "H16",
+  "admission_date": "2024-11-30",
+  "diagnosis_code": "DX16",
+  "procedure_code": "PR048",
+  "billed_total": 58600,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0726",
+  "member_id": "M027",
+  "hospital_id": "H12",
+  "admission_date": "2024-03-16",
+  "diagnosis_code": "DX18",
+  "procedure_code": "PR054",
+  "billed_total": 34500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0727",
+  "member_id": "M051",
+  "hospital_id": "H07",
+  "admission_date": "2025-02-10",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR033",
+  "billed_total": 53700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0728",
+  "member_id": "M055",
+  "hospital_id": "H12",
+  "admission_date": "2024-11-10",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR113",
+  "billed_total": 87800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0729",
+  "member_id": "M048",
+  "hospital_id": "H12",
+  "admission_date": "2025-05-28",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR103",
+  "billed_total": 304900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0730",
+  "member_id": "M019",
+  "hospital_id": "H05",
+  "admission_date": "2025-02-22",
+  "diagnosis_code": "DX10",
+  "procedure_code": "PR029",
+  "billed_total": 84800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0731",
+  "member_id": "M010",
+  "hospital_id": "H10",
+  "admission_date": "2024-07-21",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR018",
+  "billed_total": 37900,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0732",
+  "member_id": "M003",
+  "hospital_id": "H21",
+  "admission_date": "2024-03-14",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR103",
+  "billed_total": 208200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0733",
+  "member_id": "M013",
+  "hospital_id": "H27",
+  "admission_date": "2025-07-30",
+  "diagnosis_code": "DX17",
+  "procedure_code": "PR051",
+  "billed_total": 44300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0734",
+  "member_id": "M011",
+  "hospital_id": "H33",
+  "admission_date": "2024-03-22",
+  "diagnosis_code": "DX40",
+  "procedure_code": "PR118",
+  "billed_total": 234100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0735",
+  "member_id": "M025",
+  "hospital_id": "H37",
+  "admission_date": "2025-04-17",
+  "diagnosis_code": "DX36",
+  "procedure_code": "PR106",
+  "billed_total": 134300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0736",
+  "member_id": "M059",
+  "hospital_id": "H18",
+  "admission_date": "2024-03-02",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR017",
+  "billed_total": 39400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0737",
+  "member_id": "M004",
+  "hospital_id": "H26",
+  "admission_date": "2024-05-29",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR037",
+  "billed_total": 147700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0738",
+  "member_id": "M024",
+  "hospital_id": "H05",
+  "admission_date": "2024-04-17",
+  "diagnosis_code": "DX30",
+  "procedure_code": "PR090",
+  "billed_total": 43500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0739",
+  "member_id": "M011",
+  "hospital_id": "H15",
+  "admission_date": "2024-06-28",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR115",
+  "billed_total": 128200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0740",
+  "member_id": "M025",
+  "hospital_id": "H15",
+  "admission_date": "2025-03-13",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR034",
+  "billed_total": 277600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0741",
+  "member_id": "M024",
+  "hospital_id": "H18",
+  "admission_date": "2025-02-16",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR113",
+  "billed_total": 92000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0742",
+  "member_id": "M048",
+  "hospital_id": "H10",
+  "admission_date": "2025-05-28",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR022",
+  "billed_total": 247500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0743",
+  "member_id": "M048",
+  "hospital_id": "H01",
+  "admission_date": "2025-01-26",
+  "diagnosis_code": "DX17",
+  "procedure_code": "PR049",
+  "billed_total": 206800,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0744",
+  "member_id": "M028",
+  "hospital_id": "H18",
+  "admission_date": "2025-08-15",
+  "diagnosis_code": "DX20",
+  "procedure_code": "PR059",
+  "billed_total": 85600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0745",
+  "member_id": "M016",
+  "hospital_id": "H33",
+  "admission_date": "2025-03-11",
+  "diagnosis_code": "DX18",
+  "procedure_code": "PR054",
+  "billed_total": 35200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0746",
+  "member_id": "M032",
+  "hospital_id": "H33",
+  "admission_date": "2024-12-11",
+  "diagnosis_code": "DX40",
+  "procedure_code": "PR118",
+  "billed_total": 241800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0747",
+  "member_id": "M008",
+  "hospital_id": "H16",
+  "admission_date": "2024-02-29",
+  "diagnosis_code": "DX40",
+  "procedure_code": "PR119",
+  "billed_total": 58600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0748",
+  "member_id": "M021",
+  "hospital_id": "H13",
+  "admission_date": "2024-08-24",
+  "diagnosis_code": "DX10",
+  "procedure_code": "PR030",
+  "billed_total": 42900,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0749",
+  "member_id": "M029",
+  "hospital_id": "H34",
+  "admission_date": "2025-05-30",
+  "diagnosis_code": "DX10",
+  "procedure_code": "PR029",
+  "billed_total": 80700,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0750",
+  "member_id": "M020",
+  "hospital_id": "H18",
+  "admission_date": "2025-05-28",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR116",
+  "billed_total": 79300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0751",
+  "member_id": "M010",
+  "hospital_id": "H27",
+  "admission_date": "2024-09-25",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR114",
+  "billed_total": 37600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0752",
+  "member_id": "M048",
+  "hospital_id": "H01",
+  "admission_date": "2024-02-08",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR113",
+  "billed_total": 109700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0753",
+  "member_id": "M052",
+  "hospital_id": "H34",
+  "admission_date": "2025-08-13",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR116",
+  "billed_total": 79600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0754",
+  "member_id": "M052",
+  "hospital_id": "H33",
+  "admission_date": "2024-06-21",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR103",
+  "billed_total": 233100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0755",
+  "member_id": "M002",
+  "hospital_id": "H18",
+  "admission_date": "2025-02-03",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR020",
+  "billed_total": 83100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0756",
+  "member_id": "M052",
+  "hospital_id": "H40",
+  "admission_date": "2024-06-11",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR100",
+  "billed_total": 135000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0757",
+  "member_id": "M042",
+  "hospital_id": "H10",
+  "admission_date": "2024-10-25",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR101",
+  "billed_total": 48300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0758",
+  "member_id": "M039",
+  "hospital_id": "H12",
+  "admission_date": "2024-08-14",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR015",
+  "billed_total": 42000,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0759",
+  "member_id": "M045",
+  "hospital_id": "H25",
+  "admission_date": "2024-12-13",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR039",
+  "billed_total": 61100,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0760",
+  "member_id": "M053",
+  "hospital_id": "H24",
+  "admission_date": "2025-07-18",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR022",
+  "billed_total": 251000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0761",
+  "member_id": "M013",
+  "hospital_id": "H05",
+  "admission_date": "2024-11-19",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR092",
+  "billed_total": 130400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0762",
+  "member_id": "M011",
+  "hospital_id": "H29",
+  "admission_date": "2024-12-28",
+  "diagnosis_code": "DX36",
+  "procedure_code": "PR106",
+  "billed_total": 132500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0763",
+  "member_id": "M017",
+  "hospital_id": "H40",
+  "admission_date": "2024-07-19",
+  "diagnosis_code": "DX16",
+  "procedure_code": "PR047",
+  "billed_total": 44500,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0764",
+  "member_id": "M026",
+  "hospital_id": "H26",
+  "admission_date": "2025-03-07",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR105",
+  "billed_total": 59800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0765",
+  "member_id": "M035",
+  "hospital_id": "H10",
+  "admission_date": "2024-11-21",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR035",
+  "billed_total": 42700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0766",
+  "member_id": "M030",
+  "hospital_id": "H27",
+  "admission_date": "2024-10-30",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR105",
+  "billed_total": 62000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0767",
+  "member_id": "M018",
+  "hospital_id": "H25",
+  "admission_date": "2024-12-04",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR021",
+  "billed_total": 28500,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0768",
+  "member_id": "M019",
+  "hospital_id": "H05",
+  "admission_date": "2025-03-29",
+  "diagnosis_code": "DX14",
+  "procedure_code": "PR041",
+  "billed_total": 41200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0769",
+  "member_id": "M045",
+  "hospital_id": "H32",
+  "admission_date": "2024-08-13",
+  "diagnosis_code": "DX38",
+  "procedure_code": "PR112",
+  "billed_total": 105400,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0770",
+  "member_id": "M031",
+  "hospital_id": "H37",
+  "admission_date": "2025-08-03",
+  "diagnosis_code": "DX15",
+  "procedure_code": "PR045",
+  "billed_total": 34100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0771",
+  "member_id": "M003",
+  "hospital_id": "H12",
+  "admission_date": "2024-04-28",
+  "diagnosis_code": "DX39",
+  "procedure_code": "PR117",
+  "billed_total": 64000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0772",
+  "member_id": "M014",
+  "hospital_id": "H26",
+  "admission_date": "2025-02-20",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR037",
+  "billed_total": 150800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0773",
+  "member_id": "M054",
+  "hospital_id": "H16",
+  "admission_date": "2024-04-14",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR014",
+  "billed_total": 79800,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0774",
+  "member_id": "M039",
+  "hospital_id": "H21",
+  "admission_date": "2024-12-12",
+  "diagnosis_code": "DX17",
+  "procedure_code": "PR049",
+  "billed_total": 163200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0775",
+  "member_id": "M053",
+  "hospital_id": "H29",
+  "admission_date": "2024-03-29",
+  "diagnosis_code": "DX15",
+  "procedure_code": "PR045",
+  "billed_total": 45200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0776",
+  "member_id": "M038",
+  "hospital_id": "H10",
+  "admission_date": "2024-01-22",
+  "diagnosis_code": "DX35",
+  "procedure_code": "PR103",
+  "billed_total": 225000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0777",
+  "member_id": "M053",
+  "hospital_id": "H28",
+  "admission_date": "2024-05-22",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR015",
+  "billed_total": 39600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0778",
+  "member_id": "M041",
+  "hospital_id": "H18",
+  "admission_date": "2024-02-03",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR002",
+  "billed_total": 77500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0779",
+  "member_id": "M013",
+  "hospital_id": "H16",
+  "admission_date": "2024-10-31",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR001",
+  "billed_total": 167700,
+  "outcome": "REJECTED"
+ },
+ {
+  "claim_id": "P0780",
+  "member_id": "M054",
+  "hospital_id": "H14",
+  "admission_date": "2024-02-28",
+  "diagnosis_code": "DX17",
+  "procedure_code": "PR051",
+  "billed_total": 54600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0781",
+  "member_id": "M046",
+  "hospital_id": "H13",
+  "admission_date": "2025-03-23",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR001",
+  "billed_total": 217300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0782",
+  "member_id": "M021",
+  "hospital_id": "H29",
+  "admission_date": "2025-07-22",
+  "diagnosis_code": "DX05",
+  "procedure_code": "PR110",
+  "billed_total": 21700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0783",
+  "member_id": "M051",
+  "hospital_id": "H29",
+  "admission_date": "2025-08-02",
+  "diagnosis_code": "DX06",
+  "procedure_code": "PR018",
+  "billed_total": 32300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0784",
+  "member_id": "M015",
+  "hospital_id": "H28",
+  "admission_date": "2025-06-18",
+  "diagnosis_code": "DX11",
+  "procedure_code": "PR031",
+  "billed_total": 98500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0785",
+  "member_id": "M016",
+  "hospital_id": "H18",
+  "admission_date": "2025-07-31",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR100",
+  "billed_total": 119500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0786",
+  "member_id": "M046",
+  "hospital_id": "H10",
+  "admission_date": "2025-08-02",
+  "diagnosis_code": "DX34",
+  "procedure_code": "PR100",
+  "billed_total": 146300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0787",
+  "member_id": "M036",
+  "hospital_id": "H32",
+  "admission_date": "2025-04-14",
+  "diagnosis_code": "DX02",
+  "procedure_code": "PR004",
+  "billed_total": 132100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0788",
+  "member_id": "M056",
+  "hospital_id": "H25",
+  "admission_date": "2025-07-12",
+  "diagnosis_code": "DX17",
+  "procedure_code": "PR051",
+  "billed_total": 52500,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0789",
+  "member_id": "M035",
+  "hospital_id": "H39",
+  "admission_date": "2025-01-26",
+  "diagnosis_code": "DX16",
+  "procedure_code": "PR116",
+  "billed_total": 91100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0790",
+  "member_id": "M040",
+  "hospital_id": "H29",
+  "admission_date": "2025-04-19",
+  "diagnosis_code": "DX12",
+  "procedure_code": "PR034",
+  "billed_total": 213600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0791",
+  "member_id": "M044",
+  "hospital_id": "H25",
+  "admission_date": "2025-03-18",
+  "diagnosis_code": "DX01",
+  "procedure_code": "PR001",
+  "billed_total": 180200,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0792",
+  "member_id": "M060",
+  "hospital_id": "H11",
+  "admission_date": "2025-04-14",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR023",
+  "billed_total": 77400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0793",
+  "member_id": "M002",
+  "hospital_id": "H29",
+  "admission_date": "2025-01-13",
+  "diagnosis_code": "DX31",
+  "procedure_code": "PR092",
+  "billed_total": 109400,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0794",
+  "member_id": "M057",
+  "hospital_id": "H11",
+  "admission_date": "2025-04-08",
+  "diagnosis_code": "DX07",
+  "procedure_code": "PR111",
+  "billed_total": 12100,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0795",
+  "member_id": "M050",
+  "hospital_id": "H27",
+  "admission_date": "2025-03-14",
+  "diagnosis_code": "DX08",
+  "procedure_code": "PR045",
+  "billed_total": 45300,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0796",
+  "member_id": "M060",
+  "hospital_id": "H28",
+  "admission_date": "2025-05-13",
+  "diagnosis_code": "DX19",
+  "procedure_code": "PR056",
+  "billed_total": 42700,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0797",
+  "member_id": "M037",
+  "hospital_id": "H15",
+  "admission_date": "2025-06-22",
+  "diagnosis_code": "DX40",
+  "procedure_code": "PR118",
+  "billed_total": 276000,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0798",
+  "member_id": "M039",
+  "hospital_id": "H18",
+  "admission_date": "2025-08-14",
+  "diagnosis_code": "DX13",
+  "procedure_code": "PR037",
+  "billed_total": 161600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0799",
+  "member_id": "M057",
+  "hospital_id": "H19",
+  "admission_date": "2025-08-16",
+  "diagnosis_code": "DX10",
+  "procedure_code": "PR029",
+  "billed_total": 91600,
+  "outcome": "PAID"
+ },
+ {
+  "claim_id": "P0800",
+  "member_id": "M009",
+  "hospital_id": "H03",
+  "admission_date": "2025-04-12",
+  "diagnosis_code": "DX19",
+  "procedure_code": "PR105",
+  "billed_total": 25400,
+  "outcome": "PAID"
+ }
+]

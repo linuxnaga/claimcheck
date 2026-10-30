@@ -22,6 +22,7 @@ data/results/*
 !data/results/*_summary.json
 !data/results/agent_run*.jsonl
 !data/results/single_rag_run*.jsonl
+!data/results/claimdesk_test_*_run*.jsonl
 data/results/check*
 data/results/unit*
 data/results/smoke*

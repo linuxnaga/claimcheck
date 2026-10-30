@@ -1,0 +1,1446 @@
+{
+ "diagnoses": [
+  {
+   "code": "DX01",
+   "name": "Acute appendicitis",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX02",
+   "name": "Gallstones",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX03",
+   "name": "Inguinal hernia",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX04",
+   "name": "Kidney stones",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX05",
+   "name": "Cataract",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX06",
+   "name": "Fractured forearm",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX07",
+   "name": "Fractured hip",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX08",
+   "name": "Dengue fever",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX09",
+   "name": "Typhoid fever",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX10",
+   "name": "Malaria",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX11",
+   "name": "Pneumonia",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX12",
+   "name": "Acute gastroenteritis",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX13",
+   "name": "Coronary artery disease",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX14",
+   "name": "Heart attack",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX15",
+   "name": "Stroke",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX16",
+   "name": "Tonsillitis",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX17",
+   "name": "Sinusitis",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX18",
+   "name": "Migraine",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX19",
+   "name": "Urinary tract infection",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX20",
+   "name": "Hepatitis A",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX21",
+   "name": "Diabetes complications",
+   "type": "ped",
+   "condition": "diabetes"
+  },
+  {
+   "code": "DX22",
+   "name": "Hypertensive crisis",
+   "type": "ped",
+   "condition": "hypertension"
+  },
+  {
+   "code": "DX23",
+   "name": "Severe asthma attack",
+   "type": "ped",
+   "condition": "asthma"
+  },
+  {
+   "code": "DX24",
+   "name": "Thyroid disorder treatment",
+   "type": "ped",
+   "condition": "thyroid disorder"
+  },
+  {
+   "code": "DX25",
+   "name": "Knee osteoarthritis",
+   "type": "ped",
+   "condition": "arthritis"
+  },
+  {
+   "code": "DX26",
+   "name": "Normal delivery",
+   "type": "maternity",
+   "condition": null
+  },
+  {
+   "code": "DX27",
+   "name": "Caesarean delivery",
+   "type": "maternity",
+   "condition": null
+  },
+  {
+   "code": "DX28",
+   "name": "Cosmetic nose reshaping",
+   "type": "cosmetic",
+   "condition": null
+  },
+  {
+   "code": "DX29",
+   "name": "Hair transplant",
+   "type": "cosmetic",
+   "condition": null
+  },
+  {
+   "code": "DX30",
+   "name": "Slipped disc",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX31",
+   "name": "Varicose veins",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX32",
+   "name": "Piles",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX33",
+   "name": "Chikungunya",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX34",
+   "name": "Burns",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX35",
+   "name": "Road accident injuries",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX36",
+   "name": "Dog bite",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX37",
+   "name": "Ear infection",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX38",
+   "name": "Anaemia",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX39",
+   "name": "Bronchitis",
+   "type": "general",
+   "condition": null
+  },
+  {
+   "code": "DX40",
+   "name": "Food poisoning",
+   "type": "general",
+   "condition": null
+  }
+ ],
+ "procedures": [
+  {
+   "code": "PR001",
+   "name": "Acute appendicitis: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX01"
+   ],
+   "typical_stay": 6,
+   "package_rate": 142000
+  },
+  {
+   "code": "PR002",
+   "name": "Acute appendicitis: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX01"
+   ],
+   "typical_stay": 2,
+   "package_rate": 63500
+  },
+  {
+   "code": "PR003",
+   "name": "Acute appendicitis: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX01"
+   ],
+   "typical_stay": 1,
+   "package_rate": 23000
+  },
+  {
+   "code": "PR004",
+   "name": "Gallstones: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX02"
+   ],
+   "typical_stay": 6,
+   "package_rate": 69000
+  },
+  {
+   "code": "PR005",
+   "name": "Gallstones: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX02"
+   ],
+   "typical_stay": 3,
+   "package_rate": 53000
+  },
+  {
+   "code": "PR006",
+   "name": "Gallstones: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX02"
+   ],
+   "typical_stay": 1,
+   "package_rate": 17000
+  },
+  {
+   "code": "PR007",
+   "name": "Inguinal hernia: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX03"
+   ],
+   "typical_stay": 3,
+   "package_rate": 123000
+  },
+  {
+   "code": "PR008",
+   "name": "Inguinal hernia: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX03"
+   ],
+   "typical_stay": 4,
+   "package_rate": 45000
+  },
+  {
+   "code": "PR009",
+   "name": "Inguinal hernia: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX03"
+   ],
+   "typical_stay": 1,
+   "package_rate": 12000
+  },
+  {
+   "code": "PR010",
+   "name": "Kidney stones: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX04"
+   ],
+   "typical_stay": 6,
+   "package_rate": 228000
+  },
+  {
+   "code": "PR011",
+   "name": "Kidney stones: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX04"
+   ],
+   "typical_stay": 4,
+   "package_rate": 25000
+  },
+  {
+   "code": "PR012",
+   "name": "Kidney stones: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX04"
+   ],
+   "typical_stay": 1,
+   "package_rate": 31000
+  },
+  {
+   "code": "PR013",
+   "name": "Cataract: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX05"
+   ],
+   "typical_stay": 3,
+   "package_rate": 226500
+  },
+  {
+   "code": "PR014",
+   "name": "Cataract: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX05"
+   ],
+   "typical_stay": 3,
+   "package_rate": 43500
+  },
+  {
+   "code": "PR015",
+   "name": "Cataract: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX05"
+   ],
+   "typical_stay": 1,
+   "package_rate": 13500
+  },
+  {
+   "code": "PR016",
+   "name": "Fractured forearm: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX06"
+   ],
+   "typical_stay": 3,
+   "package_rate": 94500
+  },
+  {
+   "code": "PR017",
+   "name": "Fractured forearm: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX06"
+   ],
+   "typical_stay": 2,
+   "package_rate": 22500
+  },
+  {
+   "code": "PR018",
+   "name": "Fractured forearm: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX06"
+   ],
+   "typical_stay": 1,
+   "package_rate": 18500
+  },
+  {
+   "code": "PR019",
+   "name": "Fractured hip: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX07"
+   ],
+   "typical_stay": 5,
+   "package_rate": 94500
+  },
+  {
+   "code": "PR020",
+   "name": "Fractured hip: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX07"
+   ],
+   "typical_stay": 2,
+   "package_rate": 62000
+  },
+  {
+   "code": "PR021",
+   "name": "Fractured hip: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX07"
+   ],
+   "typical_stay": 1,
+   "package_rate": 14000
+  },
+  {
+   "code": "PR022",
+   "name": "Dengue fever: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX08"
+   ],
+   "typical_stay": 6,
+   "package_rate": 199000
+  },
+  {
+   "code": "PR023",
+   "name": "Dengue fever: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX08"
+   ],
+   "typical_stay": 4,
+   "package_rate": 55000
+  },
+  {
+   "code": "PR024",
+   "name": "Dengue fever: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX08"
+   ],
+   "typical_stay": 1,
+   "package_rate": 10500
+  },
+  {
+   "code": "PR025",
+   "name": "Typhoid fever: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX09"
+   ],
+   "typical_stay": 6,
+   "package_rate": 219500
+  },
+  {
+   "code": "PR026",
+   "name": "Typhoid fever: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX09"
+   ],
+   "typical_stay": 3,
+   "package_rate": 56500
+  },
+  {
+   "code": "PR027",
+   "name": "Typhoid fever: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX09"
+   ],
+   "typical_stay": 1,
+   "package_rate": 10000
+  },
+  {
+   "code": "PR028",
+   "name": "Malaria: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX10"
+   ],
+   "typical_stay": 5,
+   "package_rate": 114500
+  },
+  {
+   "code": "PR029",
+   "name": "Malaria: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX10"
+   ],
+   "typical_stay": 3,
+   "package_rate": 55000
+  },
+  {
+   "code": "PR030",
+   "name": "Malaria: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX10"
+   ],
+   "typical_stay": 1,
+   "package_rate": 27500
+  },
+  {
+   "code": "PR031",
+   "name": "Pneumonia: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX11"
+   ],
+   "typical_stay": 6,
+   "package_rate": 61500
+  },
+  {
+   "code": "PR032",
+   "name": "Pneumonia: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX11"
+   ],
+   "typical_stay": 2,
+   "package_rate": 76500
+  },
+  {
+   "code": "PR033",
+   "name": "Pneumonia: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX11"
+   ],
+   "typical_stay": 1,
+   "package_rate": 27500
+  },
+  {
+   "code": "PR034",
+   "name": "Acute gastroenteritis: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX12"
+   ],
+   "typical_stay": 4,
+   "package_rate": 228500
+  },
+  {
+   "code": "PR035",
+   "name": "Acute gastroenteritis: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX12"
+   ],
+   "typical_stay": 2,
+   "package_rate": 27500
+  },
+  {
+   "code": "PR036",
+   "name": "Acute gastroenteritis: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX12"
+   ],
+   "typical_stay": 1,
+   "package_rate": 20500
+  },
+  {
+   "code": "PR037",
+   "name": "Coronary artery disease: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX13"
+   ],
+   "typical_stay": 3,
+   "package_rate": 145500
+  },
+  {
+   "code": "PR038",
+   "name": "Coronary artery disease: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX13"
+   ],
+   "typical_stay": 4,
+   "package_rate": 57500
+  },
+  {
+   "code": "PR039",
+   "name": "Coronary artery disease: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX13"
+   ],
+   "typical_stay": 1,
+   "package_rate": 38000
+  },
+  {
+   "code": "PR040",
+   "name": "Heart attack: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX14"
+   ],
+   "typical_stay": 4,
+   "package_rate": 121500
+  },
+  {
+   "code": "PR041",
+   "name": "Heart attack: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX14"
+   ],
+   "typical_stay": 2,
+   "package_rate": 24500
+  },
+  {
+   "code": "PR042",
+   "name": "Heart attack: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX14"
+   ],
+   "typical_stay": 1,
+   "package_rate": 31500
+  },
+  {
+   "code": "PR043",
+   "name": "Stroke: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX15"
+   ],
+   "typical_stay": 5,
+   "package_rate": 206000
+  },
+  {
+   "code": "PR044",
+   "name": "Stroke: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX15"
+   ],
+   "typical_stay": 4,
+   "package_rate": 48500
+  },
+  {
+   "code": "PR045",
+   "name": "Stroke: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX15"
+   ],
+   "typical_stay": 1,
+   "package_rate": 20000
+  },
+  {
+   "code": "PR046",
+   "name": "Tonsillitis: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX16"
+   ],
+   "typical_stay": 6,
+   "package_rate": 222500
+  },
+  {
+   "code": "PR047",
+   "name": "Tonsillitis: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX16"
+   ],
+   "typical_stay": 3,
+   "package_rate": 26000
+  },
+  {
+   "code": "PR048",
+   "name": "Tonsillitis: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX16"
+   ],
+   "typical_stay": 1,
+   "package_rate": 29000
+  },
+  {
+   "code": "PR049",
+   "name": "Sinusitis: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX17"
+   ],
+   "typical_stay": 4,
+   "package_rate": 115000
+  },
+  {
+   "code": "PR050",
+   "name": "Sinusitis: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX17"
+   ],
+   "typical_stay": 2,
+   "package_rate": 63000
+  },
+  {
+   "code": "PR051",
+   "name": "Sinusitis: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX17"
+   ],
+   "typical_stay": 1,
+   "package_rate": 39500
+  },
+  {
+   "code": "PR052",
+   "name": "Migraine: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX18"
+   ],
+   "typical_stay": 5,
+   "package_rate": 83500
+  },
+  {
+   "code": "PR053",
+   "name": "Migraine: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX18"
+   ],
+   "typical_stay": 3,
+   "package_rate": 31500
+  },
+  {
+   "code": "PR054",
+   "name": "Migraine: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX18"
+   ],
+   "typical_stay": 1,
+   "package_rate": 24000
+  },
+  {
+   "code": "PR055",
+   "name": "Urinary tract infection: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX19"
+   ],
+   "typical_stay": 6,
+   "package_rate": 61000
+  },
+  {
+   "code": "PR056",
+   "name": "Urinary tract infection: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX19"
+   ],
+   "typical_stay": 3,
+   "package_rate": 20500
+  },
+  {
+   "code": "PR057",
+   "name": "Urinary tract infection: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX19"
+   ],
+   "typical_stay": 1,
+   "package_rate": 33000
+  },
+  {
+   "code": "PR058",
+   "name": "Hepatitis A: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX20"
+   ],
+   "typical_stay": 6,
+   "package_rate": 83000
+  },
+  {
+   "code": "PR059",
+   "name": "Hepatitis A: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX20"
+   ],
+   "typical_stay": 2,
+   "package_rate": 63000
+  },
+  {
+   "code": "PR060",
+   "name": "Hepatitis A: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX20"
+   ],
+   "typical_stay": 1,
+   "package_rate": 11500
+  },
+  {
+   "code": "PR061",
+   "name": "Diabetes complications: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX21"
+   ],
+   "typical_stay": 3,
+   "package_rate": 119500
+  },
+  {
+   "code": "PR062",
+   "name": "Diabetes complications: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX21"
+   ],
+   "typical_stay": 4,
+   "package_rate": 20000
+  },
+  {
+   "code": "PR063",
+   "name": "Diabetes complications: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX21"
+   ],
+   "typical_stay": 1,
+   "package_rate": 23000
+  },
+  {
+   "code": "PR064",
+   "name": "Hypertensive crisis: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX22"
+   ],
+   "typical_stay": 4,
+   "package_rate": 190500
+  },
+  {
+   "code": "PR065",
+   "name": "Hypertensive crisis: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX22"
+   ],
+   "typical_stay": 2,
+   "package_rate": 25500
+  },
+  {
+   "code": "PR066",
+   "name": "Hypertensive crisis: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX22"
+   ],
+   "typical_stay": 1,
+   "package_rate": 37500
+  },
+  {
+   "code": "PR067",
+   "name": "Severe asthma attack: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX23"
+   ],
+   "typical_stay": 3,
+   "package_rate": 226000
+  },
+  {
+   "code": "PR068",
+   "name": "Severe asthma attack: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX23"
+   ],
+   "typical_stay": 3,
+   "package_rate": 29500
+  },
+  {
+   "code": "PR069",
+   "name": "Severe asthma attack: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX23"
+   ],
+   "typical_stay": 1,
+   "package_rate": 11000
+  },
+  {
+   "code": "PR070",
+   "name": "Thyroid disorder treatment: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX24"
+   ],
+   "typical_stay": 5,
+   "package_rate": 222500
+  },
+  {
+   "code": "PR071",
+   "name": "Thyroid disorder treatment: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX24"
+   ],
+   "typical_stay": 3,
+   "package_rate": 74500
+  },
+  {
+   "code": "PR072",
+   "name": "Thyroid disorder treatment: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX24"
+   ],
+   "typical_stay": 1,
+   "package_rate": 19500
+  },
+  {
+   "code": "PR073",
+   "name": "Knee osteoarthritis: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX25"
+   ],
+   "typical_stay": 4,
+   "package_rate": 218000
+  },
+  {
+   "code": "PR074",
+   "name": "Knee osteoarthritis: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX25"
+   ],
+   "typical_stay": 2,
+   "package_rate": 75000
+  },
+  {
+   "code": "PR075",
+   "name": "Knee osteoarthritis: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX25"
+   ],
+   "typical_stay": 1,
+   "package_rate": 12000
+  },
+  {
+   "code": "PR076",
+   "name": "Normal delivery: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX26"
+   ],
+   "typical_stay": 5,
+   "package_rate": 232000
+  },
+  {
+   "code": "PR077",
+   "name": "Normal delivery: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX26"
+   ],
+   "typical_stay": 3,
+   "package_rate": 53000
+  },
+  {
+   "code": "PR078",
+   "name": "Normal delivery: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX26"
+   ],
+   "typical_stay": 1,
+   "package_rate": 20500
+  },
+  {
+   "code": "PR079",
+   "name": "Caesarean delivery: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX27"
+   ],
+   "typical_stay": 3,
+   "package_rate": 95000
+  },
+  {
+   "code": "PR080",
+   "name": "Caesarean delivery: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX27"
+   ],
+   "typical_stay": 2,
+   "package_rate": 73000
+  },
+  {
+   "code": "PR081",
+   "name": "Caesarean delivery: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX27"
+   ],
+   "typical_stay": 1,
+   "package_rate": 16000
+  },
+  {
+   "code": "PR082",
+   "name": "Cosmetic nose reshaping: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX28"
+   ],
+   "typical_stay": 5,
+   "package_rate": 130000
+  },
+  {
+   "code": "PR083",
+   "name": "Cosmetic nose reshaping: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX28"
+   ],
+   "typical_stay": 4,
+   "package_rate": 21500
+  },
+  {
+   "code": "PR084",
+   "name": "Cosmetic nose reshaping: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX28"
+   ],
+   "typical_stay": 1,
+   "package_rate": 40000
+  },
+  {
+   "code": "PR085",
+   "name": "Hair transplant: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX29"
+   ],
+   "typical_stay": 3,
+   "package_rate": 236000
+  },
+  {
+   "code": "PR086",
+   "name": "Hair transplant: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX29"
+   ],
+   "typical_stay": 3,
+   "package_rate": 53500
+  },
+  {
+   "code": "PR087",
+   "name": "Hair transplant: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX29"
+   ],
+   "typical_stay": 1,
+   "package_rate": 22500
+  },
+  {
+   "code": "PR088",
+   "name": "Slipped disc: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX30"
+   ],
+   "typical_stay": 4,
+   "package_rate": 144000
+  },
+  {
+   "code": "PR089",
+   "name": "Slipped disc: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX30"
+   ],
+   "typical_stay": 2,
+   "package_rate": 63000
+  },
+  {
+   "code": "PR090",
+   "name": "Slipped disc: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX30"
+   ],
+   "typical_stay": 1,
+   "package_rate": 17000
+  },
+  {
+   "code": "PR091",
+   "name": "Varicose veins: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX31"
+   ],
+   "typical_stay": 4,
+   "package_rate": 249000
+  },
+  {
+   "code": "PR092",
+   "name": "Varicose veins: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX31"
+   ],
+   "typical_stay": 4,
+   "package_rate": 79000
+  },
+  {
+   "code": "PR093",
+   "name": "Varicose veins: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX31"
+   ],
+   "typical_stay": 1,
+   "package_rate": 34000
+  },
+  {
+   "code": "PR094",
+   "name": "Piles: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX32"
+   ],
+   "typical_stay": 6,
+   "package_rate": 234500
+  },
+  {
+   "code": "PR095",
+   "name": "Piles: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX32"
+   ],
+   "typical_stay": 4,
+   "package_rate": 29000
+  },
+  {
+   "code": "PR096",
+   "name": "Piles: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX32"
+   ],
+   "typical_stay": 1,
+   "package_rate": 19000
+  },
+  {
+   "code": "PR097",
+   "name": "Chikungunya: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX33"
+   ],
+   "typical_stay": 4,
+   "package_rate": 182500
+  },
+  {
+   "code": "PR098",
+   "name": "Chikungunya: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX33"
+   ],
+   "typical_stay": 4,
+   "package_rate": 46500
+  },
+  {
+   "code": "PR099",
+   "name": "Chikungunya: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX33"
+   ],
+   "typical_stay": 1,
+   "package_rate": 25500
+  },
+  {
+   "code": "PR100",
+   "name": "Burns: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX34"
+   ],
+   "typical_stay": 3,
+   "package_rate": 116000
+  },
+  {
+   "code": "PR101",
+   "name": "Burns: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX34"
+   ],
+   "typical_stay": 3,
+   "package_rate": 40500
+  },
+  {
+   "code": "PR102",
+   "name": "Burns: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX34"
+   ],
+   "typical_stay": 1,
+   "package_rate": 10500
+  },
+  {
+   "code": "PR103",
+   "name": "Road accident injuries: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX35"
+   ],
+   "typical_stay": 6,
+   "package_rate": 203000
+  },
+  {
+   "code": "PR104",
+   "name": "Road accident injuries: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX35"
+   ],
+   "typical_stay": 3,
+   "package_rate": 60500
+  },
+  {
+   "code": "PR105",
+   "name": "Road accident injuries: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX35"
+   ],
+   "typical_stay": 1,
+   "package_rate": 38500
+  },
+  {
+   "code": "PR106",
+   "name": "Dog bite: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX36"
+   ],
+   "typical_stay": 5,
+   "package_rate": 106500
+  },
+  {
+   "code": "PR107",
+   "name": "Dog bite: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX36"
+   ],
+   "typical_stay": 2,
+   "package_rate": 31500
+  },
+  {
+   "code": "PR108",
+   "name": "Dog bite: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX36"
+   ],
+   "typical_stay": 1,
+   "package_rate": 37500
+  },
+  {
+   "code": "PR109",
+   "name": "Ear infection: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX37"
+   ],
+   "typical_stay": 5,
+   "package_rate": 61500
+  },
+  {
+   "code": "PR110",
+   "name": "Ear infection: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX37"
+   ],
+   "typical_stay": 4,
+   "package_rate": 31000
+  },
+  {
+   "code": "PR111",
+   "name": "Ear infection: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX37"
+   ],
+   "typical_stay": 1,
+   "package_rate": 26500
+  },
+  {
+   "code": "PR112",
+   "name": "Anaemia: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX38"
+   ],
+   "typical_stay": 3,
+   "package_rate": 80500
+  },
+  {
+   "code": "PR113",
+   "name": "Anaemia: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX38"
+   ],
+   "typical_stay": 2,
+   "package_rate": 72500
+  },
+  {
+   "code": "PR114",
+   "name": "Anaemia: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX38"
+   ],
+   "typical_stay": 1,
+   "package_rate": 25500
+  },
+  {
+   "code": "PR115",
+   "name": "Bronchitis: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX39"
+   ],
+   "typical_stay": 4,
+   "package_rate": 80500
+  },
+  {
+   "code": "PR116",
+   "name": "Bronchitis: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX39"
+   ],
+   "typical_stay": 2,
+   "package_rate": 65000
+  },
+  {
+   "code": "PR117",
+   "name": "Bronchitis: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX39"
+   ],
+   "typical_stay": 1,
+   "package_rate": 37500
+  },
+  {
+   "code": "PR118",
+   "name": "Food poisoning: surgical treatment",
+   "kind": "S",
+   "diagnoses": [
+    "DX40"
+   ],
+   "typical_stay": 6,
+   "package_rate": 232000
+  },
+  {
+   "code": "PR119",
+   "name": "Food poisoning: medical management",
+   "kind": "M",
+   "diagnoses": [
+    "DX40"
+   ],
+   "typical_stay": 2,
+   "package_rate": 37000
+  },
+  {
+   "code": "PR120",
+   "name": "Food poisoning: day-care procedure",
+   "kind": "D",
+   "diagnoses": [
+    "DX40"
+   ],
+   "typical_stay": 1,
+   "package_rate": 37000
+  }
+ ]
+}
