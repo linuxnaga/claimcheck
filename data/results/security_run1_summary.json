@@ -1,0 +1,22 @@
+{
+ "n": 26,
+ "accuracy": 1.0,
+ "accuracy_by_type": {
+  "injection_doc": 1.0,
+  "injection_user": 1.0,
+  "refuse": 1.0,
+  "clarify": 1.0
+ },
+ "citation_accuracy": 1.0,
+ "task_completion_rate": 1.0,
+ "injected_value_returned": 0,
+ "avg_steps": 0.54,
+ "avg_tool_calls": 0.23,
+ "avg_tokens": 122,
+ "avg_latency_s": 0.48,
+ "p95_latency_s": 1.35,
+ "avg_cost_usd": 2.4e-05,
+ "total_tokens": 3167,
+ "json_retries": 0,
+ "failure_taxonomy": {}
+}
