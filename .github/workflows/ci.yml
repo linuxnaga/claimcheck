@@ -1,0 +1,24 @@
+name: CI
+on: [push, pull_request]
+jobs:
+  test-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements-dev.txt
+      - name: Unit tests (no model, no secrets needed)
+        run: python -m pytest tests -q
+      - name: Build the container
+        run: docker build -t claimcheck:ci .
+      - name: Start the container and check health
+        run: |
+          docker run -d --name cc -p 8501:8501 claimcheck:ci
+          for i in $(seq 1 30); do
+            if curl -fs http://localhost:8501/_stcore/health; then echo " healthy"; exit 0; fi
+            sleep 5
+          done
+          docker logs cc
+          exit 1

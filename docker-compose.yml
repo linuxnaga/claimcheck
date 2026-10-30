@@ -1,0 +1,12 @@
+services:
+  claimcheck:
+    build: .
+    image: claimcheck:1.0.0
+    ports:
+      - "8501:8501"
+    env_file: .env
+    volumes:
+      - cc_data:/app/data
+    restart: unless-stopped
+volumes:
+  cc_data:

@@ -1,0 +1,7 @@
+openai>=1.40
+pydantic>=2.5
+rank_bm25==0.2.2
+numpy>=1.26
+pandas>=2.0
+streamlit>=1.36
+langfuse>=3.0

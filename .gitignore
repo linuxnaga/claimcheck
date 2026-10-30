@@ -1,0 +1,31 @@
+# secrets and local environments
+.env
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.pytest_cache/
+
+# rebuilt by scripts: answer cache, embedding indexes, local databases
+data/cache/
+data/index/
+data/*.db
+claimcheck.db
+
+# results: keep the files the report cites, ignore traces and informal check runs
+data/results/*
+!data/results/week1_strategies.csv
+!data/results/week1_failures.csv
+!data/results/retrieval_experiment.csv
+!data/results/security_report.md
+!data/results/*_summary.json
+!data/results/agent_run*.jsonl
+!data/results/single_rag_run*.jsonl
+data/results/check*
+data/results/unit*
+data/results/smoke*
+
+# shortcuts Streamlit creates for AI coding tools (machine-specific)
+.agents/
+.claude/
