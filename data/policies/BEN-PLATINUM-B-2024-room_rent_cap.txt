@@ -1,0 +1,17 @@
+PLAN BENEFIT DOCUMENT BEN-PLATINUM-B-2024-room_rent_cap
+Title: Hospital Room Rent Cap
+Plan tier: Platinum | Zone: B (large city) | Plan year: 2024 | Status: SUPERSEDED
+Effective from: 2024-01-01 | Effective until: 2024-12-31
+Version note: This version was replaced on 2025-01-01 and must not be used for current claims.
+
+1. Scope
+This document sets out the hospital room rent cap for Asteria Health Platinum plan members in zone B (large city).
+
+2. Entitlement
+Hospital room rent is covered up to ₹10,000 per day.
+
+3. Conditions
+The member pays any room charge above this cap. Day-care beds are covered up to ₹2,000 per day.
+
+4. Exclusions
+Cosmetic treatment, experimental therapy and non-medical items such as toiletries are not covered.

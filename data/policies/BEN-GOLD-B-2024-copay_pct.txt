@@ -1,0 +1,17 @@
+PLAN BENEFIT DOCUMENT BEN-GOLD-B-2024-copay_pct
+Title: Co-payment
+Plan tier: Gold | Zone: B (large city) | Plan year: 2024 | Status: SUPERSEDED
+Effective from: 2024-01-01 | Effective until: 2024-12-31
+Version note: This version was replaced on 2025-01-01 and must not be used for current claims.
+
+1. Scope
+This document sets out the co-payment for Asteria Health Gold plan members in zone B (large city).
+
+2. Entitlement
+After the deductible, the member pays 4% of the remaining eligible bill as co-payment.
+
+3. Conditions
+Members who were over 60 at enrolment pay an extra co-payment of 5%.
+
+4. Exclusions
+Cosmetic treatment, experimental therapy and non-medical items such as toiletries are not covered.

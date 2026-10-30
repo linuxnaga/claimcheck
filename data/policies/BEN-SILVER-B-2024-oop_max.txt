@@ -1,0 +1,17 @@
+PLAN BENEFIT DOCUMENT BEN-SILVER-B-2024-oop_max
+Title: Out-of-pocket Maximum
+Plan tier: Silver | Zone: B (large city) | Plan year: 2024 | Status: SUPERSEDED
+Effective from: 2024-01-01 | Effective until: 2024-12-31
+Version note: This version was replaced on 2025-01-01 and must not be used for current claims.
+
+1. Scope
+This document sets out the out-of-pocket maximum for Asteria Health Silver plan members in zone B (large city).
+
+2. Entitlement
+The member's total cost-sharing (deductible plus co-payment) is capped at ₹1,00,000 per policy year.
+
+3. Conditions
+Room charges above the room rent cap do not count towards this limit. The family floater cap is ₹1,50,000.
+
+4. Exclusions
+Cosmetic treatment, experimental therapy and non-medical items such as toiletries are not covered.

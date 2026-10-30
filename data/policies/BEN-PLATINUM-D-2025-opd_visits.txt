@@ -1,0 +1,17 @@
+PLAN BENEFIT DOCUMENT BEN-PLATINUM-D-2025-opd_visits
+Title: Outpatient Consultations
+Plan tier: Platinum | Zone: D (town) | Plan year: 2025 | Status: CURRENT
+Effective from: 2025-01-01 | Effective until: until replaced
+Version note: This is the current version. It replaced the 2024 version.
+
+1. Scope
+This document sets out the outpatient consultations for Asteria Health Platinum plan members in zone D (town).
+
+2. Entitlement
+The plan covers 24 outpatient doctor consultations per policy year.
+
+3. Conditions
+Each consultation is reimbursed up to ₹700.
+
+4. Exclusions
+Cosmetic treatment, experimental therapy and non-medical items such as toiletries are not covered.

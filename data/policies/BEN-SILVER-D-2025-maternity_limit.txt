@@ -1,0 +1,17 @@
+PLAN BENEFIT DOCUMENT BEN-SILVER-D-2025-maternity_limit
+Title: Maternity Benefit
+Plan tier: Silver | Zone: D (town) | Plan year: 2025 | Status: CURRENT
+Effective from: 2025-01-01 | Effective until: until replaced
+Version note: This is the current version. It replaced the 2024 version.
+
+1. Scope
+This document sets out the maternity benefit for Asteria Health Silver plan members in zone D (town).
+
+2. Entitlement
+Maternity expenses are covered up to ₹70,000 per delivery.
+
+3. Conditions
+Caesarean deliveries receive an extra ₹15,000.
+
+4. Exclusions
+Cosmetic treatment, experimental therapy and non-medical items such as toiletries are not covered.

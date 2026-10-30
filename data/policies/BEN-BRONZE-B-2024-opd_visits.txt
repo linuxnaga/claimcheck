@@ -1,0 +1,17 @@
+PLAN BENEFIT DOCUMENT BEN-BRONZE-B-2024-opd_visits
+Title: Outpatient Consultations
+Plan tier: Bronze | Zone: B (large city) | Plan year: 2024 | Status: SUPERSEDED
+Effective from: 2024-01-01 | Effective until: 2024-12-31
+Version note: This version was replaced on 2025-01-01 and must not be used for current claims.
+
+1. Scope
+This document sets out the outpatient consultations for Asteria Health Bronze plan members in zone B (large city).
+
+2. Entitlement
+The plan covers 6 outpatient doctor consultations per policy year.
+
+3. Conditions
+Each consultation is reimbursed up to ₹900.
+
+4. Exclusions
+Cosmetic treatment, experimental therapy and non-medical items such as toiletries are not covered.

@@ -1,0 +1,17 @@
+PLAN BENEFIT DOCUMENT BEN-GOLD-A-2025-maternity_wait
+Title: Maternity Waiting Period
+Plan tier: Gold | Zone: A (metro) | Plan year: 2025 | Status: CURRENT
+Effective from: 2025-01-01 | Effective until: until replaced
+Version note: This is the current version. It replaced the 2024 version.
+
+1. Scope
+This document sets out the maternity waiting period for Asteria Health Gold plan members in zone A (metro).
+
+2. Entitlement
+Maternity cover starts after a waiting period of 21 months from the enrolment date.
+
+3. Conditions
+Newborn baby cover starts 30 days after birth.
+
+4. Exclusions
+Cosmetic treatment, experimental therapy and non-medical items such as toiletries are not covered.

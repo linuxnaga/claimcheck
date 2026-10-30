@@ -1,0 +1,9 @@
+PROCEDURE GUIDE PROC-pre_authorisation-silver
+Title: Pre-authorisation for Planned Treatment
+Plan tier: Silver | Zone: ALL | Plan year: 2025 | Status: CURRENT
+
+Steps for Silver plan members:
+- Ask your doctor for the treatment plan and estimated cost.
+- Send the request through the network hospital or the member portal.
+- Wait for the approval letter before admission.
+- Bring the approval letter on the day of admission.

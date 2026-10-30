@@ -1,0 +1,17 @@
+PLAN BENEFIT DOCUMENT BEN-BRONZE-E-2025-dental_limit
+Title: Dental Treatment
+Plan tier: Bronze | Zone: E (rural) | Plan year: 2025 | Status: CURRENT
+Effective from: 2025-01-01 | Effective until: until replaced
+Version note: This is the current version. It replaced the 2024 version.
+
+1. Scope
+This document sets out the dental treatment for Asteria Health Bronze plan members in zone E (rural).
+
+2. Entitlement
+Dental Treatment is not covered on the Bronze plan.
+
+3. Conditions
+No conditions apply.
+
+4. Exclusions
+Cosmetic treatment, experimental therapy and non-medical items such as toiletries are not covered.

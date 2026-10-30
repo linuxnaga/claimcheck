@@ -1,0 +1,6 @@
+FAQ FAQ-general-cashless_vs_reimb
+Title: What is the difference between cashless and reimbursement claims?
+Plan tier: ALL | Zone: ALL | Plan year: 2025 | Status: CURRENT
+
+Question: What is the difference between cashless and reimbursement claims?
+Answer: Cashless claims are settled directly with a network hospital. Reimbursement claims are paid back to you after you pay the bill.

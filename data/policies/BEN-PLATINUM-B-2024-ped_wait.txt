@@ -1,0 +1,17 @@
+PLAN BENEFIT DOCUMENT BEN-PLATINUM-B-2024-ped_wait
+Title: Pre-existing Disease Waiting Period
+Plan tier: Platinum | Zone: B (large city) | Plan year: 2024 | Status: SUPERSEDED
+Effective from: 2024-01-01 | Effective until: 2024-12-31
+Version note: This version was replaced on 2025-01-01 and must not be used for current claims.
+
+1. Scope
+This document sets out the pre-existing disease waiting period for Asteria Health Platinum plan members in zone B (large city).
+
+2. Entitlement
+Pre-existing conditions declared at enrolment are covered after a waiting period of 18 months from the enrolment date.
+
+3. Conditions
+Listed illnesses such as cataract have a separate waiting period of 12 months.
+
+4. Exclusions
+Cosmetic treatment, experimental therapy and non-medical items such as toiletries are not covered.

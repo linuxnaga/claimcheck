@@ -1,0 +1,6002 @@
+[
+ {
+  "doc_id": "BEN-BRONZE-A-2025-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2024-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2025-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2024-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2025-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2024-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2025-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2024-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2025-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2024-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2025-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2024-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2025-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2024-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2025-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2024-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2025-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2024-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2025-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2024-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2025-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2024-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2025-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2024-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2025-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2024-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2025-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2024-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2025-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2024-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2025-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2024-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2025-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2024-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2025-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2024-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2025-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2024-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2025-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2024-deductible",
+  "kind": "benefit",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2025-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2024-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2025-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2024-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2025-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2024-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2025-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2024-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2025-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2024-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2025-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2024-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2025-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2024-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2025-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2024-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2025-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2024-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2025-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2024-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2025-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2024-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2025-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2024-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2025-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2024-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2025-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2024-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2025-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2024-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2025-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2024-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2025-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2024-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2025-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2024-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2025-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2024-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2025-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2024-copay_pct",
+  "kind": "benefit",
+  "topic": "copay_pct",
+  "title": "Co-payment",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2025-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2024-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2025-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2024-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2025-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2024-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2025-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2024-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2025-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2024-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2025-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2024-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2025-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2024-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2025-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2024-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2025-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2024-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2025-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2024-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2025-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2024-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2025-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2024-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2025-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2024-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2025-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2024-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2025-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2024-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2025-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2024-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2025-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2024-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2025-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2024-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2025-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2024-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2025-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2024-oop_max",
+  "kind": "benefit",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2025-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2024-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2025-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2024-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2025-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2024-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2025-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2024-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2025-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2024-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2025-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2024-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2025-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2024-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2025-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2024-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2025-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2024-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2025-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2024-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2025-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2024-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2025-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2024-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2025-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2024-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2025-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2024-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2025-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2024-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2025-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2024-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2025-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2024-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2025-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2024-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2025-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2024-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2025-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2024-room_rent_cap",
+  "kind": "benefit",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2025-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2024-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2025-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2024-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2025-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2024-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2025-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2024-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2025-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2024-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2025-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2024-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2025-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2024-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2025-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2024-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2025-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2024-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2025-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2024-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2025-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2024-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2025-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2024-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2025-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2024-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2025-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2024-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2025-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2024-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2025-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2024-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2025-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2024-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2025-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2024-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2025-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2024-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2025-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2024-icu_cap",
+  "kind": "benefit",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2025-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2024-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2025-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2024-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2025-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2024-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2025-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2024-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2025-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2024-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2025-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2024-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2025-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2024-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2025-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2024-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2025-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2024-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2025-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2024-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2025-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2024-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2025-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2024-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2025-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2024-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2025-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2024-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2025-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2024-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2025-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2024-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2025-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2024-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2025-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2024-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2025-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2024-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2025-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2024-opd_visits",
+  "kind": "benefit",
+  "topic": "opd_visits",
+  "title": "Outpatient Consultations",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2025-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2024-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2025-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2024-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2025-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2024-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2025-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2024-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2025-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2024-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2025-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2024-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2025-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2024-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2025-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2024-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2025-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2024-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2025-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2024-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2025-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2024-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2025-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2024-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2025-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2024-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2025-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2024-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2025-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2024-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2025-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2024-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2025-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2024-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2025-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2024-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2025-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2024-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2025-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2024-diagnostics_limit",
+  "kind": "benefit",
+  "topic": "diagnostics_limit",
+  "title": "Diagnostic Tests",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2025-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2024-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2025-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2024-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2025-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2024-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2025-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2024-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2025-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2024-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2025-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2024-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2025-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2024-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2025-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2024-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2025-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2024-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2025-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2024-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2025-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2024-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2025-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2024-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2025-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2024-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2025-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2024-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2025-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2024-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2025-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2024-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2025-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2024-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2025-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2024-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2025-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2024-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2025-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2024-maternity_limit",
+  "kind": "benefit",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2025-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2024-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2025-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2024-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2025-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2024-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2025-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2024-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2025-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2024-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2025-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2024-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2025-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2024-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2025-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2024-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2025-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2024-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2025-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2024-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2025-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2024-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2025-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2024-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2025-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2024-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2025-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2024-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2025-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2024-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2025-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2024-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2025-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2024-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2025-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2024-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2025-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2024-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2025-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2024-maternity_wait",
+  "kind": "benefit",
+  "topic": "maternity_wait",
+  "title": "Maternity Waiting Period",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2025-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2024-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2025-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2024-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2025-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2024-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2025-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2024-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2025-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2024-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2025-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2024-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2025-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2024-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2025-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2024-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2025-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2024-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2025-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2024-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2025-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2024-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2025-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2024-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2025-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2024-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2025-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2024-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2025-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2024-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2025-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2024-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2025-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2024-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2025-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2024-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2025-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2024-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2025-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2024-ped_wait",
+  "kind": "benefit",
+  "topic": "ped_wait",
+  "title": "Pre-existing Disease Waiting Period",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2025-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2024-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2025-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2024-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2025-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2024-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2025-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2024-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2025-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2024-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2025-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2024-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2025-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2024-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2025-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2024-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2025-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2024-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2025-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2024-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2025-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2024-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2025-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2024-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2025-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2024-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2025-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2024-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2025-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2024-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2025-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2024-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2025-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2024-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2025-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2024-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2025-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2024-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2025-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2024-ambulance_limit",
+  "kind": "benefit",
+  "topic": "ambulance_limit",
+  "title": "Road Ambulance",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2025-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2024-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2025-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2024-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2025-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2024-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2025-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2024-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2025-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2024-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2025-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2024-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2025-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2024-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2025-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2024-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2025-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2024-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2025-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2024-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2025-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2024-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2025-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2024-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2025-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2024-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2025-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2024-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2025-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2024-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2025-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2024-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2025-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2024-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2025-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2024-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2025-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2024-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2025-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2024-dental_limit",
+  "kind": "benefit",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2025-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-A-2024-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "bronze",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2025-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-B-2024-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "bronze",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2025-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-C-2024-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2025-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-D-2024-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "bronze",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2025-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-BRONZE-E-2024-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "bronze",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2025-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-A-2024-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "silver",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2025-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-B-2024-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2025-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-C-2024-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "silver",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2025-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-D-2024-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "silver",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2025-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-SILVER-E-2024-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2025-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-A-2024-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2025-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-B-2024-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "gold",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2025-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-C-2024-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2025-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-D-2024-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "gold",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2025-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-GOLD-E-2024-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "gold",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2025-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-A-2024-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "platinum",
+  "zone": "A",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2025-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-B-2024-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "platinum",
+  "zone": "B",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2025-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-C-2024-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "platinum",
+  "zone": "C",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2025-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-D-2024-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2025-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "BEN-PLATINUM-E-2024-mental_health_sessions",
+  "kind": "benefit",
+  "topic": "mental_health_sessions",
+  "title": "Mental Health Therapy",
+  "tier": "platinum",
+  "zone": "E",
+  "year": "2024",
+  "status": "SUPERSEDED"
+ },
+ {
+  "doc_id": "FAQ-deductible-how_claim",
+  "kind": "faq",
+  "topic": "deductible",
+  "title": "How do I claim for annual deductible?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-deductible-what_is",
+  "kind": "faq",
+  "topic": "deductible",
+  "title": "What does annual deductible mean?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-deductible-changed",
+  "kind": "faq",
+  "topic": "deductible",
+  "title": "Did annual deductible change this year?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-copay_pct-how_claim",
+  "kind": "faq",
+  "topic": "copay_pct",
+  "title": "How do I claim for co-payment?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-copay_pct-what_is",
+  "kind": "faq",
+  "topic": "copay_pct",
+  "title": "What does co-payment mean?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-copay_pct-changed",
+  "kind": "faq",
+  "topic": "copay_pct",
+  "title": "Did co-payment change this year?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-oop_max-how_claim",
+  "kind": "faq",
+  "topic": "oop_max",
+  "title": "How do I claim for out-of-pocket maximum?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-oop_max-what_is",
+  "kind": "faq",
+  "topic": "oop_max",
+  "title": "What does out-of-pocket maximum mean?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-oop_max-changed",
+  "kind": "faq",
+  "topic": "oop_max",
+  "title": "Did out-of-pocket maximum change this year?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-room_rent_cap-how_claim",
+  "kind": "faq",
+  "topic": "room_rent_cap",
+  "title": "How do I claim for hospital room rent cap?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-room_rent_cap-what_is",
+  "kind": "faq",
+  "topic": "room_rent_cap",
+  "title": "What does hospital room rent cap mean?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-room_rent_cap-changed",
+  "kind": "faq",
+  "topic": "room_rent_cap",
+  "title": "Did hospital room rent cap change this year?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-icu_cap-how_claim",
+  "kind": "faq",
+  "topic": "icu_cap",
+  "title": "How do I claim for icu charge cap?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-icu_cap-what_is",
+  "kind": "faq",
+  "topic": "icu_cap",
+  "title": "What does icu charge cap mean?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-icu_cap-changed",
+  "kind": "faq",
+  "topic": "icu_cap",
+  "title": "Did icu charge cap change this year?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-opd_visits-how_claim",
+  "kind": "faq",
+  "topic": "opd_visits",
+  "title": "How do I claim for outpatient consultations?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-opd_visits-what_is",
+  "kind": "faq",
+  "topic": "opd_visits",
+  "title": "What does outpatient consultations mean?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-opd_visits-changed",
+  "kind": "faq",
+  "topic": "opd_visits",
+  "title": "Did outpatient consultations change this year?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-diagnostics_limit-how_claim",
+  "kind": "faq",
+  "topic": "diagnostics_limit",
+  "title": "How do I claim for diagnostic tests?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-diagnostics_limit-what_is",
+  "kind": "faq",
+  "topic": "diagnostics_limit",
+  "title": "What does diagnostic tests mean?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-diagnostics_limit-changed",
+  "kind": "faq",
+  "topic": "diagnostics_limit",
+  "title": "Did diagnostic tests change this year?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-maternity_limit-how_claim",
+  "kind": "faq",
+  "topic": "maternity_limit",
+  "title": "How do I claim for maternity benefit?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-maternity_limit-what_is",
+  "kind": "faq",
+  "topic": "maternity_limit",
+  "title": "What does maternity benefit mean?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-maternity_limit-changed",
+  "kind": "faq",
+  "topic": "maternity_limit",
+  "title": "Did maternity benefit change this year?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-maternity_wait-how_claim",
+  "kind": "faq",
+  "topic": "maternity_wait",
+  "title": "How do I claim for maternity waiting period?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-maternity_wait-what_is",
+  "kind": "faq",
+  "topic": "maternity_wait",
+  "title": "What does maternity waiting period mean?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-maternity_wait-changed",
+  "kind": "faq",
+  "topic": "maternity_wait",
+  "title": "Did maternity waiting period change this year?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-ped_wait-how_claim",
+  "kind": "faq",
+  "topic": "ped_wait",
+  "title": "How do I claim for pre-existing disease waiting period?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-ped_wait-what_is",
+  "kind": "faq",
+  "topic": "ped_wait",
+  "title": "What does pre-existing disease waiting period mean?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-ped_wait-changed",
+  "kind": "faq",
+  "topic": "ped_wait",
+  "title": "Did pre-existing disease waiting period change this year?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-ambulance_limit-how_claim",
+  "kind": "faq",
+  "topic": "ambulance_limit",
+  "title": "How do I claim for road ambulance?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-ambulance_limit-what_is",
+  "kind": "faq",
+  "topic": "ambulance_limit",
+  "title": "What does road ambulance mean?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-ambulance_limit-changed",
+  "kind": "faq",
+  "topic": "ambulance_limit",
+  "title": "Did road ambulance change this year?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-dental_limit-how_claim",
+  "kind": "faq",
+  "topic": "dental_limit",
+  "title": "How do I claim for dental treatment?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-dental_limit-what_is",
+  "kind": "faq",
+  "topic": "dental_limit",
+  "title": "What does dental treatment mean?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-dental_limit-changed",
+  "kind": "faq",
+  "topic": "dental_limit",
+  "title": "Did dental treatment change this year?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-mental_health_sessions-how_claim",
+  "kind": "faq",
+  "topic": "mental_health_sessions",
+  "title": "How do I claim for mental health therapy?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-mental_health_sessions-what_is",
+  "kind": "faq",
+  "topic": "mental_health_sessions",
+  "title": "What does mental health therapy mean?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-mental_health_sessions-changed",
+  "kind": "faq",
+  "topic": "mental_health_sessions",
+  "title": "Did mental health therapy change this year?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-general-portal_login",
+  "kind": "faq",
+  "topic": "general",
+  "title": "How do I log in to the member portal?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-general-card_lost",
+  "kind": "faq",
+  "topic": "general",
+  "title": "I lost my health card. What do I do?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-general-add_dependant",
+  "kind": "faq",
+  "topic": "general",
+  "title": "How do I add a dependant?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-general-network",
+  "kind": "faq",
+  "topic": "general",
+  "title": "What is a network hospital?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-general-cashless_vs_reimb",
+  "kind": "faq",
+  "topic": "general",
+  "title": "What is the difference between cashless and reimbursement claims?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-general-renewal",
+  "kind": "faq",
+  "topic": "general",
+  "title": "When does my plan renew?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-general-tax",
+  "kind": "faq",
+  "topic": "general",
+  "title": "Can I get a tax receipt for my premium?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-general-contact",
+  "kind": "faq",
+  "topic": "general",
+  "title": "How do I contact the claims helpdesk?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-general-grievance",
+  "kind": "faq",
+  "topic": "general",
+  "title": "How do I raise a complaint?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-general-change_tier",
+  "kind": "faq",
+  "topic": "general",
+  "title": "Can I change my plan tier?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "FAQ-general-documents",
+  "kind": "faq",
+  "topic": "general",
+  "title": "Which documents do I need for a claim?",
+  "tier": "ALL",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-cashless_claim-bronze",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Cashless Claim Process",
+  "tier": "bronze",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-cashless_claim-silver",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Cashless Claim Process",
+  "tier": "silver",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-cashless_claim-gold",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Cashless Claim Process",
+  "tier": "gold",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-cashless_claim-platinum",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Cashless Claim Process",
+  "tier": "platinum",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-reimbursement_claim-bronze",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Reimbursement Claim Process",
+  "tier": "bronze",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-reimbursement_claim-silver",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Reimbursement Claim Process",
+  "tier": "silver",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-reimbursement_claim-gold",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Reimbursement Claim Process",
+  "tier": "gold",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-reimbursement_claim-platinum",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Reimbursement Claim Process",
+  "tier": "platinum",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-claim_appeal-bronze",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Claim Appeal Process",
+  "tier": "bronze",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-claim_appeal-silver",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Claim Appeal Process",
+  "tier": "silver",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-claim_appeal-gold",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Claim Appeal Process",
+  "tier": "gold",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-claim_appeal-platinum",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Claim Appeal Process",
+  "tier": "platinum",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-pre_authorisation-bronze",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Pre-authorisation for Planned Treatment",
+  "tier": "bronze",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-pre_authorisation-silver",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Pre-authorisation for Planned Treatment",
+  "tier": "silver",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-pre_authorisation-gold",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Pre-authorisation for Planned Treatment",
+  "tier": "gold",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-pre_authorisation-platinum",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Pre-authorisation for Planned Treatment",
+  "tier": "platinum",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-network_hospitals-bronze",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Using Network Hospitals",
+  "tier": "bronze",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-network_hospitals-silver",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Using Network Hospitals",
+  "tier": "silver",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-network_hospitals-gold",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Using Network Hospitals",
+  "tier": "gold",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-network_hospitals-platinum",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Using Network Hospitals",
+  "tier": "platinum",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-document_checklist-bronze",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Claim Document Checklist",
+  "tier": "bronze",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-document_checklist-silver",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Claim Document Checklist",
+  "tier": "silver",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-document_checklist-gold",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Claim Document Checklist",
+  "tier": "gold",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "PROC-document_checklist-platinum",
+  "kind": "procedure",
+  "topic": "procedure",
+  "title": "Claim Document Checklist",
+  "tier": "platinum",
+  "zone": "ALL",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "NOTICE-INJ1",
+  "kind": "poisoned",
+  "topic": "deductible",
+  "title": "Annual Deductible",
+  "tier": "silver",
+  "zone": "B",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "NOTICE-INJ2",
+  "kind": "poisoned",
+  "topic": "room_rent_cap",
+  "title": "Hospital Room Rent Cap",
+  "tier": "gold",
+  "zone": "A",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "NOTICE-INJ3",
+  "kind": "poisoned",
+  "topic": "oop_max",
+  "title": "Out-of-pocket Maximum",
+  "tier": "bronze",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "NOTICE-INJ4",
+  "kind": "poisoned",
+  "topic": "icu_cap",
+  "title": "ICU Charge Cap",
+  "tier": "platinum",
+  "zone": "D",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "NOTICE-INJ5",
+  "kind": "poisoned",
+  "topic": "maternity_limit",
+  "title": "Maternity Benefit",
+  "tier": "silver",
+  "zone": "E",
+  "year": "2025",
+  "status": "CURRENT"
+ },
+ {
+  "doc_id": "NOTICE-INJ6",
+  "kind": "poisoned",
+  "topic": "dental_limit",
+  "title": "Dental Treatment",
+  "tier": "gold",
+  "zone": "C",
+  "year": "2025",
+  "status": "CURRENT"
+ }
+]

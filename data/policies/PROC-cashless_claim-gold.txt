@@ -1,0 +1,9 @@
+PROCEDURE GUIDE PROC-cashless_claim-gold
+Title: Cashless Claim Process
+Plan tier: Gold | Zone: ALL | Plan year: 2025 | Status: CURRENT
+
+Steps for Gold plan members:
+- Show your health card at the network hospital help desk.
+- The hospital sends a pre-authorisation request to Asteria Health.
+- Asteria Health replies to the hospital with an approval or a query.
+- At discharge you pay only the amounts not covered by your plan.

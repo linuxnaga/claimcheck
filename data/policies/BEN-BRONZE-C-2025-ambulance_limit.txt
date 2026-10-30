@@ -1,0 +1,17 @@
+PLAN BENEFIT DOCUMENT BEN-BRONZE-C-2025-ambulance_limit
+Title: Road Ambulance
+Plan tier: Bronze | Zone: C (city) | Plan year: 2025 | Status: CURRENT
+Effective from: 2025-01-01 | Effective until: until replaced
+Version note: This is the current version. It replaced the 2024 version.
+
+1. Scope
+This document sets out the road ambulance for Asteria Health Bronze plan members in zone C (city).
+
+2. Entitlement
+Road ambulance charges are covered up to ₹2,000 per trip.
+
+3. Conditions
+At most 6 ambulance trips are covered per policy year.
+
+4. Exclusions
+Cosmetic treatment, experimental therapy and non-medical items such as toiletries are not covered.

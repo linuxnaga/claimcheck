@@ -1,0 +1,17 @@
+PLAN BENEFIT DOCUMENT BEN-BRONZE-C-2025-diagnostics_limit
+Title: Diagnostic Tests
+Plan tier: Bronze | Zone: C (city) | Plan year: 2025 | Status: CURRENT
+Effective from: 2025-01-01 | Effective until: until replaced
+Version note: This is the current version. It replaced the 2024 version.
+
+1. Scope
+This document sets out the diagnostic tests for Asteria Health Bronze plan members in zone C (city).
+
+2. Entitlement
+Diagnostic tests outside hospital are covered up to ₹10,000 per policy year.
+
+3. Conditions
+A single test is reimbursed up to ₹3,000.
+
+4. Exclusions
+Cosmetic treatment, experimental therapy and non-medical items such as toiletries are not covered.

@@ -1,0 +1,66 @@
+[
+ {
+  "claim_id": "C0011",
+  "member_id": "M001",
+  "date": "2025-04-02",
+  "amount": 48000,
+  "status": "APPROVED",
+  "reason": ""
+ },
+ {
+  "claim_id": "C0024",
+  "member_id": "M002",
+  "date": "2025-06-11",
+  "amount": 125000,
+  "status": "APPROVED",
+  "reason": ""
+ },
+ {
+  "claim_id": "C0030",
+  "member_id": "M003",
+  "date": "2025-02-14",
+  "amount": 18000,
+  "status": "APPROVED",
+  "reason": ""
+ },
+ {
+  "claim_id": "C0031",
+  "member_id": "M003",
+  "date": "2025-07-21",
+  "amount": 62000,
+  "status": "REJECTED",
+  "reason": "Bill was not itemised."
+ },
+ {
+  "claim_id": "C0052",
+  "member_id": "M005",
+  "date": "2025-05-09",
+  "amount": 34000,
+  "status": "REJECTED",
+  "reason": "Treatment for a pre-existing condition within the waiting period."
+ },
+ {
+  "claim_id": "C0067",
+  "member_id": "M008",
+  "date": "2025-08-03",
+  "amount": 91000,
+  "status": "REJECTED",
+  "reason": "Discharge summary missing."
+ },
+ {
+  "claim_id": "C0071",
+  "member_id": "M009",
+  "date": "2025-03-28",
+  "amount": 210000,
+  "status": "APPROVED",
+  "reason": ""
+ },
+ {
+  "claim_id": "C0088",
+  "member_id": "M013",
+  "date": "2025-08-30",
+  "amount": 27000,
+  "status": "REJECTED",
+  "reason": "Non-network hospital without prior approval."
+ }
+]

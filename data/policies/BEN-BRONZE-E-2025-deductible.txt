@@ -1,0 +1,17 @@
+PLAN BENEFIT DOCUMENT BEN-BRONZE-E-2025-deductible
+Title: Annual Deductible
+Plan tier: Bronze | Zone: E (rural) | Plan year: 2025 | Status: CURRENT
+Effective from: 2025-01-01 | Effective until: until replaced
+Version note: This is the current version. It replaced the 2024 version.
+
+1. Scope
+This document sets out the annual deductible for Asteria Health Bronze plan members in zone E (rural).
+
+2. Entitlement
+The member pays the first ₹20,000 of eligible hospital bills in each policy year before cost-sharing starts.
+
+3. Conditions
+Day-care procedures have a separate deductible of ₹3,000 per procedure.
+
+4. Exclusions
+Cosmetic treatment, experimental therapy and non-medical items such as toiletries are not covered.

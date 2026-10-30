@@ -1,0 +1,17 @@
+PLAN BENEFIT DOCUMENT BEN-PLATINUM-B-2025-dental_limit
+Title: Dental Treatment
+Plan tier: Platinum | Zone: B (large city) | Plan year: 2025 | Status: CURRENT
+Effective from: 2025-01-01 | Effective until: until replaced
+Version note: This is the current version. It replaced the 2024 version.
+
+1. Scope
+This document sets out the dental treatment for Asteria Health Platinum plan members in zone B (large city).
+
+2. Entitlement
+Dental treatment is covered up to ₹18,000 per policy year.
+
+3. Conditions
+Cosmetic dental work is excluded. A single extraction is covered up to ₹750.
+
+4. Exclusions
+Cosmetic treatment, experimental therapy and non-medical items such as toiletries are not covered.

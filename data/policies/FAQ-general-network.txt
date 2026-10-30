@@ -1,0 +1,6 @@
+FAQ FAQ-general-network
+Title: What is a network hospital?
+Plan tier: ALL | Zone: ALL | Plan year: 2025 | Status: CURRENT
+
+Question: What is a network hospital?
+Answer: A hospital that has an agreement with Asteria Health for cashless treatment.

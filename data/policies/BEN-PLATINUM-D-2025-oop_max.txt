@@ -1,0 +1,17 @@
+PLAN BENEFIT DOCUMENT BEN-PLATINUM-D-2025-oop_max
+Title: Out-of-pocket Maximum
+Plan tier: Platinum | Zone: D (town) | Plan year: 2025 | Status: CURRENT
+Effective from: 2025-01-01 | Effective until: until replaced
+Version note: This is the current version. It replaced the 2024 version.
+
+1. Scope
+This document sets out the out-of-pocket maximum for Asteria Health Platinum plan members in zone D (town).
+
+2. Entitlement
+The member's total cost-sharing (deductible plus co-payment) is capped at ₹45,000 per policy year.
+
+3. Conditions
+Room charges above the room rent cap do not count towards this limit. The family floater cap is ₹1,50,000.
+
+4. Exclusions
+Cosmetic treatment, experimental therapy and non-medical items such as toiletries are not covered.

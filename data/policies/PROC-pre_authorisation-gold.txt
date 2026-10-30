@@ -1,0 +1,9 @@
+PROCEDURE GUIDE PROC-pre_authorisation-gold
+Title: Pre-authorisation for Planned Treatment
+Plan tier: Gold | Zone: ALL | Plan year: 2025 | Status: CURRENT
+
+Steps for Gold plan members:
+- Ask your doctor for the treatment plan and estimated cost.
+- Send the request through the network hospital or the member portal.
+- Wait for the approval letter before admission.
+- Bring the approval letter on the day of admission.

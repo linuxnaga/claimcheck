@@ -1,0 +1,9 @@
+strategy,question_type,n,accuracy,valid_json_first_try,avg_tokens
+closed_book,fact,30,0.1,1.0,190
+closed_book,cost_calc,8,0.0,1.0,270
+fewshot_json,fact,30,1.0,1.0,692
+fewshot_json,cost_calc,8,0.125,1.0,1205
+cot_sc,fact,30,1.0,1.0,1036
+cot_sc,cost_calc,8,0.125,1.0,2398
+decompose,fact,30,1.0,1.0,480
+decompose,cost_calc,8,0.0,1.0,1392

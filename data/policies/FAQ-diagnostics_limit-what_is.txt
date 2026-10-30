@@ -1,0 +1,6 @@
+FAQ FAQ-diagnostics_limit-what_is
+Title: What does diagnostic tests mean?
+Plan tier: ALL | Zone: ALL | Plan year: 2025 | Status: CURRENT
+
+Question: What does diagnostic tests mean?
+Answer: It is one of the benefits in every Asteria Health plan. The exact amount is set in the benefit document for your plan tier and zone.

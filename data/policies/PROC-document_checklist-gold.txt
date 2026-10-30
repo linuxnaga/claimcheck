@@ -1,0 +1,9 @@
+PROCEDURE GUIDE PROC-document_checklist-gold
+Title: Claim Document Checklist
+Plan tier: Gold | Zone: ALL | Plan year: 2025 | Status: CURRENT
+
+Steps for Gold plan members:
+- Original bills and payment receipts.
+- Prescriptions and investigation reports.
+- Discharge summary signed by the treating doctor.
+- A copy of your health card and photo identity.

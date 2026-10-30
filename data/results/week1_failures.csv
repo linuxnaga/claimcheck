@@ -1,0 +1,58 @@
+strategy,question_type,question,gold,model_value
+closed_book,fact,"Hi, what is the yearly dental limit on the Platinum plan in zone E?",18000,50000.0
+closed_book,fact,Please tell me: what is the annual deductible on the Silver plan in zone E?,15000,4500.0
+closed_book,fact,"Hi, how many outpatient consultations per year does the Bronze plan in zone D cover?",8,10.0
+closed_book,fact,"Hi, what is the hospital room rent cap per day on the Bronze plan in zone A?",3000,5000.0
+closed_book,fact,"Hi, what is the annual deductible on the Silver plan in zone A?",17500,4500.0
+closed_book,fact,What is the hospital room rent cap per day on the Platinum plan in zone E?,10500,4500.0
+closed_book,fact,What is the yearly dental limit on the Platinum plan in zone C?,18000,15000.0
+closed_book,fact,"What is the pre-existing disease waiting period, in months, on the Silver plan in zone C?",42,6.0
+closed_book,fact,"Hi, what is the out-of-pocket maximum per year on the Silver plan in zone A?",105000,50000.0
+closed_book,fact,Please tell me: what is the out-of-pocket maximum per year on the Gold plan in zone B?,70000,50000.0
+closed_book,fact,What is the yearly limit for diagnostic tests on the Gold plan in zone C?,28000,50000.0
+closed_book,fact,"Quick question: how long is the maternity waiting period, in months, on the Gold plan in zone C?",21,6.0
+closed_book,fact,"Quick question: how long is the maternity waiting period, in months, on the Gold plan in zone E?",15,6.0
+closed_book,fact,I need to know: what is the ICU cap per day on the Platinum plan in zone E?,24000,5000.0
+closed_book,fact,"Hi, what is the yearly limit for diagnostic tests on the Platinum plan in zone D?",37000,50000.0
+closed_book,fact,Quick question: how many outpatient consultations per year does the Gold plan in zone B cover?,16,10.0
+closed_book,fact,"Hi, how much does the Silver plan in zone D pay per ambulance trip?",3250,5000.0
+closed_book,fact,Quick question: how much does the Gold plan in zone B pay per ambulance trip?,3500,5000.0
+closed_book,fact,"Please tell me: what is the pre-existing disease waiting period, in months, on the Platinum plan in zone E?",12,6.0
+closed_book,fact,"Hi, what is the ICU cap per day on the Silver plan in zone E?",13000,5000.0
+closed_book,fact,Quick question: how many mental health therapy sessions per year does the Gold plan in zone D cover?,14,20.0
+closed_book,fact,What co-payment percentage applies on the Bronze plan in zone B?,24,20.0
+closed_book,fact,How much maternity cover per delivery does the Platinum plan in zone B give?,135000,50000.0
+closed_book,fact,What is the annual deductible on the Bronze plan in zone D?,20000,35000.0
+closed_book,fact,I need to know: what is the yearly dental limit on the Bronze plan in zone A?,0,5000.0
+closed_book,fact,What is the hospital room rent cap per day on the Platinum plan in zone D?,10500,4500.0
+closed_book,fact,What is the hospital room rent cap per day on the Gold plan in zone C?,9000,3000.0
+closed_book,cost_calc,"My hospital bill is ₹75,000 with no room charges. What will I pay?",21675,25000.0
+closed_book,cost_calc,"I have a ₹90,000 hospital bill with 3 days in a ₹8,000 per day room. How much will I pay?",17750,74000.0
+closed_book,cost_calc,"I have a ₹45,000 hospital bill with 5 days in a ₹10,500 per day room. How much will I pay?",35685,36000.0
+closed_book,cost_calc,"My hospital bill is ₹45,000 with no room charges. What will I pay?",1800,13500.0
+closed_book,cost_calc,"I have a ₹1,30,000 hospital bill with 1 day in a ₹7,500 per day room. How much will I pay?",22000,62500.0
+closed_book,cost_calc,"I have a ₹2,15,000 hospital bill with 4 days in a ₹7,000 per day room. How much will I pay?",84500,140000.0
+closed_book,cost_calc,"My hospital bill is ₹1,95,000 with no room charges. What will I pay?",21450,65000.0
+closed_book,cost_calc,"I have a ₹80,000 hospital bill with 1 day in a ₹8,000 per day room. How much will I pay?",27200,72000.0
+fewshot_json,cost_calc,"My hospital bill is ₹75,000 with no room charges. What will I pay?",21675,28000.0
+fewshot_json,cost_calc,"I have a ₹90,000 hospital bill with 3 days in a ₹8,000 per day room. How much will I pay?",17750,10000.0
+fewshot_json,cost_calc,"I have a ₹45,000 hospital bill with 5 days in a ₹10,500 per day room. How much will I pay?",35685,18000.0
+fewshot_json,cost_calc,"I have a ₹1,30,000 hospital bill with 1 day in a ₹7,500 per day room. How much will I pay?",22000,5500.0
+fewshot_json,cost_calc,"I have a ₹2,15,000 hospital bill with 4 days in a ₹7,000 per day room. How much will I pay?",84500,125000.0
+fewshot_json,cost_calc,"My hospital bill is ₹1,95,000 with no room charges. What will I pay?",21450,28910.0
+fewshot_json,cost_calc,"I have a ₹80,000 hospital bill with 1 day in a ₹8,000 per day room. How much will I pay?",27200,19000.0
+cot_sc,cost_calc,"My hospital bill is ₹75,000 with no room charges. What will I pay?",21675,28500.0
+cot_sc,cost_calc,"I have a ₹90,000 hospital bill with 3 days in a ₹8,000 per day room. How much will I pay?",17750,14000.0
+cot_sc,cost_calc,"I have a ₹45,000 hospital bill with 5 days in a ₹10,500 per day room. How much will I pay?",35685,18500.0
+cot_sc,cost_calc,"I have a ₹1,30,000 hospital bill with 1 day in a ₹7,500 per day room. How much will I pay?",22000,8300.0
+cot_sc,cost_calc,"I have a ₹2,15,000 hospital bill with 4 days in a ₹7,000 per day room. How much will I pay?",84500,8500.0
+cot_sc,cost_calc,"My hospital bill is ₹1,95,000 with no room charges. What will I pay?",21450,4500.0
+cot_sc,cost_calc,"I have a ₹80,000 hospital bill with 1 day in a ₹8,000 per day room. How much will I pay?",27200,28000.0
+decompose,cost_calc,"My hospital bill is ₹75,000 with no room charges. What will I pay?",21675,18000.0
+decompose,cost_calc,"I have a ₹90,000 hospital bill with 3 days in a ₹8,000 per day room. How much will I pay?",17750,17500.0
+decompose,cost_calc,"I have a ₹45,000 hospital bill with 5 days in a ₹10,500 per day room. How much will I pay?",35685,28500.0
+decompose,cost_calc,"My hospital bill is ₹45,000 with no room charges. What will I pay?",1800,18000.0
+decompose,cost_calc,"I have a ₹1,30,000 hospital bill with 1 day in a ₹7,500 per day room. How much will I pay?",22000,4500.0
+decompose,cost_calc,"I have a ₹2,15,000 hospital bill with 4 days in a ₹7,000 per day room. How much will I pay?",84500,195000.0
+decompose,cost_calc,"My hospital bill is ₹1,95,000 with no room charges. What will I pay?",21450,14000.0
+decompose,cost_calc,"I have a ₹80,000 hospital bill with 1 day in a ₹8,000 per day room. How much will I pay?",27200,24000.0

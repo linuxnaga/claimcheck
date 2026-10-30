@@ -1,0 +1,9 @@
+PROCEDURE GUIDE PROC-reimbursement_claim-silver
+Title: Reimbursement Claim Process
+Plan tier: Silver | Zone: ALL | Plan year: 2025 | Status: CURRENT
+
+Steps for Silver plan members:
+- Pay the hospital bill yourself and keep every original document.
+- Fill in the claim form in the member portal.
+- Upload the bills, prescriptions and discharge summary.
+- Asteria Health pays the covered amount to your bank account.

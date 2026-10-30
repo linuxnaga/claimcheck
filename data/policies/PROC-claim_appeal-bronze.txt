@@ -1,0 +1,9 @@
+PROCEDURE GUIDE PROC-claim_appeal-bronze
+Title: Claim Appeal Process
+Plan tier: Bronze | Zone: ALL | Plan year: 2025 | Status: CURRENT
+
+Steps for Bronze plan members:
+- Read the reason given in the rejection letter.
+- Collect any missing documents, such as an itemised bill.
+- Raise an appeal in the member portal and attach the documents.
+- A claims reviewer checks the appeal and replies in writing.

@@ -1,0 +1,17 @@
+PLAN BENEFIT DOCUMENT BEN-PLATINUM-C-2024-deductible
+Title: Annual Deductible
+Plan tier: Platinum | Zone: C (city) | Plan year: 2024 | Status: SUPERSEDED
+Effective from: 2024-01-01 | Effective until: 2024-12-31
+Version note: This version was replaced on 2025-01-01 and must not be used for current claims.
+
+1. Scope
+This document sets out the annual deductible for Asteria Health Platinum plan members in zone C (city).
+
+2. Entitlement
+The member pays the first ₹2,500 of eligible hospital bills in each policy year before cost-sharing starts.
+
+3. Conditions
+Day-care procedures have a separate deductible of ₹5,000 per procedure.
+
+4. Exclusions
+Cosmetic treatment, experimental therapy and non-medical items such as toiletries are not covered.

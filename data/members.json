@@ -1,0 +1,213 @@
+[
+ {
+  "member_id": "M001",
+  "name": "Asha Rao",
+  "tier": "gold",
+  "zone": "A",
+  "enrolment_date": "2021-03-15",
+  "pre_existing": [],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 0,
+  "opd_visits_used_ytd": 3,
+  "email": "asha.rao@example.com",
+  "phone": "+91 98450 11001"
+ },
+ {
+  "member_id": "M002",
+  "name": "Vikram Shah",
+  "tier": "platinum",
+  "zone": "A",
+  "enrolment_date": "2019-07-01",
+  "pre_existing": [
+   "hypertension"
+  ],
+  "deductible_met_ytd": 2500,
+  "oop_used_ytd": 4000,
+  "opd_visits_used_ytd": 10,
+  "email": "vikram.shah@example.com",
+  "phone": "+91 98450 11002"
+ },
+ {
+  "member_id": "M003",
+  "name": "Ravi Menon",
+  "tier": "silver",
+  "zone": "B",
+  "enrolment_date": "2023-11-01",
+  "pre_existing": [
+   "diabetes"
+  ],
+  "deductible_met_ytd": 4000,
+  "oop_used_ytd": 12000,
+  "opd_visits_used_ytd": 5,
+  "email": "ravi.menon@example.com",
+  "phone": "+91 98450 11003"
+ },
+ {
+  "member_id": "M004",
+  "name": "Priya Nair",
+  "tier": "bronze",
+  "zone": "C",
+  "enrolment_date": "2024-12-10",
+  "pre_existing": [],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 0,
+  "opd_visits_used_ytd": 1,
+  "email": "priya.nair@example.com",
+  "phone": "+91 98450 11004"
+ },
+ {
+  "member_id": "M005",
+  "name": "Arjun Iyer",
+  "tier": "gold",
+  "zone": "D",
+  "enrolment_date": "2025-02-01",
+  "pre_existing": [
+   "asthma"
+  ],
+  "deductible_met_ytd": 5000,
+  "oop_used_ytd": 9000,
+  "opd_visits_used_ytd": 4,
+  "email": "arjun.iyer@example.com",
+  "phone": "+91 98450 11005"
+ },
+ {
+  "member_id": "M006",
+  "name": "Meera Pillai",
+  "tier": "silver",
+  "zone": "E",
+  "enrolment_date": "2024-06-20",
+  "pre_existing": [],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 0,
+  "opd_visits_used_ytd": 2,
+  "email": "meera.pillai@example.com",
+  "phone": "+91 98450 11006"
+ },
+ {
+  "member_id": "M007",
+  "name": "Karan Malhotra",
+  "tier": "platinum",
+  "zone": "B",
+  "enrolment_date": "2022-09-05",
+  "pre_existing": [
+   "thyroid disorder"
+  ],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 0,
+  "opd_visits_used_ytd": 6,
+  "email": "karan.m@example.com",
+  "phone": "+91 98450 11007"
+ },
+ {
+  "member_id": "M008",
+  "name": "Sneha Kulkarni",
+  "tier": "bronze",
+  "zone": "E",
+  "enrolment_date": "2023-04-18",
+  "pre_existing": [
+   "hypertension"
+  ],
+  "deductible_met_ytd": 10000,
+  "oop_used_ytd": 26000,
+  "opd_visits_used_ytd": 4,
+  "email": "sneha.k@example.com",
+  "phone": "+91 98450 11008"
+ },
+ {
+  "member_id": "M009",
+  "name": "Rahul Verma",
+  "tier": "gold",
+  "zone": "B",
+  "enrolment_date": "2020-01-12",
+  "pre_existing": [],
+  "deductible_met_ytd": 7500,
+  "oop_used_ytd": 31000,
+  "opd_visits_used_ytd": 9,
+  "email": "rahul.verma@example.com",
+  "phone": "+91 98450 11009"
+ },
+ {
+  "member_id": "M010",
+  "name": "Divya Reddy",
+  "tier": "silver",
+  "zone": "C",
+  "enrolment_date": "2025-01-15",
+  "pre_existing": [
+   "diabetes"
+  ],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 0,
+  "opd_visits_used_ytd": 1,
+  "email": "divya.reddy@example.com",
+  "phone": "+91 98450 11010"
+ },
+ {
+  "member_id": "M011",
+  "name": "Imran Qureshi",
+  "tier": "platinum",
+  "zone": "E",
+  "enrolment_date": "2018-04-02",
+  "pre_existing": [],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 2000,
+  "opd_visits_used_ytd": 12,
+  "email": "imran.q@example.com",
+  "phone": "+91 98450 11011"
+ },
+ {
+  "member_id": "M012",
+  "name": "Lakshmi Das",
+  "tier": "bronze",
+  "zone": "A",
+  "enrolment_date": "2025-08-01",
+  "pre_existing": [],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 0,
+  "opd_visits_used_ytd": 0,
+  "email": "lakshmi.das@example.com",
+  "phone": "+91 98450 11012"
+ },
+ {
+  "member_id": "M013",
+  "name": "Farah Khan",
+  "tier": "silver",
+  "zone": "D",
+  "enrolment_date": "2024-03-01",
+  "pre_existing": [
+   "asthma"
+  ],
+  "deductible_met_ytd": 2000,
+  "oop_used_ytd": 3500,
+  "opd_visits_used_ytd": 3,
+  "email": "farah.khan@example.com",
+  "phone": "+91 98450 11013"
+ },
+ {
+  "member_id": "M014",
+  "name": "Suresh Gupta",
+  "tier": "gold",
+  "zone": "E",
+  "enrolment_date": "2023-10-31",
+  "pre_existing": [
+   "arthritis"
+  ],
+  "deductible_met_ytd": 0,
+  "oop_used_ytd": 0,
+  "opd_visits_used_ytd": 7,
+  "email": "suresh.gupta@example.com",
+  "phone": "+91 98450 11014"
+ },
+ {
+  "member_id": "M015",
+  "name": "Ananya Bose",
+  "tier": "bronze",
+  "zone": "D",
+  "enrolment_date": "2022-11-30",
+  "pre_existing": [],
+  "deductible_met_ytd": 12500,
+  "oop_used_ytd": 40000,
+  "opd_visits_used_ytd": 5,
+  "email": "ananya.bose@example.com",
+  "phone": "+91 98450 11015"
+ }
+]

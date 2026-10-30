@@ -1,0 +1,17 @@
+PLAN BENEFIT DOCUMENT BEN-GOLD-B-2024-diagnostics_limit
+Title: Diagnostic Tests
+Plan tier: Gold | Zone: B (large city) | Plan year: 2024 | Status: SUPERSEDED
+Effective from: 2024-01-01 | Effective until: 2024-12-31
+Version note: This version was replaced on 2025-01-01 and must not be used for current claims.
+
+1. Scope
+This document sets out the diagnostic tests for Asteria Health Gold plan members in zone B (large city).
+
+2. Entitlement
+Diagnostic tests outside hospital are covered up to ₹27,000 per policy year.
+
+3. Conditions
+A single test is reimbursed up to ₹4,000.
+
+4. Exclusions
+Cosmetic treatment, experimental therapy and non-medical items such as toiletries are not covered.

@@ -1,0 +1,9 @@
+PROCEDURE GUIDE PROC-document_checklist-platinum
+Title: Claim Document Checklist
+Plan tier: Platinum | Zone: ALL | Plan year: 2025 | Status: CURRENT
+
+Steps for Platinum plan members:
+- Original bills and payment receipts.
+- Prescriptions and investigation reports.
+- Discharge summary signed by the treating doctor.
+- A copy of your health card and photo identity.

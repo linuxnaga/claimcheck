@@ -1,0 +1,17 @@
+PLAN BENEFIT DOCUMENT BEN-SILVER-E-2025-ped_wait
+Title: Pre-existing Disease Waiting Period
+Plan tier: Silver | Zone: E (rural) | Plan year: 2025 | Status: CURRENT
+Effective from: 2025-01-01 | Effective until: until replaced
+Version note: This is the current version. It replaced the 2024 version.
+
+1. Scope
+This document sets out the pre-existing disease waiting period for Asteria Health Silver plan members in zone E (rural).
+
+2. Entitlement
+Pre-existing conditions declared at enrolment are covered after a waiting period of 36 months from the enrolment date.
+
+3. Conditions
+Listed illnesses such as cataract have a separate waiting period of 24 months.
+
+4. Exclusions
+Cosmetic treatment, experimental therapy and non-medical items such as toiletries are not covered.

@@ -1,0 +1,17 @@
+PLAN BENEFIT DOCUMENT BEN-SILVER-E-2025-copay_pct
+Title: Co-payment
+Plan tier: Silver | Zone: E (rural) | Plan year: 2025 | Status: CURRENT
+Effective from: 2025-01-01 | Effective until: until replaced
+Version note: This is the current version. It replaced the 2024 version.
+
+1. Scope
+This document sets out the co-payment for Asteria Health Silver plan members in zone E (rural).
+
+2. Entitlement
+After the deductible, the member pays 15% of the remaining eligible bill as co-payment.
+
+3. Conditions
+Members who were over 60 at enrolment pay an extra co-payment of 10%.
+
+4. Exclusions
+Cosmetic treatment, experimental therapy and non-medical items such as toiletries are not covered.

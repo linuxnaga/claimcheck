@@ -1,0 +1,6 @@
+FAQ FAQ-general-portal_login
+Title: How do I log in to the member portal?
+Plan tier: ALL | Zone: ALL | Plan year: 2025 | Status: CURRENT
+
+Question: How do I log in to the member portal?
+Answer: Use your member id and the one-time code sent to your phone.

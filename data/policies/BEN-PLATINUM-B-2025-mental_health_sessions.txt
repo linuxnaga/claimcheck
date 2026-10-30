@@ -1,0 +1,17 @@
+PLAN BENEFIT DOCUMENT BEN-PLATINUM-B-2025-mental_health_sessions
+Title: Mental Health Therapy
+Plan tier: Platinum | Zone: B (large city) | Plan year: 2025 | Status: CURRENT
+Effective from: 2025-01-01 | Effective until: until replaced
+Version note: This is the current version. It replaced the 2024 version.
+
+1. Scope
+This document sets out the mental health therapy for Asteria Health Platinum plan members in zone B (large city).
+
+2. Entitlement
+The plan covers 20 therapy sessions with a registered mental health professional per policy year.
+
+3. Conditions
+Each session is reimbursed up to ₹1,000.
+
+4. Exclusions
+Cosmetic treatment, experimental therapy and non-medical items such as toiletries are not covered.

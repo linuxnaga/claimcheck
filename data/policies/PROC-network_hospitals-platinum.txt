@@ -1,0 +1,9 @@
+PROCEDURE GUIDE PROC-network_hospitals-platinum
+Title: Using Network Hospitals
+Plan tier: Platinum | Zone: ALL | Plan year: 2025 | Status: CURRENT
+
+Steps for Platinum plan members:
+- Search the hospital list in the member portal.
+- Check that the hospital is in the network for your zone.
+- Call the hospital help desk to confirm cashless facility.
+- Use a non-network hospital only for reimbursement claims.

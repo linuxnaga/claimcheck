@@ -1,0 +1,17 @@
+PLAN BENEFIT DOCUMENT BEN-GOLD-A-2024-icu_cap
+Title: ICU Charge Cap
+Plan tier: Gold | Zone: A (metro) | Plan year: 2024 | Status: SUPERSEDED
+Effective from: 2024-01-01 | Effective until: 2024-12-31
+Version note: This version was replaced on 2025-01-01 and must not be used for current claims.
+
+1. Scope
+This document sets out the icu charge cap for Asteria Health Gold plan members in zone A (metro).
+
+2. Entitlement
+Intensive care (ICU) charges are covered up to ₹17,000 per day.
+
+3. Conditions
+Step-down (high dependency) beds are covered up to ₹5,000 per day.
+
+4. Exclusions
+Cosmetic treatment, experimental therapy and non-medical items such as toiletries are not covered.
