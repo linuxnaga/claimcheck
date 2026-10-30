@@ -75,7 +75,66 @@ With oracle filters (correct tier, zone, topic, year) every setup scores 1.0 at 
 name, so BM25 puts an FAQ first for 33 of 37 fact questions. FAQs are tagged tier "ALL", so the planner's filters
 remove them. **This is the evidence for a planner that extracts tier and zone.**
 
-## Week 3 preview: the agent on the real model
+## Week 3: official evaluation (`results/agent_run*_summary.json`, `results/single_rag_run*_summary.json`)
+
+98 items, eval-v1, 3 runs each, `USE_CACHE=0`, Qwen2.5-7B at temperature 0, local bge-small embeddings.
+Run on 2026-10-30, 17:29 to 18:35. Every metric except latency had **zero spread** across the 3 runs: at
+temperature 0 the endpoint answers the same way every time.
+
+### Ablation: single prompt against the full agent
+
+| Metric | Single RAG (1 search, 1 call) | Full agent | What to say |
+| --- | --- | --- | --- |
+| Accuracy overall | 65.3% | **99.0%** | +33.7 points |
+| Accuracy on fact | 97.3% | 97.3% | Retrieval plus the writer is enough for plain facts |
+| Accuracy on cost_calc / waiting_calc | 0% / 16.7% | **100% / 100%** | The single prompt cannot run the calculator or the waiting-period checker |
+| Accuracy on member_fact | 16.7% | **100%** | It cannot look up the profile, so it guesses the member's plan |
+| Accuracy on version | 0% | **100%** | It only searches current documents; the agent's planner passes year 2024 |
+| Accuracy on appeal | 0% | **100%** | No tool to create a draft |
+| Accuracy on refuse / injection / clarify | 100% | 100% | The code guard runs in both, so safety does not depend on the agent |
+| Citation accuracy | 57.3% | 98.7% | |
+| Injected ₹99,999 returned | 0 | 0 | |
+| Average tokens per question | 962 | 3,163 | The agent costs 3.3x the tokens |
+| Average / p95 latency | 2.7 s / 2.5 s | 10.6 s / 44.2 s | The price of the extra steps (see latency below) |
+
+### Targets from the specification
+
+| Target | Result | Met? |
+| --- | --- | --- |
+| Overall accuracy ≥ 75% | 99.0% | Yes |
+| cost_calc + waiting_calc ≥ 85% | 100% | Yes |
+| refuse + injection 100% | 100% | Yes |
+| Injected value returned = 0 | 0 | Yes |
+| Citation accuracy ≥ 85% | 98.7% | Yes |
+| recall@5 ≥ 90% (best setup, no filters) | 100% | Yes |
+| Task completion ≥ 90% | 98.0% | Yes |
+| p95 latency ≤ 30 s | 44.2 s | **No** |
+
+**Latency:** 17 of 98 agent questions took over 30 s, but they did the same work as the fast ones (2 steps,
+about 3,600 tokens). The time is spent waiting on the shared endpoint (HTTP 429 back-off and queueing), not
+on extra agent steps. Median latency is 4.5 s.
+
+### Failure taxonomy (checked by hand)
+
+Agent, every run: 1 wrong answer out of 98.
+
+| Category | Count | Real example | What we did |
+| --- | --- | --- | --- |
+| control: critic_failed | 1 | fact-002 (Silver zone E deductible): the answer ₹15,000 was right, the code critic passed it, but the model support check rejected it 3 times ("without specifying the unit") and the agent escalated | Kept as a known limit (fixing it mid-evaluation would void the runs). Proposed fix: when the code critic passes, the model check may warn but not block |
+| control: loop_detected (answer still correct) | 1 | version-006: a repeated search was refused, the run recovered | None needed; counts against task completion only |
+| retrieval_miss, reasoning_error, tool_call_error, hallucination | 0 | | |
+
+Single prompt, every run: 34 wrong. The rule labels said 26 retrieval_miss and 8 reasoning_error; reading all
+34 rows, we corrected them to the real cause:
+
+| Corrected category | Count | Real example |
+| --- | --- | --- |
+| No tool: needs the calculator, the checker or the appeal tool (12 cost, 5 waiting, 3 appeal) | 20 | cost_calc-001: "you will not have to pay anything" on a ₹75,000 bill (correct: ₹21,675) |
+| Hallucination: guesses the member's plan with no profile lookup (member_fact) | 5 | member_fact-002: answers for Silver zone B; the member is on a different plan (₹6,500 given, ₹10,500 correct) |
+| retrieval_miss: 2024 documents are never searched | 8 | version-002: gives the 2025 value (36 months) as the 2024 one (24 months) |
+| reasoning_error | 1 | fact-014: the right document was retrieved but the model said no document matched |
+
+## Before the official runs: the agent on the real model
 
 A 20-question mixed check (`results/check_run1.jsonl`) scored 14/20. Every failure was fixed and re-checked:
 
@@ -95,7 +154,7 @@ Cost on the real model: about 2,300 tokens and 7 s per question; p95 latency 18 
 
 | What we did | Why the 7B model needed it | Evidence |
 | --- | --- | --- |
-| Calculator tool does every sum | 0–12.5% bill accuracy without it, 100% (2/2) with it | Week 1 table; `check_run1` cost_calc |
+| Calculator tool does every sum | 0–12.5% bill accuracy without it (Week 1); 0% single prompt vs 100% agent (Week 3) | `week1_strategies.csv`; agent and single_rag summaries |
 | Retrieval with citations | 10% fact accuracy closed-book, 100% with the right document | Week 1 table |
 | Planner extracts tier and zone as filters | Unfiltered keyword top-1 is an FAQ 33 of 37 times | Week 2 diagnosis |
 | Code guard for refusals and injection | 100% of refuse, injection_user and clarify items, with no model call | `check_run1` summary |
@@ -104,7 +163,9 @@ Cost on the real model: about 2,300 tokens and 7 s per question; p95 latency 18 
 
 ## Viva practice: questions you can now answer with numbers
 
-- *Why a calculator tool?* Week 1: even the best prompt got 1 of 8 bills right.
+- *Why a calculator tool?* Week 1: even the best prompt got 1 of 8 bills right; Week 3: single prompt 0%, agent 100%.
+- *Is the agent worth 3.3x the tokens?* 65.3% → 99.0% accuracy; on member, cost, version and appeal questions it is the only thing that works.
+- *Why is p95 latency 44 s?* Endpoint waiting (429 back-off), not extra steps: slow questions used the same 2 steps.
 - *Why hybrid search?* Sections: keyword recall@1 0.022, dense 0.822, hybrid 0.911.
 - *Did the reranker help?* No: recall@1 dropped to 0.600. Explain the near-twin documents.
 - *Why does the planner extract filters?* With oracle filters recall is 1.0; without, an FAQ wins.

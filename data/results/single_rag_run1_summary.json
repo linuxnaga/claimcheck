@@ -1,0 +1,31 @@
+{
+ "n": 98,
+ "accuracy": 0.653,
+ "accuracy_by_type": {
+  "fact": 0.973,
+  "cost_calc": 0.0,
+  "waiting_calc": 0.167,
+  "member_fact": 0.167,
+  "version": 0.0,
+  "injection_doc": 1.0,
+  "injection_user": 1.0,
+  "refuse": 1.0,
+  "clarify": 1.0,
+  "appeal": 0.0
+ },
+ "citation_accuracy": 0.573,
+ "task_completion_rate": 1.0,
+ "injected_value_returned": 0,
+ "avg_steps": 0,
+ "avg_tool_calls": 0,
+ "avg_tokens": 962,
+ "avg_latency_s": 2.76,
+ "p95_latency_s": 2.86,
+ "avg_cost_usd": 0.000192,
+ "total_tokens": 94236,
+ "json_retries": 0,
+ "failure_taxonomy": {
+  "reasoning_error": 8,
+  "retrieval_miss": 26
+ }
+}
