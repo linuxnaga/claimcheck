@@ -61,7 +61,8 @@ Specification: [ClaimDesk spec](https://claude.ai/artifact/NWvSYPJBZAhQ3ANFM2TVq
 python scripts/build_claims.py                         # members, hospitals, codes, 800 past claims, test + dev claims
 python scripts/decide_claim.py CL2001                  # one claim, with every agent's tool calls
 python scripts/run_claimdesk_eval.py --system full     # 33 dev claims (tune prompts here, never on test)
-python -m streamlit run app/claimdesk_app.py           # reviewer app
+python scripts/make_claim_pdfs.py --free-layout       # claim PDFs to upload -> data/claims/pdf/dev/
+python -m streamlit run app/claimdesk_app.py           # reviewer app: upload a claim PDF, or pick a dev claim
 ```
 
 | Code | What it does |
@@ -72,4 +73,5 @@ python -m streamlit run app/claimdesk_app.py           # reviewer app
 | `src/claimdesk/rules.py` | Hard decision rules in code; the gold labels use the same rules |
 | `src/claimdesk/orchestrator.py` | Intake, then 3 specialists in parallel, rules, Adjudicator, letter, draft store |
 | `src/claimdesk/baselines.py` | System A (one prompt) and B (one agent, all tools) |
+| `src/claimdesk/pdf_claims.py` | Claim PDFs: write packets, read an upload (form rules, else the model), check every value |
 | `src/claimdesk/evaluate.py` | Scoring, ablation systems A-D, failure taxonomy |

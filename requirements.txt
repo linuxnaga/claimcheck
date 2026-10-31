@@ -5,3 +5,5 @@ numpy>=1.26
 pandas>=2.0
 streamlit>=1.36
 langfuse>=3.0
+pypdf>=4.0
+fpdf2>=2.7

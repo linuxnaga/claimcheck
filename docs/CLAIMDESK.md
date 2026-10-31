@@ -24,6 +24,24 @@ Specification: https://claude.ai/artifact/NWvSYPJBZAhQ3ANFM2TVq8
 A specialist that fails (bad JSON twice, endpoint error, step cap, token budget) makes the claim **pend** for a
 human; ClaimDesk never guesses.
 
+## Claims uploaded as PDF
+
+`src/claimdesk/pdf_claims.py` turns an uploaded PDF into the same claim dict the JSON claims use, so every agent,
+rule and check runs unchanged.
+
+1. A packet has a **claim form** page (ids, dates, diagnosis, one `Line N | category | amount | description` row
+   per charge) and, when sent, an **ITEMISED BILL** page and a **DISCHARGE SUMMARY** page. The documents received
+   are the pages found, so a packet without its bill pends at Intake like any other.
+2. The claim form layout is read with rules (no model call). Any other layout (a hospital letter, say) goes to the
+   model, which copies the fields into a Pydantic schema; the PDF text is marked as data, never instructions.
+3. Every value is checked against the member, hospital, diagnosis and procedure tables (and room days x rate).
+   The app shows what was read in an editable table and will not decide until the problems are fixed.
+4. Bill descriptions still go through the same injection guard before any agent sees them.
+
+Checks: all 183 dev and test claims survive PDF -> claim exactly; 5 hospital-letter PDFs read by the live model
+had every id, date, code and amount right (only the descriptions were reworded). Scanned PDFs (images, no text)
+are refused: OCR is not supported.
+
 ## Why the gold labels are trustworthy
 
 `gen.py` builds each claim for a case type, computes its gold decision with the same tools and rules

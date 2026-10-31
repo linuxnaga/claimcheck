@@ -6,6 +6,9 @@
   150 test claims (11 case types) and 33 dev claims, all with gold labels from the hard rules.
 - Hard rules in code decide the amount; rejections must be backed by a tool result; medical lines can only be
   left out by Coding. Drafts wait for a human (Confirm, Change amount, Reject draft).
+- Claims can be uploaded as PDF (`pdf_claims.py`, new dependencies `pypdf` and `fpdf2`). The claim form layout is
+  read by rules; any other layout by the model. Documents received are the pages found. Every value is checked
+  against the tables and shown for correction before deciding; scanned (image-only) PDFs are refused.
 - Baselines A (one prompt) and B (one agent, all tools) for the ablation; reviewer app `app/claimdesk_app.py`.
 - 19 new tests, including a fake model that plays every role correctly on all 150 claims.
 
